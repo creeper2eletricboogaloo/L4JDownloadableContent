@@ -1,10 +1,7 @@
 {
-  "packs": [
-    {
-      "id": "hermitcraft",
-      "name": "Hermitcraft Skin Pack",
-      "description": "still a placeholder",
-      "downloadURI": "https://github.com/user-attachments/files/26659078/HermitcraftSkinPack.zip"
-    }
-  ]
+  "id": "hermitcraft_skin_pack",
+  "name": "Hermitcraft Skin Pack",
+  "description": "Step into the vast world of Hermitcraft and play as any of the 45 skins from your favorite Hermits!",
+  "downloadURI": "https://github.com/user-attachments/files/26690956/HermitcraftSkinPack.zip",
+  "imageUrl": "https://github.com/user-attachments/assets/4ef57577-fb89-456d-a953-88d609181c12"
 }
