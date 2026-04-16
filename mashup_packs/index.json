@@ -1,13 +1,13 @@
 {
   "packs": [
     {
-      "id": "*",
-      "name": "*",
-      "description": "*",
-      "downloadURI": "*",
-      "imageUrl": "*",
-      "worldTemplateDownloadURI": "*",
-      "worldTemplateFolderName": "*"
+      "id": "halloween_mashup",
+      "name": "Halloween Mash-Up Pack",
+      "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
+      "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/halloween_preview.png",
+      "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/toy_story.mcsave?checksum=e1a31e550dd8b81389fc90eadfe7c179",
+      "worldTemplateFolderName": "Halloween Mash-up"
     }
   ]
 }
