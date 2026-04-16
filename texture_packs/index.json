@@ -13,6 +13,13 @@
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.This pack includes detailed textures for blocks, items, entities, and UI that give a refined feel without straying too far from the vanilla game.",
       "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/natural_preview.png"
+    },
+                {
+      "id": "fantasy_texture_pack",
+      "name": "Fantasy Texture Pack",
+      "description": "Transport yourselves to a time where knights were heroes. This pack adds a medieval, fantasy look for blocks, items, entities, and UI.",
+      "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/kVfBtnvh/Fantasy%20Texture%20Pack.zip",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/fantasy_preview.png"
     }
   ]
 }
