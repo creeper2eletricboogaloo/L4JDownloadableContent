@@ -6,8 +6,14 @@
       "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
       "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
       "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/old_ui_preview.png"
+    },
+        {
+      "id": "legacy_titles",
+      "name": "Legacy Titles Texture Pack",
+      "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different Edition titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
+      "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/legacy_titles.png"
     }
-
 
 
     
