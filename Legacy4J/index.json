@@ -13,6 +13,13 @@
       "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different Edition titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
       "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
       "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/legacy_titles.png"
+    },
+    {
+      "id": "legacy_skins",
+      "name": "Legacy Skins - Skin Packs",
+      "description": "Legacy Skin Packs is a resource pack made for mods Legacy4J and LegacySkins that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft.",
+      "downloadURI": "https://cdn.modrinth.com/data/IU7pUM86/versions/hW2BbtE4/Legacy-Skin-Packs-2.4.0.zip",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/legacy_skins.png"
     }
 
 
