@@ -1,3 +1,15 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "old_ui",
+      "name": "Old UI Texture Pack",
+      "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
+      "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J__preview_images/old_ui_preview.png"
+    }
+
+
+
+    
+  ]
 }
