@@ -5,21 +5,21 @@
       "name": "Plastic Texture Pack",
       "description": "Make your worlds simple, colorful and vibrant! This brightly colored and simple pack adds plastic-themed textures for blocks, items, and entities, along with a completely transformed UI.",
       "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/plastic_preview.png"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/texture_pack_preview_images/plastic_preview.png"
     },
             {
       "id": "natural_texture_pack",
       "name": "Natural Texture Pack",
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.This pack includes detailed textures for blocks, items, entities, and UI that give a refined feel without straying too far from the vanilla game.",
       "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/natural_preview.png"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/texture_pack_preview_images/natural_preview.png"
     },
                 {
       "id": "fantasy_texture_pack",
       "name": "Fantasy Texture Pack",
       "description": "Transport yourselves to a time where knights were heroes. This pack adds a medieval, fantasy look for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/kVfBtnvh/Fantasy%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/fantasy_preview.png"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/texture_pack_preview_images/fantasy_preview.png"
     }
   ]
 }
