@@ -20,9 +20,13 @@
       "description": "Legacy Skin Packs is a resource pack made for mods Legacy4J and LegacySkins that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft.",
       "downloadURI": "https://cdn.modrinth.com/data/IU7pUM86/versions/hW2BbtE4/Legacy-Skin-Packs-2.4.0.zip",
       "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/legacy_skins.png"
+    },
+    {
+      "id": "legacy_beds",
+      "name": "Legacy Beds",
+      "description": "Legacy Console Beds",
+      "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/packs/legacybeds.zip",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Legacy4J_preview_images/legacy_beds.png"
     }
-
-
-    
   ]
 }
