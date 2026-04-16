@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "id": "*",
+      "name": "*",
+      "description": "*",
+      "downloadURI": "*",
+      "imageUrl": "*",
+      "worldTemplateDownloadURI": "*",
+      "worldTemplateFolderName": "*"
+    }
+  ]
+}
