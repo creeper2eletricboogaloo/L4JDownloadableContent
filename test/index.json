@@ -49,13 +49,6 @@
         },
         {
           "categoryId": "legacy4j",
-          "id": "tooltips_enhanced",
-          "name": "Tooltips Enhanced",
-          "description": "*",
-          "downloadURI": "*"
-        },
-        {
-          "categoryId": "legacy4j",
           "id": "legacy_titles",
           "name": "Legacy Titles",
           "description": "*",
