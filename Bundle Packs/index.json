@@ -4,20 +4,6 @@
       "id": "builders_pack",
       "name": "Builders Pack",
       "description": "Want to become a master builder? Start with this bundle of six Minecraft packs: Plastic Texture Pack, Candy Texture Pack, Pattern Texture Pack, Cartoon Texture Pack, Greek Mythology Mash-Up Pack, and Chinese Mythology Mash-Up Pack.",
-      "resourceAlbum": {
-        "packs": [
-          "vanilla",
-          "fabric",
-          "legacy:legacy_waters",
-          "plastic_texture_pack",
-          "candy_texture_pack",
-          "pattern_texture_pack",
-          "greekmythology",
-          "cartoon_texture_pack",
-          "chinesemythology"
-        ],
-        "displayPack": "cartoon_texture_pack"
-      },
       "bundlePacks": [
         {
           "categoryId": "texture_packs",
