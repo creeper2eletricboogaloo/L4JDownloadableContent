@@ -1,3 +1,72 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "builders_pack",
+      "name": "Builders Pack",
+      "description": "Want to become a master builder? Start with this bundle of six Minecraft packs: Plastic Texture Pack, Candy Texture Pack, Pattern Texture Pack, Cartoon Texture Pack, Greek Mythology Mash-Up Pack, and Chinese Mythology Mash-Up Pack.",
+      "resourceAlbum": {
+        "packs": [
+          "vanilla",
+          "fabric",
+          "legacy:legacy_waters",
+          "plastic_texture_pack",
+          "candy_texture_pack",
+          "pattern_texture_pack",
+          "greekmythology",
+          "cartoon_texture_pack",
+          "chinesemythology"
+        ],
+        "displayPack": "cartoon_texture_pack"
+      },
+      "bundlePacks": [
+        {
+          "categoryId": "texture_packs",
+          "id": "plastic_texture_pack",
+          "name": "Minecraft Plastic Texture Pack",
+          "description": "Make your worlds simple, colorful, and vibrant with bright plastic-themed textures for blocks, items, entities, and the UI.",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "categoryId": "texture_packs",
+          "id": "candy_texture_pack",
+          "name": "Minecraft Candy Texture Pack",
+          "description": "Indulge your sweet tooth with sugar-coated textures for blocks, items, entities, and the UI.",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "categoryId": "texture_packs",
+          "id": "pattern_texture_pack",
+          "name": "Minecraft: Pattern Texture Pack",
+          "description": "Decorate your world with bright patterns, knitted animals, and themed textures for blocks, items, entities, and the UI.",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "categoryId": "mashup_packs",
+          "id": "greekmythology",
+          "name": "Minecraft Greek Mythology Mash-Up",
+          "description": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip",
+          "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
+          "worldTemplateFolderName": "Greek Mythology Mash-up"
+        },
+        {
+          "categoryId": "texture_packs",
+          "id": "cartoon_texture_pack",
+          "name": "Minecraft Cartoon Texture Pack",
+          "description": "Googly eyes, goofy grins, and a full toon-style makeover for blocks, items, entities, and the UI.",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "categoryId": "mashup_packs",
+          "id": "chinesemythology",
+          "name": "Minecraft Chinese Mythology Mash-Up",
+          "description": "Journey through epic terrain and find enlightenment in a land of dragons inspired by the myths and legends of China.",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
+          "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
+          "worldTemplateFolderName": "Chinese Mythology Mash-up"
+        }
+      ],
+      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Bundle%20Packs_preview_images/builders_pack_preview.png"
+    }
+  ]
 }
