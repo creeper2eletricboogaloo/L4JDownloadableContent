@@ -15,7 +15,7 @@
                   {
                       "id":  "birthday3",
                       "name":  "3rd Birthday",
-                      "description":  "Celebrate MinecraftÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s 3rd Birthday on Xbox with the original Minecraft developers! Find their personal skins in this free celebration pack.",
+                      "description":  "Celebrate Minecraft’s 3rd Birthday on Xbox with the original Minecraft developers! Find their personal skins in this free celebration pack.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/birthday3.zip?checksum=1c1afd55b72d6d75e0c0975475598c0f"
                   },
                   {
@@ -129,7 +129,7 @@
                   {
                       "id":  "greekmythology",
                       "name":  "Greek Mythology",
-                      "description":  "ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s mythical Greece at your thumb sticks in this new Minecraft Mash-up pack! Greek gods, fantastical creatures and epic locations are all sculpted into our dedicated game world. We\u0027ve even made a bespoke texture set and themed UI, and wrapped it all up with an orchestral soundtrack. This is the stuff of legends! Go make your own!",
+                      "description":  "It’s mythical Greece at your thumb sticks in this new Minecraft Mash-up pack! Greek gods, fantastical creatures and epic locations are all sculpted into our dedicated game world. We\u0027ve even made a bespoke texture set and themed UI, and wrapped it all up with an orchestral soundtrack. This is the stuff of legends! Go make your own!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/greekmythology.zip?checksum=81c1606d772a03003a52c2e3c0f95044"
                   },
                   {
@@ -158,8 +158,8 @@
                   },
                   {
                       "id":  "littlebigplanet",
-                      "name":  "LittleBigPlanetÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢",
-                      "description":  "\nMix the crazy, non-stop creativity of LittleBigPlanetÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ into the endless fun and freedom of Minecraft with this special mashup pack.\n\nSackboyÃƒâ€šÃ‚Â®, SackgirlÃƒâ€šÃ‚Â®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBPÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ characters, creatures and stuff.",
+                      "name":  "LittleBigPlanet™",
+                      "description":  "\nMix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\n\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP™ characters, creatures and stuff.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/littlebigplanet.zip?checksum=725061268cd655f6b8b2559f9428a1ff"
                   },
                   {
@@ -219,13 +219,13 @@
                   {
                       "id":  "moana",
                       "name":  "Moana Character Pack",
-                      "description":  "Set sail with Moana, Maui and all the crew from Motunui. How far will you go in Minecraft with this adventurous character set? YouÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢re welcome!",
+                      "description":  "Set sail with Moana, Maui and all the crew from Motunui. How far will you go in Minecraft with this adventurous character set? You’re welcome!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/moana.zip?checksum=8e658d0ea7c0fb79f47aed5cf7e430dc"
                   },
                   {
                       "id":  "norsemythology",
                       "name":  "Norse Mythology",
-                      "description":  "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the nine realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand-carved textures, a thunderous soundtrack and a horde of skins. SkÃƒÆ’Ã‚Â¥l!",
+                      "description":  "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the nine realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand-carved textures, a thunderous soundtrack and a horde of skins. Skål!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=bd3ac98c1acca432b35e356b3e5fcce6"
                   },
                   {
@@ -297,7 +297,7 @@
                   {
                       "id":  "starwarssolo",
                       "name":  "Solo: A Star Wars Story Pack",
-                      "description":  "Buckle up and jump into hyperspace with the Solo: A Star Wars StoryÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ Skin Pack! Assemble a crew with characters like Han Solo, Lando Calrissian, L3-37 and more!",
+                      "description":  "Buckle up and jump into hyperspace with the Solo: A Star Wars Story™ Skin Pack! Assemble a crew with characters like Han Solo, Lando Calrissian, L3-37 and more!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarssolo.zip?checksum=41ba3ade86daf52aeb617f38ef3fad5b"
                   },
                   {
@@ -339,7 +339,7 @@
                   {
                       "id":  "strangerthings",
                       "name":  "Stranger Things",
-                      "description":  "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost hereÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80\u0027s fashion choices.",
+                      "description":  "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80\u0027s fashion choices.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/strangerthings.zip?checksum=9e36ba2e73596b05fd02a16ffb640d88"
                   },
                   {
@@ -381,7 +381,7 @@
                   {
                       "id":  "thesimpsons",
                       "name":  "The Simpsons",
-                      "description":  "Create your own blocky version of Springfield with the entire Simpsons family - Homer, Marge, Bart, Lisa and Maggie - plus 19 of Springfield Elementary SchoolÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s beloved characters from the Emmy Award-winning animated show and the longest-running scripted show in television history.",
+                      "description":  "Create your own blocky version of Springfield with the entire Simpsons family - Homer, Marge, Bart, Lisa and Maggie - plus 19 of Springfield Elementary School’s beloved characters from the Emmy Award-winning animated show and the longest-running scripted show in television history.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/thesimpsons.zip?checksum=12e136070efa7e0f1327ad72b170901e"
                   },
                   {
