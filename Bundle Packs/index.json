@@ -1,58 +1,507 @@
 {
-  "packs": [
-    {
-      "id": "builders_pack",
-      "name": "Builders Pack",
-      "description": "Want to become a master builder? Start with this bundle of six Minecraft packs: Plastic Texture Pack, Candy Texture Pack, Pattern Texture Pack, Cartoon Texture Pack, Greek Mythology Mash-Up Pack, and Chinese Mythology Mash-Up Pack.",
-      "bundlePacks": [
-        {
-          "categoryId": "texture_packs",
-          "id": "plastic_texture_pack",
-          "name": "Minecraft Plastic Texture Pack",
-          "description": "Make your worlds simple, colorful, and vibrant with bright plastic-themed textures for blocks, items, entities, and the UI.",
-          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
-        },
-        {
-          "categoryId": "texture_packs",
-          "id": "candy_texture_pack",
-          "name": "Minecraft Candy Texture Pack",
-          "description": "Indulge your sweet tooth with sugar-coated textures for blocks, items, entities, and the UI.",
-          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
-        },
-        {
-          "categoryId": "texture_packs",
-          "id": "pattern_texture_pack",
-          "name": "Minecraft: Pattern Texture Pack",
-          "description": "Decorate your world with bright patterns, knitted animals, and themed textures for blocks, items, entities, and the UI.",
-          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip"
-        },
-        {
-          "categoryId": "mashup_packs",
-          "id": "greekmythology",
-          "name": "Minecraft Greek Mythology Mash-Up",
-          "description": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
-            "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip",
-          "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
-          "worldTemplateFolderName": "Greek Mythology Mash-up"
-        },
-        {
-          "categoryId": "texture_packs",
-          "id": "cartoon_texture_pack",
-          "name": "Minecraft Cartoon Texture Pack",
-          "description": "Googly eyes, goofy grins, and a full toon-style makeover for blocks, items, entities, and the UI.",
-          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip"
-        },
-        {
-          "categoryId": "mashup_packs",
-          "id": "chinesemythology",
-          "name": "Minecraft Chinese Mythology Mash-Up",
-          "description": "Journey through epic terrain and find enlightenment in a land of dragons inspired by the myths and legends of China.",
-          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
-          "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
-          "worldTemplateFolderName": "Chinese Mythology Mash-up"
-        }
-      ],
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Bundle%20Packs_preview_images/builders_pack_preview.png"
-    }
-  ]
+    "packs":  [
+                  {
+                      "id":  "skinpack_megabundle",
+                      "name":  "LCE Skin Mega Bundle",
+                      "description":  "Download all 63 official Legacy Console Edition skin packs in one bundle.",
+                      "bundlePacks":  [
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "birthday5",
+                                              "name":  "5th Birthday Skin Pack",
+                                              "description":  "Join the celebrations for the 5th birthday of Minecraft with this new, Free Skin pack featuring the one and only 4J Studios development team! Party on!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/birthday5.zip?checksum=15982894f390060210962e884d155fd6"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "birthday4",
+                                              "name":  "4th Birthday Skin Pack",
+                                              "description":  "Dress up for the Party with this new, Free Skin pack and celebrate together the 4th Minecraft birthday!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/birthday4.zip?checksum=9a0ee2cd4fe1e351084f3d10e0f1113c"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "birthday3",
+                                              "name":  "3rd Birthday",
+                                              "description":  "Celebrate Minecraftâ€™s 3rd Birthday on Xbox with the original Minecraft developers! Find their personal skins in this free celebration pack.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/birthday3.zip?checksum=3971c303e7af47b92d352026d04c1c4c"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "birthday2",
+                                              "name":  "2nd Birthday",
+                                              "description":  "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/birthday2.zip?checksum=e10474e43fac51bea32886a85cf8b61e"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "birthday",
+                                              "name":  "Birthday",
+                                              "description":  "Join the Minecraft party now!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/birthday.zip?checksum=a54c84d48531cf99f79a7e188f06594d"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "battleandbeasts",
+                                              "name":  "Battle and the Beasts",
+                                              "description":  "By popular demand, Warriors and Animals are the main flavours for this Skin Pack. Hope you enjoy customizing your Minecraft character with these!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/battleandbeasts.zip?checksum=a63383eb7dc6a23d46873927bbdbe839"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "battleandthebeasts2",
+                                              "name":  "Battle and the Beasts 2",
+                                              "description":  "This second Battle \u0026 Beasts pack brings you more Animals, more Warriors and some surprising Mammals too! I am the Walrus!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/battleandthebeasts2.zip?checksum=337fdc9e6159c7c958db2b7126e9f499"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "adventuretime",
+                                              "name":  "Adventure Time",
+                                              "description":  "Mash-up! Featured in this pack: your favorite Adventure Time characters, the Land of Ooo, a bespoke texture set, BMO themed UI and original soundtrack.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/adventuretime.zip?checksum=e692e9b88035711360e20f7df81a45d2"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "biomesettlers",
+                                              "name":  "Biome Settlers",
+                                              "description":  "Check out these new looks, influenced by the Forest, Tundra, and Desert biomes. All of these skins have been inspired by the world of Minecraft and the different ways you play!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/biomesettlers.zip?checksum=5fb6945f2b8de4fd9c698fcf293651ee"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "biomesettlers2",
+                                              "name":  "Biome Settlers 2",
+                                              "description":  "Dress as a denizen of the Nether or a Mushroom Island!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/biomesettlers2.zip?checksum=10d6d9d5fdc5345d107550df3d84cffe"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "campfiretales",
+                                              "name":  "Campfire Tales",
+                                              "description":  "Gather round the fire and listen to the tales of these 16 spooky skins! From mythical monsters to horrible hauntings and other strange sightings, this supernatural skin pack is the ideal way to frighten friends this Halloween.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/campfiretales.zip?checksum=ebb47c4ba4f9b1aee067b74f65d4b8b5"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "chinesemythology",
+                                              "name":  "Chinese Mythology",
+                                              "description":  "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China. Minecrafters get to explore a Chinese Mythology-themed world, with glorious Textures, legendary Skins and enchanting Music. The Pack also includes a themed Battle map exclusive to this Mash-up!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/chinesemythology.zip?checksum=05bf52aea4b5f92f6a705d4fe169ab39"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "classicskinpack1",
+                                              "name":  "Classic Skin Pack 1",
+                                              "description":  "Never doubt a classic!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/classicskinpack1.zip?checksum=5adfd2b4c555b7cfe52606a1e1f97dbb"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "doctor_who_volume_1",
+                                              "name":  "Doctor Who Skins Volume I",
+                                              "description":  "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth,  Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/doctor_who_volume_1.zip?checksum=898d3631af503304d8c02da20705353b"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "doctor_who_volume_2",
+                                              "name":  "Doctor Who Skins Volume II",
+                                              "description":  "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60\u0027s through to the most recent and deadly upgrade.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/doctor_who_volume_2.zip?checksum=e46d623f9f2ce69507e6b10ab4c8f504"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "egyptianmythology",
+                                              "name":  "Egyptian Mythology",
+                                              "description":  "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/egyptianmythology.zip?checksum=5676acbeb4a78adf94a386efdfed7464"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "finalfantasyxv",
+                                              "name":  "Final Fantasy XV Skin Pack",
+                                              "description":  "Join Noctis, Gladio, Ignis and Prompto once again as they venture beyond the world of Eos and into the untold realms of Minecraft with this fantastic skin pack. Be it friend or foe, the cast of FINAL FANTASY XV follows, including Cindy, Aranea, Ardyn, the Astrals and many more.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/finalfantasyxv.zip?checksum=2c458ddf2e0f1b287e68d9e82bb41e42"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "vault-tec",
+                                              "name":  "Fallout",
+                                              "description":  "Welcome to the wasteland! Crack open the Vault containing 44 unique skins, custom textures, re-skinned mobs, a special post-apocalyptic map, original soundtrack compilation and a Pip-Boy inspired UI.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/fallout.zip?checksum=1d9258f21df72df93b99608a7240bca7"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "festivemashup",
+                                              "name":  "Festive",
+                                              "description":  "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/festivemashup.zip?checksum=26d401f18a625d8c5059a295ea38cb19"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "festive",
+                                              "name":  "Festive",
+                                              "description":  "Here\u0027s a fab mini pack of 24 skins to customize your Minecraft character with, and get you in the mood for the holidays.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/festive.zip?checksum=4504e6fedde4d81a62af4312d3c63897"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "fromtheshadows",
+                                              "name":  "From the Shadows Skin Pack",
+                                              "description":  "Get these excruciatingly detailed horrors in the \"From the Shadows\" HD skin pack.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/fromtheshadows.zip?checksum=13d9f9a0da19c9351f7092ee92aa0c36"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "greekmythology",
+                                              "name":  "Greek Mythology",
+                                              "description":  "Itâ€™s mythical Greece at your thumb sticks in this new Minecraft Mash-up pack! Greek gods, fantastical creatures and epic locations are all sculpted into our dedicated game world. We\u0027ve even made a bespoke texture set and themed UI, and wrapped it all up with an orchestral soundtrack. This is the stuff of legends! Go make your own!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/greekmythology.zip?checksum=7a77ae9e63d21af6d50318f5666d11c0"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "minecon2017",
+                                              "name":  "MINECON Earth 2017",
+                                              "description":  "Join the party, wherever you are - and get dressed for the occasion with these fancy skins, celebrating everything from cosplay to cake! Available for a short time only, so get \u0027em fast!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/minecon2017.zip?checksum=4d5b5f717fe44d7da3b1bb6338a90c62"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "halloweencharity",
+                                              "name":  "Halloween Charity Skin Pack",
+                                              "description":  "Skins from Minecraft: Xbox 360 Edition developer 4J Studios are joined by creations from 343 Industries, Rare, Mojang, Ronimo, Twisted Pixel, Tequila Works and more.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/halloweencharity.zip?checksum=e19f8c14ea8b3d7af7e5ff95eddfcc24"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "halloween2015",
+                                              "name":  "Halloween 2015",
+                                              "description":  "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/halloween2015.zip?checksum=6e2480d43d329ad27a48c76540ea8612"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "littlebigplanet",
+                                              "name":  "LittleBigPlanet™",
+                                              "description":  "\nMix the crazy, non-stop creativity of LittleBigPlanetâ„¢ into the endless fun and freedom of Minecraft with this special mashup pack.\n\nSackboyÂ®, SackgirlÂ®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBPâ„¢ characters, creatures and stuff.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/littlebigplanet.zip?checksum=ac9bcb956171996c01a4111dcfb308ef"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "magicthegathering",
+                                              "name":  "Magic The Gathering",
+                                              "description":  "Deck yourself out as the most powerful Planeswalkers in the Multiverse.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/magicthegathering.zip?checksum=ec64b4382a82c0ae8fa9640b1b990388"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "masseffect",
+                                              "name":  "Mass Effect",
+                                              "description":  "Shape the fate of your Minecraft galaxy with this amazing Mash-up: includes thirty-six character skins, bespoke game textures, themed menus, a dedicated world filled with iconic locations and original soundtrack compilation to set the mood.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/masseffect.zip?checksum=95de554ff6ce4b3e5d5c4cf1e9430218"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "minecon2015",
+                                              "name":  "Minecon 2015",
+                                              "description":  "MINECON 2015 Skin Pack is a celebratory skin pack for MINECON 2015 that includes 8 skins of Steve and Alex wearing MINECON capes.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/minecon2015.zip?checksum=56891cb93682db011721abffa36fe54c"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "minecon2016",
+                                              "name":  "Minecon 2016",
+                                              "description":  "MINECON 2016 Skin Pack is a celebratory skin pack for MINECON 2016 that includes 14 skins.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/minecon2016.zip?checksum=7f9a979eb095e742097cdd273c73d9f1"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "minigameheros",
+                                              "name":  "Mini Game Heros",
+                                              "description":  "Become a Mini Game legend with this new sporting skin pack! Swoop round Glide\u0027s tightest tracks in lithe llama-suit, cushion Tumble-based fumbles with fluffy cat pads or don your Guardian get-up to bolster both your Battle ranking and your fashion game.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/minigameheros.zip?checksum=bb0c79c9ac7fa5adc526a8a468527527"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "minigamemasters",
+                                              "name":  "Mini Game Masters",
+                                              "description":  "Calling all beasts of Battle, titans of Tumble and gods of Glide: the ultimate in Mini Game themed sporting skins are here! So slip into that streamlined spandex, strap on those sturdy pads, and prepare to out-style AND out-play your friends.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/minigamemasters.zip?checksum=1fe08bbf72bbc31e2d9bc67980910534"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "marvelsavengers",
+                                              "name":  "Marvel\u0027s Avengers Skin Pack",
+                                              "description":  "Marvel Avengers Skin Pack is a skin pack containing 35 skins of characters from the Avengers superhero comic book series.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/marvelsavengers.zip?checksum=533b165a96b1781716b7f5f17413eadc"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "marvelgog",
+                                              "name":  "Marvel\u0027s Guardians Of the Galaxy",
+                                              "description":  "Marvel Guardians of the Galaxy Skin Pack is a skin pack containing 24 skins of characters from the superhero film Guardians of the Galaxy by Marvel Studios, as well as the comic series of the same name.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/marvelgog.zip?checksum=7d4c77a482fadded4b43d9f1f6d07a49"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "marvelsspiderman",
+                                              "name":  "Marvel\u0027s Spiderman",
+                                              "description":  "Marvel Spider-Man Skin Pack is a skin pack containing 35 skins of characters from the Spider-Man superhero franchise by Marvel Entertainment.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/marvelsspiderman.zip?checksum=36aafa27e70237a5e5bd35257a99deb2"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "moana",
+                                              "name":  "Moana Character Pack",
+                                              "description":  "Set sail with Moana, Maui and all the crew from Motunui. How far will you go in Minecraft with this adventurous character set? Youâ€™re welcome!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/moana.zip?checksum=50c15eea76ac96e10f4c63aba4897d33"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "norsemythology",
+                                              "name":  "Norse Mythology",
+                                              "description":  "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the nine realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand-carved textures, a thunderous soundtrack and a horde of skins. SkÃ¥l!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/norsemythology.zip?checksum=0d0cd1239f70cc7028a6fb4eff260fef"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "powerrangers",
+                                              "name":  "Power Rangers",
+                                              "description":  "Including the 5 original Power Rangers and many more characters from the classic series, this skin pack is nothing short of Morphinominal.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/powerrangers.zip?checksum=21ed2b1dadee6bb3b2d8ea180f867445"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "piratesofthecaribbean",
+                                              "name":  "Pirates of the Caribbean",
+                                              "description":  "Explore the shipwrecks of Minecraft\u0027s oceans with than Captain Jack Sparrow, Blackbeard, Davy Jones and over forty (count \u0027em!) skins from all five movies.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/piratesofthecaribbean.zip?checksum=7b37cc4854c6f21361aa4563dbc333c4"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "redstonespecialists",
+                                              "name":  "Redstone Specialists",
+                                              "description":  "Dress as the Scholar, Protector, and more!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/redstonespecialists.zip?checksum=bff95b149c638e71b236f503e1fe7584"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "soa",
+                                              "name":  "Summer of Arcade",
+                                              "description":  "The Summer of Arcade Skin Pack was a free skin pack, featuring 15 skins of characters from video games that were part of the 2012 Summer of Arcade event on the Xbox Live Arcade.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/soa.zip?checksum=362e3d9a75a0cea5c232f5881f7265eb"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skinpack1",
+                                              "name":  "Skin Pack 1",
+                                              "description":  "Customise your character with this selection of stunning skins!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skinpack1.zip?checksum=792f7a7cb0d011a7ede7a45054805d38"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skinpack2",
+                                              "name":  "Skin Pack 2",
+                                              "description":  "Customise your Minecraft character with this 2nd selection of stunning skins!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skinpack2.zip?checksum=ce3f69a9ddbf4700a75f9e05c91b752c"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skinpack3",
+                                              "name":  "Skin Pack 3",
+                                              "description":  "Here\u0027s the third superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skinpack3.zip?checksum=58b73831c5fc7e2e94f81320623b6b7b"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skinpack4",
+                                              "name":  "Skin Pack 4",
+                                              "description":  "Here\u0027s the fourth superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skinpack4.zip?checksum=3f9355ba5c000cbb13884c89914f102d"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skinpack5",
+                                              "name":  "Skin Pack 5",
+                                              "description":  "Here\u0027s the fith superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skinpack5.zip?checksum=9dfa27fdb45ae3bf60051176ee365d86"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skin_pack_6",
+                                              "name":  "Skin Pack 6",
+                                              "description":  "Here\u0027s the sixth superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skin_pack_6.zip?checksum=c17d672c75189ece660ee3757df192d3"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "supermario",
+                                              "name":  "Super Mario",
+                                              "description":  "The Super Mario Mash-Up Pack is a free mash-up pack exclusively available for the Nintendo console versions of Minecraft.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/supermario.zip?checksum=9d589176e3d1bc3cb210f14264527b13"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "starwarssolo",
+                                              "name":  "Solo: A Star Wars Story Pack",
+                                              "description":  "Buckle up and jump into hyperspace with the Solo: A Star Wars Storyâ„¢ Skin Pack! Assemble a crew with characters like Han Solo, Lando Calrissian, L3-37 and more!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/starwarssolo.zip?checksum=741427e49da74f1b1b887d70e2469a56"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "starwarsclassic",
+                                              "name":  "Star Wars Classic",
+                                              "description":  "A long time ago in a galaxy far, far away....  The Star Wars Classic Skin Pack features an assortment of over 50 heroes, villains, and rogues from the Galactic Civil War.  Whether you pick a Jawa or the mighty Darth Vader, you can play as your favorite Star Wars characters from Episodes IV to VI, Minecraft style.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/starwarsclassic.zip?checksum=7773dd7b83d27bd9af875303ebdee24a"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "starwarsprequel",
+                                              "name":  "Star Wars Prequel",
+                                              "description":  "A long time ago in a galaxy far, far away....  The Star Wars Prequel Skin Pack is now available.  Choose from over 50 skins and play as some of your favorite Star Wars characters, Minecraft style.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/starwarsprequel.zip?checksum=735ed325e5a0cede73400bb343fbddba"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "starwarsrebels",
+                                              "name":  "Star Wars Rebels",
+                                              "description":  "Are you ready to join the rebellion - Minecraft style? The Star Wars Rebels Skin Pack features the crew of the Ghost and their adversaries in the Galactic Empire. Choose from over 20 skins and play as your favourite Star Wars Rebels characters.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/starwarsrebels.zip?checksum=9df582111cd98f7930b582cd8172512b"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "starwarssequel",
+                                              "name":  "Star Wars Sequel Skin Pack",
+                                              "description":  "Star Wars Sequel Skin Pack, featuring a total of 53 characters from The Force Awakens and The Last Jedi.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/starwarssequel.zip?checksum=d49e24506b8cda807d8facf47d47f53b"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "stevenuniverse",
+                                              "name":  "Steven Universe",
+                                              "description":  "This mash-up contains your favourite locations, from Beach City all the way to Homeworld, original music from the show, and a diamond-shattering 48 skins!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/stevenuniverse.zip?checksum=ab57d540c0f2164b22d020e6b3fb686a"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "storymode",
+                                              "name":  "Story Mode",
+                                              "description":  "Create your own adventure with this skin pack featuring your favorite characters from Minecraft: Story Mode. All the Jesse, Olivia, Axel, Petra skins and many more are included!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/storymode.zip?checksum=371e7226b49f775102fc2f09399fce42"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "strangerthings",
+                                              "name":  "Stranger Things",
+                                              "description":  "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost hereâ€¦ Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80\u0027s fashion choices.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/strangerthings.zip?checksum=6e8b029ae9d24ecb26f7b935d7fa178c"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "biomesettlers3",
+                                              "name":  "Strangers - Biome Settlers 3",
+                                              "description":  "Get this pack and make your home in distant lands or ocean depths!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/biomesettlers3.zip?checksum=0abfd1dfc2a605533b959abbf90b924d"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "skyrim",
+                                              "name":  "The Elder Scrolls V: Skyrim",
+                                              "description":  "The Dragonborn meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Tamriel and experience adventure with many of its most iconic characters. Fus Ro Dah!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/skyrim.zip?checksum=8955c7922bc514a322da66d2f9a3014e"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "thenightmarebeforechristmas",
+                                              "name":  "The Nightmare Before Christmas",
+                                              "description":  "This is one of our best festive mash-ups yet! Jack Skellington and his fearsome friends are all here, making for a wonderfully ghoulish gallery of 40 spooktacular skins. As well as those 40 skins, you get a texture pack and a world full of some truly nightmarish redstone puzzles to solve, all scored to the excellent soundtrack from the movie!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/thenightmarebeforechristmas.zip?checksum=683b9c3a633f8adc355a67c07b8f8694"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "supercuteskins",
+                                              "name":  "Super Cute Texture Pack",
+                                              "description":  "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This texture pack comes with 15 skins!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/supercuteskins.zip?checksum=e7dd9128275f1036f52c3089229ae868"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "theincredibles",
+                                              "name":  "The Incredibles Skin Pack",
+                                              "description":  "Grab your super suit and join the action with the Parr family and other heroes and villains in this incredible skin pack!",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/theincredibles.zip?checksum=4d4f4e654657f9dfcbd6c272f8135415"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "thesimpsons",
+                                              "name":  "The Simpsons",
+                                              "description":  "Create your own blocky version of Springfield with the entire Simpsons family - Homer, Marge, Bart, Lisa and Maggie - plus 19 of Springfield Elementary Schoolâ€™s beloved characters from the Emmy Award-winning animated show and the longest-running scripted show in television history.",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/thesimpsons.zip?checksum=b99efbffdff3cc7cf4ca97ce3a74eb98"
+                                          },
+                                          {
+                                              "categoryId":  "skinpacks",
+                                              "id":  "villians",
+                                              "name":  "Villians",
+                                              "description":  "Unleash your inner villain with a pack dripping in the devious, the dastardly and the downright despicable! Scoundrels and schemers, mischief-makers and malevolent masterminds - this pack has the lot. Can you tell fiend from foe?",
+                                              "downloadURI":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/villians.zip?checksum=8ffc9dd197f0d43b86694f827347127c"
+                                          }
+                                      ],
+                      "imageUrl":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Bundle%20Packs_preview_images/skinpack_megabundle_preview_image.png"
+                  },
+                  {
+                      "id":  "builders_pack",
+                      "name":  "Builders Pack",
+                      "description":  "Want to become a master builder? Start with this bundle of six Minecraft packs: Plastic Texture Pack, Candy Texture Pack, Pattern Texture Pack, Cartoon Texture Pack, Greek Mythology Mash-Up Pack, and Chinese Mythology Mash-Up Pack.",
+                      "bundlePacks":  [
+                                          {
+                                              "categoryId":  "texture_packs",
+                                              "id":  "plastic_texture_pack",
+                                              "name":  "Minecraft Plastic Texture Pack",
+                                              "description":  "Make your worlds simple, colorful, and vibrant with bright plastic-themed textures for blocks, items, entities, and the UI.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+                                          },
+                                          {
+                                              "categoryId":  "texture_packs",
+                                              "id":  "candy_texture_pack",
+                                              "name":  "Minecraft Candy Texture Pack",
+                                              "description":  "Indulge your sweet tooth with sugar-coated textures for blocks, items, entities, and the UI.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+                                          },
+                                          {
+                                              "categoryId":  "texture_packs",
+                                              "id":  "pattern_texture_pack",
+                                              "name":  "Minecraft: Pattern Texture Pack",
+                                              "description":  "Decorate your world with bright patterns, knitted animals, and themed textures for blocks, items, entities, and the UI.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip"
+                                          },
+                                          {
+                                              "categoryId":  "mashup_packs",
+                                              "id":  "greekmythology",
+                                              "name":  "Minecraft Greek Mythology Mash-Up",
+                                              "description":  "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip",
+                                              "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
+                                              "worldTemplateFolderName":  "Greek Mythology Mash-up"
+                                          },
+                                          {
+                                              "categoryId":  "texture_packs",
+                                              "id":  "cartoon_texture_pack",
+                                              "name":  "Minecraft Cartoon Texture Pack",
+                                              "description":  "Googly eyes, goofy grins, and a full toon-style makeover for blocks, items, entities, and the UI.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip"
+                                          },
+                                          {
+                                              "categoryId":  "mashup_packs",
+                                              "id":  "chinesemythology",
+                                              "name":  "Minecraft Chinese Mythology Mash-Up",
+                                              "description":  "Journey through epic terrain and find enlightenment in a land of dragons inspired by the myths and legends of China.",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
+                                              "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
+                                              "worldTemplateFolderName":  "Chinese Mythology Mash-up"
+                                          }
+                                      ],
+                      "imageUrl":  "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/Bundle%20Packs_preview_images/builders_pack_preview.png"
+                  }
+              ]
 }
