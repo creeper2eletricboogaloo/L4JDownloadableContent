@@ -5,7 +5,7 @@
       "name": "Pirates of the Caribbean Mash-Up",
       "description": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring all of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones' Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
       "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/ov7cVEHe/Pirates%20Of%20The%20Caribbean.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/potc_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/potc_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/pirates_of_the_caribbean.mcsave?checksum=3c71ca2803e358ecf00d386fe22c9110",
       "worldTemplateFolderName": "Pirates of the Carribean Mash-up",
       "bundlePacks": [
@@ -13,7 +13,7 @@
           "categoryId": "skinpacks",
           "id": "piratesofthecaribbean",
           "name": "Pirates of the Caribbean",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/piratesofthecaribbean.zip?checksum=7b37cc4854c6f21361aa4563dbc333c4"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=7b37cc4854c6f21361aa4563dbc333c4"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "name": "Minecraft Egyptian Mythology Mash-Up",
       "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, and an epic soundtrack!",
       "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/xhUR5AEF/Egyptian%20Mythology%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/egyptianmytho_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/egyptianmytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/egyptian_mythology.mcsave?checksum=746b8071842d3649047b8cde41fbc10a",
       "worldTemplateFolderName": "Egyptian Mythology Mash-up",
       "bundlePacks": [
@@ -30,7 +30,7 @@
           "categoryId": "skinpacks",
           "id": "egyptianmythology",
           "name": "Egyptian Mythology",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/egyptianmythology.zip?checksum=5676acbeb4a78adf94a386efdfed7464"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=5676acbeb4a78adf94a386efdfed7464"
         }
       ]
     },
@@ -39,7 +39,7 @@
       "name": "Minecraft Norse Mythology Mash-Up",
       "description": "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skal!",
       "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/Zi7yz6pF/Norse%20Mythology%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/norsemytho_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/norsemytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/norse_mythology.mcsave?checksum=ab0f86f8835a9d69600975241ae037f0",
       "worldTemplateFolderName": "Norse Mythology Mash-up",
       "bundlePacks": [
@@ -47,7 +47,7 @@
           "categoryId": "skinpacks",
           "id": "norsemythology",
           "name": "Norse Mythology",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/norsemythology.zip?checksum=0d0cd1239f70cc7028a6fb4eff260fef"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=0d0cd1239f70cc7028a6fb4eff260fef"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "name": "Festive Mash-Up Pack",
       "description": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
       "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/festive_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/festive_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/festive.mcsave?checksum=fd85c535ce5f458f0d91b82cdaa5edd6",
       "worldTemplateFolderName": "Festive Mash-up",
       "bundlePacks": [
@@ -64,7 +64,7 @@
           "categoryId": "skinpacks",
           "id": "festivemashup",
           "name": "Festive",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/festivemashup.zip?checksum=26d401f18a625d8c5059a295ea38cb19"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=26d401f18a625d8c5059a295ea38cb19"
         }
       ]
     },
@@ -73,7 +73,7 @@
       "name": "Minecraft Chinese Mythology Mash-Up",
       "description": "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China.",
       "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/chinesemytho_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/chinesemytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
       "worldTemplateFolderName": "Chinese Mythology Mash-up",
       "bundlePacks": [
@@ -81,7 +81,7 @@
           "categoryId": "skinpacks",
           "id": "chinesemythology",
           "name": "Chinese Mythology",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/chinesemythology.zip?checksum=05bf52aea4b5f92f6a705d4fe169ab39"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/chinesemythology.zip?checksum=05bf52aea4b5f92f6a705d4fe169ab39"
         }
       ]
     },
@@ -90,7 +90,7 @@
       "name": "Minecraft Greek Mythology Mash-Up",
       "description": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, or set sail for adventures across the sea - the world is your square oyster!",
       "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/greekmytho_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/greekmytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
       "worldTemplateFolderName": "Greek Mythology Mash-up",
       "bundlePacks": [
@@ -98,7 +98,7 @@
           "categoryId": "skinpacks",
           "id": "greekmythology",
           "name": "Greek Mythology",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/greekmythology.zip?checksum=7a77ae9e63d21af6d50318f5666d11c0"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/greekmythology.zip?checksum=7a77ae9e63d21af6d50318f5666d11c0"
         }
       ]
     },
@@ -107,7 +107,7 @@
       "name": "Minecraft Vault-Tec Mash-Up",
       "description": "Welcome to the wasteland! Crack open the Vault containing 44 unique skins, custom textures, re-skinned mobs, a special post-apocalyptic map, original soundtrack compilation and a Pip-Boy inspired UI.",
       "downloadURI": "https://cdn.modrinth.com/data/YyQcuyAN/versions/UZEBNeOe/FalloutMash-upPack.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/fallout_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/fallout_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/fallout.mcsave?checksum=bc6c118c675967dd4f5d027741ee87a5",
       "worldTemplateFolderName": "Fallout Mash-up",
       "bundlePacks": [
@@ -115,7 +115,7 @@
           "categoryId": "skinpacks",
           "id": "fallout",
           "name": "Fallout",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/fallout.zip?checksum=1d9258f21df72df93b99608a7240bca7"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fallout.zip?checksum=1d9258f21df72df93b99608a7240bca7"
         }
       ]
     },
@@ -124,7 +124,7 @@
       "name": "Minecraft N7 Mash-Up",
       "description": "Shape the fate of your Minecraft galaxy with this amazing Mash-up.",
       "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/masseffect_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/masseffect_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/mass_effect.mcsave?checksum=42f063b31d467ccc02f2b4013422bf0b",
       "worldTemplateFolderName": "Mass Effect Mash-up",
       "bundlePacks": [
@@ -132,7 +132,7 @@
           "categoryId": "skinpacks",
           "id": "masseffect",
           "name": "Mass Effect",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/masseffect.zip?checksum=95de554ff6ce4b3e5d5c4cf1e9430218"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/masseffect.zip?checksum=95de554ff6ce4b3e5d5c4cf1e9430218"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "name": "LittleBigPlanet Mashup Pack",
       "description": "Explore the crazy and adventure-filled world of Sackboy!",
       "downloadURI": "https://cdn.modrinth.com/data/Bayw5n0E/versions/uHCsh5hQ/Patchwork_v0.1.0b1.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/lbp_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/lbp_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/littlebigplanet.mcsave?checksum=03e9e06ff9792cc971cb44cdbbdab9a7",
       "worldTemplateFolderName": "LittleBigPlanet Mash-up",
       "bundlePacks": [
@@ -149,7 +149,7 @@
           "categoryId": "skinpacks",
           "id": "littlebigplanet",
           "name": "LittleBigPlanet",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/littlebigplanet.zip?checksum=ac9bcb956171996c01a4111dcfb308ef"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/littlebigplanet.zip?checksum=ac9bcb956171996c01a4111dcfb308ef"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "name": "Minecraft: Halloween 2015 Mash-up Pack",
       "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
       "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/halloween_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/halloween_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/halloween.mcsave?checksum=7a55bcdbf19af023d4439a0dfcb9ac66",
       "worldTemplateFolderName": "Halloween Mash-up",
       "bundlePacks": [
@@ -166,7 +166,7 @@
           "categoryId": "skinpacks",
           "id": "halloween2015",
           "name": "Halloween 2015",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/halloween2015.zip?checksum=6e2480d43d329ad27a48c76540ea8612"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=6e2480d43d329ad27a48c76540ea8612"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "name": "Super Mario Mash-Up",
       "description": "The Super Mario Mash-Up Pack is a free mash-up pack exclusively available for the Nintendo console versions of Minecraft.",
       "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/liceZcLU/Super%20Mario%20Mash-Up.zip",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/mashup_pack_preview_images/supermario_preview.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/supermario_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/super_mario.mcsave?checksum=ea30bcbf32ff177d08dd73bc319a5ace",
       "worldTemplateFolderName": "Super Mario Mash-up",
       "bundlePacks": [
@@ -183,7 +183,7 @@
           "categoryId": "skinpacks",
           "id": "supermario",
           "name": "Super Mario",
-          "downloadURI": "https://cdn.jsdelivr.net/gh/creeper2eletricboogaloo/L4JDownloadableContent@main/skinpacks/packs/supermario.zip?checksum=9d589176e3d1bc3cb210f14264527b13"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supermario.zip?checksum=9d589176e3d1bc3cb210f14264527b13"
         }
       ]
     }
