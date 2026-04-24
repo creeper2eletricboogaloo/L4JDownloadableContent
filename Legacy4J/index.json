@@ -1,3 +1,46 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "old_ui",
+      "name": "Old UI for Legacy4J",
+      "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
+      "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/44ad56e4d127c2cef2b24a179106fc27bdfe93ce/Legacy4J_preview_images/old_ui_preview_image.png"
+    },
+    {
+      "id": "legacy_tutorial_worlds",
+      "name": "Tutorial World Add-on",
+      "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
+      "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/WUq4Lff9/images/05118273a76dead098a1863e0b1108e77efb5694.png"
+    },
+    {
+      "id": "legacy_titles",
+      "name": "Legacy Titles",
+      "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different \"Edition\" titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
+      "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/cached_images/f1d953417d13f34e662550666797a1123473a613.png"
+    },
+    {
+      "id": "legacy_panoramas",
+      "name": "Legacy Console Edition Panorama Collection",
+      "description": "LCE Panorama Collection is an add-on to Legacy4J which adds back all the Panoramas from old versions. It can be used to achieve an older look, or just because you like one more than a modern one or the TU69 one.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/Hwl7FQm1/tu69.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_beds",
+      "name": "Legacy Console Edition Bed textures",
+      "description": "LCE ported bed textures",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/packs/legacybeds.zip",
+      "imageUrl": ""
+    },
+    {
+      "id": "Default Dark Mode: Legacy4J",
+      "name": "Legacy Console Edition Panorama Collection",
+      "description": "This resource pack is a stand-alone version of DDM: EXPANSION that only contains the Legacy4J-related assets and some of the essential minecraft assets!",
+      "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/cached_images/4e2769e28cf67f9eb582a6b480382df2dd6f55c6.png"
+    }
+  ]
 }
