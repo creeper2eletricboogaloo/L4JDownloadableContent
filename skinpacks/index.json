@@ -283,7 +283,7 @@
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/skinpack5.zip?checksum=7d1e83f252e5724d0ed785f1d1566957"
                   },
                   {
-                      "id":  "skin_pack_6",
+                      "id":  "skinpack6",
                       "name":  "Skin Pack 6",
                       "description":  "Here\u0027s the sixth superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/skin_pack_6.zip?checksum=83e7e3980b34261b770f93abc700f0aa"
@@ -368,8 +368,8 @@
                   },
                   {
                       "id":  "supercuteskins",
-                      "name":  "Super Cute Texture Pack",
-                      "description":  "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This texture pack comes with 15 skins!",
+                      "name":  "Super Cute Skin Pack",
+                      "description":  "The Super Cute Skin Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This skin pack comes with 15 skins!",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supercuteskins.zip?checksum=60ee5953d544ef0ecaa5132d9f21e1b3"
                   },
                   {
