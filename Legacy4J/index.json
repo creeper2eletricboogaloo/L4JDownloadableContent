@@ -36,8 +36,8 @@
       "imageUrl": ""
     },
     {
-      "id": "Default Dark Mode: Legacy4J",
-      "name": "Legacy Console Edition Panorama Collection",
+      "id": "dark_ui",
+      "name": "Default Dark Mode: Legacy4J",
       "description": "This resource pack is a stand-alone version of DDM: EXPANSION that only contains the Legacy4J-related assets and some of the essential minecraft assets!",
       "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip",
       "imageUrl": "https://cdn.modrinth.com/data/cached_images/4e2769e28cf67f9eb582a6b480382df2dd6f55c6.png"
