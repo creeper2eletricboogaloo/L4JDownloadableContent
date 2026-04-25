@@ -516,6 +516,82 @@
                                           }
                                       ],
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs_preview_images/builders_pack_preview.png"
-                  }
-              ]
+                  },
+      {
+        ,
+      {
+        "id": "merrybundle",
+        "name": "Merry Bundle",
+        "description": "Tear off the tinsel and open up this gift-wrapped bundle containing seasonal treats: the Festive Mash-up Pack and the Festive Skin Pack! The wintry wonder awaits within!",
+        "bundlePacks": [
+          {
+            "categoryId": "mashup_packs",
+            "id": "festive",
+            "name": "Festive Mash-Up Pack",
+            "description": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
+            "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip",
+            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/festive_preview.png",
+            "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/festive.mcsave?checksum=fd85c535ce5f458f0d91b82cdaa5edd6",
+            "worldTemplateFolderName": "Festive Mash-up",
+            "bundlePacks": [
+              {
+                "categoryId": "skinpacks",
+                "id": "festivemashup",
+                "name": "Festive Mash-Up Skin Pack",
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=26d401f18a625d8c5059a295ea38cb19"
+              },
+              {
+                "categoryId": "skinpacks",
+                "id": "festive",
+                "name": "Festive Skin Pack",
+                "description": "Here's a fab mini pack of 24 skins to customize your Minecraft character with, and get you in the mood for the holidays.",
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festive.zip?checksum=81ac2dd0d37a05b088b4f8c57be0ae86"
+              }
+            ]
+          }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs_preview_images/merrybundle_preview_image.png"
+      },
+      {
+        "id": "spookybundle",
+        "name": "Spooky Bundle",
+        "description": "No tricks, just 3 seasonal treats all rolled into one! This bundle collects the Halloween Mash-up, Halloween Charity and Campfire Tales Skin Packs - a trio of grisly delights guaranteed to haunt your dreams!",
+        "bundlePacks": [
+          {
+            "categoryId": "skinpacks",
+            "id": "campfiretales",
+            "name": "Campfire Tales",
+            "description": "Gather round the fire and listen to the tales of these 16 spooky skins! From mythical monsters to horrible hauntings and other strange sightings, this supernatural skin pack is the ideal way to frighten friends this Halloween.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/campfiretales.zip?checksum=000690d3abcd79a0564a008ff6443baa"
+          },
+          {
+            "categoryId": "mashup_packs",
+            "id": "halloween_mashup",
+            "name": "Minecraft: Halloween 2015 Mash-up Pack",
+            "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash-up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
+            "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
+            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_pack_preview_images/halloween_preview.png",
+            "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/halloween.mcsave?checksum=7a55bcdbf19af023d4439a0dfcb9ac66",
+            "worldTemplateFolderName": "Halloween Mash-up",
+            "bundlePacks": [
+              {
+                "categoryId": "skinpacks",
+                "id": "halloween2015",
+                "name": "Halloween 2015",
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=6e2480d43d329ad27a48c76540ea8612"
+              }
+            ]
+          },
+          {
+            "categoryId": "skinpacks",
+            "id": "halloweencharity",
+            "name": "Halloween Charity Skin Pack",
+            "description": "Skins from Minecraft: Xbox 360 Edition developer 4J Studios are joined by creations from 343 Industries, Rare, Mojang, Ronimo, Twisted Pixel, Tequila Works and more.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloweencharity.zip?checksum=f5decb59146ac02cb50588ae828ed724"
+          }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs_preview_images/spookybundle_preview_image.png"
+      }
+    ]
 }
+
