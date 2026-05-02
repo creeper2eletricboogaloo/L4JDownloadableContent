@@ -52,7 +52,7 @@
                                               "id":  "battleandthebeasts2",
                                               "name":  "Battle and the Beasts 2",
                                               "description":  "This second Battle \u0026 Beasts pack brings you more Animals, more Warriors and some surprising Mammals too! I am the Walrus!",
-                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/battleandthebeasts2.zip?checksum=0c1689d2a92804f13cfa5955d37313ef"
+                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/battleandthebeasts2.zip?checksum=62d60c0836ee08d4d71309b50d782a2b"
                                           },
                                           {
                                               "categoryId":  "skinpacks",
@@ -115,7 +115,7 @@
                                               "id":  "egyptianmythology",
                                               "name":  "Egyptian Mythology",
                                               "description":  "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
-                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=0ab6e6c0f4dfeb079dceb46cc577b9c8"
+                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=dac9357b58856748f889e3bef364356d"
                                           },
                                           {
                                               "categoryId":  "skinpacks",
@@ -269,7 +269,7 @@
                                               "id":  "norsemythology",
                                               "name":  "Norse Mythology",
                                               "description":  "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the nine realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand-carved textures, a thunderous soundtrack and a horde of skins. Skål!",
-                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=bd3ac98c1acca432b35e356b3e5fcce6"
+                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=b3e161aa6ab86bfac23b44fd213e72b4"
                                           },
                                           {
                                               "categoryId":  "skinpacks",
@@ -423,7 +423,7 @@
                                               "id":  "thenightmarebeforechristmas",
                                               "name":  "The Nightmare Before Christmas",
                                               "description":  "This is one of our best festive mash-ups yet! Jack Skellington and his fearsome friends are all here, making for a wonderfully ghoulish gallery of 40 spooktacular skins. As well as those 40 skins, you get a texture pack and a world full of some truly nightmarish redstone puzzles to solve, all scored to the excellent soundtrack from the movie!",
-                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/thenightmarebeforechristmas.zip?checksum=07681c8635a1d49d411805e37fad6609"
+                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/thenightmarebeforechristmas.zip?checksum=4cbf9f35b2211ce76de85eb05f9271a8"
                                           },
                                           {
                                               "categoryId":  "skinpacks",
@@ -536,7 +536,7 @@
                 "categoryId": "skinpacks",
                 "id": "festivemashup",
                 "name": "Festive Mash-Up Skin Pack",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=26d401f18a625d8c5059a295ea38cb19"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=d95cc04383f8ec025844846775c4760a"
               },
               {
                 "categoryId": "skinpacks",
@@ -576,7 +576,7 @@
                 "categoryId": "skinpacks",
                 "id": "halloween2015",
                 "name": "Halloween 2015",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=6e2480d43d329ad27a48c76540ea8612"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=a7df12ece3d83f558b9b046095876cba"
               }
             ]
           },
