@@ -46,7 +46,7 @@
                       "id":  "adventuretime",
                       "name":  "Adventure Time",
                       "description":  "Mash-up! Featured in this pack: your favorite Adventure Time characters, the Land of Ooo, a bespoke texture set, BMO themed UI and original soundtrack.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/adventuretime.zip?checksum=9f0613096822f62a91de8d610c71bde6"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/adventuretime.zip?checksum=c6fc193337c9a4781d644a029b5480ea"
                   },
                   {
                       "id":  "biomesettlers",
@@ -70,7 +70,7 @@
                       "id":  "chinesemythology",
                       "name":  "Chinese Mythology",
                       "description":  "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China. Minecrafters get to explore a Chinese Mythology-themed world, with glorious Textures, legendary Skins and enchanting Music. The Pack also includes a themed Battle map exclusive to this Mash-up!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/chinesemythology.zip?checksum=140d0a40788dfb007e821620475116f0"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/chinesemythology.zip?checksum=2be1e2f18dc85a2beae89fcaa6e670b6"
                   },
                   {
                       "id":  "classicskinpack1",
@@ -94,19 +94,23 @@
                       "id":  "egyptianmythology",
                       "name":  "Egyptian Mythology",
                       "description":  "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=dac9357b58856748f889e3bef364356d"
+
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=81f5d7ad8bc27f88506025442dbcb54f"
+
                   },
                   {
                       "id":  "finalfantasyxv",
                       "name":  "Final Fantasy XV Skin Pack",
                       "description":  "Join Noctis, Gladio, Ignis and Prompto once again as they venture beyond the world of Eos and into the untold realms of Minecraft with this fantastic skin pack. Be it friend or foe, the cast of FINAL FANTASY XV follows, including Cindy, Aranea, Ardyn, the Astrals and many more.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/finalfantasyxv.zip?checksum=7cd5a81ee3ff21d02e2471e3b9cc483c"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/finalfantasyxv.zip?checksum=a18c531840457fa886bea46db6975de4"
                   },
                   {
                       "id":  "fallout",
                       "name":  "Fallout",
                       "description":  "Welcome to the wasteland! Crack open the Vault containing 44 unique skins from the Fallout Mash-Up Pack.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fallout.zip?checksum=a6ca06a49bc94a67f72386ef3cb9dc47"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fallout.zip?checksum=846796927f0b633f033ba204ac5d2d61"
                   },
                   {
                       "id":  "festivemashup",
@@ -124,7 +128,7 @@
                       "id":  "fromtheshadows",
                       "name":  "From the Shadows Skin Pack",
                       "description":  "Get these excruciatingly detailed horrors in the \"From the Shadows\" HD skin pack.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fromtheshadows.zip?checksum=840c601990ac9dfc6fe7f93554bf2eb0"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fromtheshadows.zip?checksum=f91480518f890550ed5accda1f03a1e9"
                   },
                   {
                       "id":  "greekmythology",
@@ -220,13 +224,17 @@
                       "id":  "moana",
                       "name":  "Moana Character Pack",
                       "description":  "Set sail with Moana, Maui and all the crew from Motunui. How far will you go in Minecraft with this adventurous character set? You’re welcome!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/moana.zip?checksum=8e658d0ea7c0fb79f47aed5cf7e430dc"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/moana.zip?checksum=4ba1bedba8b1c87357b385f7cb3d2a4d"
                   },
                   {
                       "id":  "norsemythology",
                       "name":  "Norse Mythology",
                       "description":  "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the nine realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand-carved textures, a thunderous soundtrack and a horde of skins. Skål!",
+
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=b3e161aa6ab86bfac23b44fd213e72b4"
+
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=ee1707fa1b526ac34277ce91b9663118"
+
                   },
                   {
                       "id":  "powerrangers",
@@ -238,7 +246,11 @@
                       "id":  "piratesofthecaribbean",
                       "name":  "Pirates of the Caribbean",
                       "description":  "Explore the shipwrecks of Minecraft\u0027s oceans with than Captain Jack Sparrow, Blackbeard, Davy Jones and over forty (count \u0027em!) skins from all five movies.",
+
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=06f6ac3158148da5ae9a4e8a985b99ac"
+
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=51cfbba4328fd23a614f0668518684fb"
+
                   },
                   {
                       "id":  "redstonespecialists",
@@ -292,19 +304,19 @@
                       "id":  "supermario",
                       "name":  "Super Mario",
                       "description":  "The Super Mario Mash-Up Pack is a free mash-up pack exclusively available for the Nintendo console versions of Minecraft.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supermario.zip?checksum=1356b9ebde9daa3efbcdda30b45560ac"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supermario.zip?checksum=76d00bc2db4332df0edd78cfb3a81b33"
                   },
                   {
                       "id":  "starwarssolo",
                       "name":  "Solo: A Star Wars Story Pack",
                       "description":  "Buckle up and jump into hyperspace with the Solo: A Star Wars Story™ Skin Pack! Assemble a crew with characters like Han Solo, Lando Calrissian, L3-37 and more!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarssolo.zip?checksum=41ba3ade86daf52aeb617f38ef3fad5b"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarssolo.zip?checksum=e29bb86a2c33194598c355e3ec6dbf29"
                   },
                   {
                       "id":  "starwarsclassic",
                       "name":  "Star Wars Classic",
                       "description":  "A long time ago in a galaxy far, far away....  The Star Wars Classic Skin Pack features an assortment of over 50 heroes, villains, and rogues from the Galactic Civil War.  Whether you pick a Jawa or the mighty Darth Vader, you can play as your favorite Star Wars characters from Episodes IV to VI, Minecraft style.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarsclassic.zip?checksum=45c97c56edcb257112b2913b822f5d13"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarsclassic.zip?checksum=028d14c0e702c514a162d81a0e51e31d"
                   },
                   {
                       "id":  "starwarsprequel",
@@ -322,13 +334,13 @@
                       "id":  "starwarssequel",
                       "name":  "Star Wars Sequel Skin Pack",
                       "description":  "Star Wars Sequel Skin Pack, featuring a total of 53 characters from The Force Awakens and The Last Jedi.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarssequel.zip?checksum=d7e36d94e1caef780a40ef041b52530d"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarssequel.zip?checksum=7ba8ea2b872bb2dfdf505ef2bc3b2404"
                   },
                   {
                       "id":  "stevenuniverse",
                       "name":  "Steven Universe",
                       "description":  "This mash-up contains your favourite locations, from Beach City all the way to Homeworld, original music from the show, and a diamond-shattering 48 skins!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/stevenuniverse.zip?checksum=fceee89a74802b374401e71a57b4c96c"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/stevenuniverse.zip?checksum=515aba3e520c94e2748f67c45de3e266"
                   },
                   {
                       "id":  "storymode",
@@ -340,7 +352,7 @@
                       "id":  "strangerthings",
                       "name":  "Stranger Things",
                       "description":  "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80\u0027s fashion choices.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/strangerthings.zip?checksum=9e36ba2e73596b05fd02a16ffb640d88"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/strangerthings.zip?checksum=c101d816396d2cf20a4f7bab1e3e148c"
                   },
                   {
                       "id":  "biomesettlers3",
@@ -358,25 +370,29 @@
                       "id":  "thenightmarebeforechristmas",
                       "name":  "The Nightmare Before Christmas",
                       "description":  "This is one of our best festive mash-ups yet! Jack Skellington and his fearsome friends are all here, making for a wonderfully ghoulish gallery of 40 spooktacular skins. As well as those 40 skins, you get a texture pack and a world full of some truly nightmarish redstone puzzles to solve, all scored to the excellent soundtrack from the movie!",
+
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/thenightmarebeforechristmas.zip?checksum=fd571216dcc78469647f9507e2d3e7c5"
+
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/thenightmarebeforechristmas.zip?checksum=c710777894082138a132194e18ae1b2e"
+
                   },
                   {
                       "id":  "toystory",
                       "name":  "Toy Story",
                       "description":  "Play as Woody, Buzz Lightyear, Jessie, Bo Peep, Forky and more Toy Story characters.",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/toystory.zip?checksum=84e1c113bea0bb0b6332bb89e6056bbc"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/toystory.zip?checksum=1df85cfbd939deb46a780441694f1d47"
                   },
                   {
                       "id":  "supercuteskins",
                       "name":  "Super Cute Skin Pack",
                       "description":  "The Super Cute Skin Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This skin pack comes with 15 skins!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supercuteskins.zip?checksum=60ee5953d544ef0ecaa5132d9f21e1b3"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supercuteskins.zip?checksum=5acad3a7815e80ad737151863346d7ba"
                   },
                   {
                       "id":  "theincredibles",
                       "name":  "The Incredibles Skin Pack",
                       "description":  "Grab your super suit and join the action with the Parr family and other heroes and villains in this incredible skin pack!",
-                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/theincredibles.zip?checksum=fb879a21a6bb6200437d8916ba997d61"
+                      "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/theincredibles.zip?checksum=9d4885c345f7287e5edc76efcab7a325"
                   },
                   {
                       "id":  "thesimpsons",
