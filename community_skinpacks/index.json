@@ -8,6 +8,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/founders_cape_preview.png?checksum=6e5d0ff80e489ca28276357a21d9c6fd"
     },
     {
+      "id": "minecraft_drops_skin_pack",
+      "name": "Minecraft Drops Skin Pack",
+      "description": "A collection of Java skins released alongside Minecraft game drops, featuring The Copper Age, The Garden Awakens, and Tiny Takeover: Mob Caretakers.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/minecraft_drops_skin_pack.zip?checksum=088ce0520cb202d817850765e9ff3698",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/minecraft_drops_skin_pack_preview.png?checksum=d8fa0f26470fac9b1f17e796ba4d987f"
+    },
+    {
       "id": "norse_mythology_bonus_skins",
       "name": "Norse Mythology Bonus Skins",
       "description": "Need a mini-horde of Vikings to get your midwinter festival started? Have these free Norse Mythology skins and party till Ragnarök. Skål!",
@@ -15,11 +22,11 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/norse_mythology_bonus_skins_preview.png?checksum=3b0d281545accc212608b83dd9a41d85"
     },
     {
-      "id": "minecraft_drops_skin_pack",
-      "name": "Minecraft Drops Skin Pack",
-      "description": "A collection of Java skins released alongside Minecraft game drops, featuring The Copper Age, The Garden Awakens, and Tiny Takeover: Mob Caretakers.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/minecraft_drops_skin_pack.zip?checksum=ec8aa24409ad5e3eabd68395cad60613",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/minecraft_drops_skin_pack_preview.png?checksum=d8fa0f26470fac9b1f17e796ba4d987f"
+      "id": "sonic_skin_pack",
+      "name": "Sonic the Hedgehog",
+      "description": "Sonic the Hedgehog races into Minecraft at supersonic speeds! Sprint, roll, and spring off enemies through iconic zones, with infinite gameplay. Master the thrilling abilities of Sonic, Tails, Knuckles, and more! Compete with friends for high scores. Unlock achievements, characters, new zones, and a challenging Eggman Mode! Includes popular skins.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/sonic_skin_pack.zip?checksum=36df0bd563a079009d9b5284cbdf381d",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/sonic_skin_pack_preview.png?checksum=51fe58935f24d0424c69b504e39c6fc7"
     },
     {
       "id": "superman_skin_pack",
@@ -29,11 +36,11 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/superman_skin_pack_preview.png?checksum=ea814296762d9b96e12bbda3cbd2b884"
     },
     {
-      "id": "sonic_skin_pack",
-      "name": "Sonic the Hedgehog",
-      "description": "Sonic the Hedgehog races into Minecraft at supersonic speeds! Sprint, roll, and spring off enemies through iconic zones, with infinite gameplay. Master the thrilling abilities of Sonic, Tails, Knuckles, and more! Compete with friends for high scores. Unlock achievements, characters, new zones, and a challenging Eggman Mode! Includes popular skins.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/sonic_skin_pack.zip?checksum=9956629aba01e58bc647c0e7c4ee72ab",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/sonic_skin_pack_preview.png?checksum=51fe58935f24d0424c69b504e39c6fc7"
+      "id": "star_wars_mash_up",
+      "name": "Star Wars HD Mash-Up",
+      "description": "Explore the galaxy in this epic STAR WARS Mash-up, featuring characters and locations from the original trilogy and The Mandalorian series. This is the way!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/star_wars_mash_up.zip?checksum=97ba6a5627755899480e57bb41067b3c",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks_preview_images/star_wars_mash_up_preview.png?checksum=a7b30021d61ec4621135f06ce0f43e25"
     },
     {
       "id": "hermitcraft_skin_pack",
