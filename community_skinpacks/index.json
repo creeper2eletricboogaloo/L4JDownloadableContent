@@ -48,6 +48,13 @@
       "description": "Step into the vast and exciting world of Hermitcraft, download now and play as any of the 45 skins from your favorite Hermits!",
       "downloadURI": "https://github.com/user-attachments/files/26766356/hermitcraftskinpack.zip",
       "imageUrl": "https://github.com/user-attachments/assets/4ef57577-fb89-456d-a953-88d609181c12"
+    },
+    {
+      "id": "batman_skin_pack",
+      "name": "Batman",
+      "description": "Gotham City is in trouble but have no fear - Batman is here! Fly through the night as the Caped Crusader and save the city from Harley Quinn, The Joker, The Penguin, and more dastardly Super-Villains from the DC universe. Explore the legendary Batcave, utilize the Bat-Gadgets in your Utility Belt, and complete puzzles to repair the sabotaged Nether Portal and save Alfred!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/batman_skin_pack.zip?checksum=dc9747caf3553bef415040499ed24eaf",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/batman_skin_pack_preview.png?checksum=9c61a7f1ac4db86ad4eb5f5c5515bc23"
     }
   ]
 }
