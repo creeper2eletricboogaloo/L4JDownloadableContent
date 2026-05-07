@@ -5,7 +5,7 @@
       "name": "Old UI for Legacy4J",
       "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
       "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/44ad56e4d127c2cef2b24a179106fc27bdfe93ce/Legacy4J_preview_images/old_ui_preview_image.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/old_ui_preview_image.png"
     },
     {
       "id": "legacy_tutorial_worlds",
