@@ -22,6 +22,13 @@
       "imageUrl": "https://cdn.modrinth.com/data/cached_images/f1d953417d13f34e662550666797a1123473a613.png"
     },
     {
+      "id": "compressed_legacy_music",
+      "name": "Compressed Legacy Music",
+      "description": "Compressed music from Legacy Console Edition. Credit: UnerringCanoe7416.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/packs/compressed_legacy_music.zip",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/compressed_legacy_music_preview.png"
+    },
+    {
       "id": "legacy_panoramas",
       "name": "Legacy Console Edition Panorama Collection",
       "description": "LCE Panorama Collection is an add-on to Legacy4J which adds back all the Panoramas from old versions. It can be used to achieve an older look, or just because you like one more than a modern one or the TU69 one.",
