@@ -8,6 +8,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/old_ui_preview_image.png"
     },
     {
+      "id": "ore4j",
+      "name": "Ore4J",
+      "description": "Brings the style of Minecraft: Bedrock Edition's Ore UI into Legacy4J.",
+      "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/pEZP92gi/images/32b92a79bc6f096a0eed55ec9df5ad6fa3c3389b_350.webp"
+    },
+    {
       "id": "legacy_tutorial_worlds",
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
