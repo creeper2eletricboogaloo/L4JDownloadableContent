@@ -71,6 +71,20 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/star_wars_mash_up_preview.png?checksum=a7b30021d61ec4621135f06ce0f43e25"
     },
     {
+      "id": "star_wars_path_of_the_jedi",
+      "name": "Star Wars Path of the Jedi",
+      "description": "With your lightsaber in hand and your trusty droid by your side, it's time to explore the galaxy! In this adventure you'll get to play as a Jedi Knight, battle fearsome creatures, duel other Jedi, and embark on a special mission with Yoda to uncover the mysteries of a strange uncharted planet. Includes official Star Wars skins.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/star_wars_path_of_the_jedi.zip?checksum=26cea3d9eec200e2da772c24f0cd82f9",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/star_wars_path_of_the_jedi_preview.png?checksum=a7fc53628bf615883ce9220fefbc73de"
+    },
+    {
+      "id": "transformers_skin_pack",
+      "name": "Transformers",
+      "description": "There is more than meets the eye in this epic Transformers Adventure Map! Play as fan-favorite Autobots like Optimus Prime and Bumblebee as you work to stop familiar foes like Megatron and Starscream. Take your battles to the next level with a variety of blocky blasters and hop into co-op multiplayer to take on the fight for freedom with friends. Autobots, roll out!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/transformers_skin_pack.zip?checksum=e119b3614c92c4fc0dbf250cdd487951",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/transformers_skin_pack_preview.png?checksum=1c758dcf97dc93b9e645d51808bacff9"
+    },
+    {
       "id": "hermitcraft_skin_pack",
       "name": "Hermitcraft Skin Pack",
       "description": "Step into the vast and exciting world of Hermitcraft, download now and play as any of the 45 skins from your favorite Hermits!",
@@ -90,6 +104,20 @@
       "description": "Choose your favorite Sanrio character including Hello Kitty, Cinnamoroll, and Kuromi, then invite your friends to your tea party, parkour, obby, quest, or pet adventure!",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/hello_kitty_and_friends.zip?checksum=04afbacd637b824e49d80b280e3656d0",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/hello_kitty_and_friends_preview.png?checksum=5e4be856b104f762c2cc983c987dbe30"
+    },
+    {
+      "id": "kung_fu_panda",
+      "name": "Kung Fu Panda",
+      "description": "Unleash your inner AWESOMENESS with the DreamWorks Kung Fu Panda DLC! Master kung fu alongside Po and the Furious Five at the Jade Palace. Kick, punch, and skadoosh your way through this adventure map filled with action-packed battles, epic showdowns from the movies, and a multiplayer mode for pand-tastic fun!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/kung_fu_panda.zip?checksum=8a8e087a44664b3c25616d78a532de24",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/kung_fu_panda_preview.png?checksum=ec0bb3e06a87d695efd07f91b10c0a1a"
+    },
+    {
+      "id": "teenage_mutant_ninja_turtles",
+      "name": "Teenage Mutant Ninja Turtles",
+      "description": "Cowabunga! The Teenage Mutant Ninja Turtles have found their way into Minecraft in this radical DLC. Play as any of the four Turtles to take down gnarly enemies, save New York from Shredder and eat all the pizza! Includes official TMNT skins.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/teenage_mutant_ninja_turtles.zip?checksum=2a23dbd8ae741c3b39cc39f97b8ec892",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/teenage_mutant_ninja_turtles_preview.png?checksum=522b459c1a29acb1084ff7646abb3449"
     }
   ]
 }
