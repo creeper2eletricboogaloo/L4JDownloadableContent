@@ -15,6 +15,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/minecraft_drops_skin_pack_preview.png?checksum=d8fa0f26470fac9b1f17e796ba4d987f"
     },
     {
+      "id": "a_minecraft_movie_hero_pack",
+      "name": "A Minecraft Movie Hero Pack",
+      "description": "Become a hero from A MINECRAFT MOVIE with this free skin pack. Get it at Minecraft Marketplace!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/a_minecraft_movie_hero_pack.zip?checksum=475f694e640c1284a54a281eb1d88b57",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/a_minecraft_movie_hero_pack_preview.png?checksum=9ba29835bcc859715c40522c01db52fd"
+    },
+    {
       "id": "norse_mythology_bonus_skins",
       "name": "Norse Mythology Bonus Skins",
       "description": "Need a mini-horde of Vikings to get your midwinter festival started? Have these free Norse Mythology skins and party till Ragnarök. Skål!",
@@ -27,6 +34,20 @@
       "description": "Sonic the Hedgehog races into Minecraft at supersonic speeds! Sprint, roll, and spring off enemies through iconic zones, with infinite gameplay. Master the thrilling abilities of Sonic, Tails, Knuckles, and more! Compete with friends for high scores. Unlock achievements, characters, new zones, and a challenging Eggman Mode! Includes popular skins.",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/sonic_skin_pack.zip?checksum=36df0bd563a079009d9b5284cbdf381d",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/sonic_skin_pack_preview.png?checksum=51fe58935f24d0424c69b504e39c6fc7"
+    },
+    {
+      "id": "spongebob_squarepants_skin_pack",
+      "name": "SpongeBob",
+      "description": "Are you ready, kids? It's time to join your favourite under-the-sea chums on an adventure in Minecraft! Visit Bikini Bottom and help make today the BEST DAY EVER for SpongeBob, Patrick, Sandy, and friends. Complete with 38 skins.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/spongebob_squarepants_skin_pack.zip?checksum=fe982869dad6aa3a5817ce3fda97b665",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/spongebob_squarepants_skin_pack_preview.png?checksum=d59fac9b9480a46da0778460715625dc"
+    },
+    {
+      "id": "spongebob_bonus_skin_pack",
+      "name": "Spongebob Bonus Skin Pack",
+      "description": "A bonus SpongeBob skin pack featuring SpongeBob, Patrick, Squidward, Mr. Krabs, Flying Dutchman, and Barb.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/spongebob_bonus_skin_pack.zip?checksum=81a486d5a5e54ef788b88ebf456a0ea6",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/spongebob_bonus_skin_pack_preview.png?checksum=d59fac9b9480a46da0778460715625dc"
     },
     {
       "id": "superman_skin_pack",
@@ -55,6 +76,13 @@
       "description": "Gotham City is in trouble but have no fear - Batman is here! Fly through the night as the Caped Crusader and save the city from Harley Quinn, The Joker, The Penguin, and more dastardly Super-Villains from the DC universe. Explore the legendary Batcave, utilize the Bat-Gadgets in your Utility Belt, and complete puzzles to repair the sabotaged Nether Portal and save Alfred!",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/batman_skin_pack.zip?checksum=dc9747caf3553bef415040499ed24eaf",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/batman_skin_pack_preview.png?checksum=9c61a7f1ac4db86ad4eb5f5c5515bc23"
+    },
+    {
+      "id": "hello_kitty_and_friends",
+      "name": "Hello Kitty and Friends",
+      "description": "Choose your favorite Sanrio character including Hello Kitty, Cinnamoroll, and Kuromi, then invite your friends to your tea party, parkour, obby, quest, or pet adventure!",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/hello_kitty_and_friends.zip?checksum=04afbacd637b824e49d80b280e3656d0",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/hello_kitty_and_friends_preview.png?checksum=5e4be856b104f762c2cc983c987dbe30"
     }
   ]
 }
