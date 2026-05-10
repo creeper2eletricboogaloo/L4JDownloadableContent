@@ -5,14 +5,22 @@
       "name": "Old UI for Legacy4J",
       "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
       "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/44ad56e4d127c2cef2b24a179106fc27bdfe93ce/Legacy4J_preview_images/old_ui_preview_image.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/old_ui_preview_image.png"
+    },
+    {
+      "id": "ore4j",
+      "name": "Ore4J",
+      "description": "Brings the style of Minecraft: Bedrock Edition's Ore UI into Legacy4J.",
+      "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/pEZP92gi/images/32b92a79bc6f096a0eed55ec9df5ad6fa3c3389b_350.webp"
     },
     {
       "id": "legacy_tutorial_worlds",
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
       "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
-      "imageUrl": "https://cdn.modrinth.com/data/WUq4Lff9/images/05118273a76dead098a1863e0b1108e77efb5694.png"
+      "imageUrl": "https://cdn.modrinth.com/data/WUq4Lff9/images/05118273a76dead098a1863e0b1108e77efb5694.png",
+      "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "legacy_titles",
@@ -20,6 +28,13 @@
       "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different \"Edition\" titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
       "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
       "imageUrl": "https://cdn.modrinth.com/data/cached_images/f1d953417d13f34e662550666797a1123473a613.png"
+    },
+    {
+      "id": "compressed_legacy_music",
+      "name": "Compressed Legacy Music",
+      "description": "Compressed music from Legacy Console Edition. Credit: UnerringCanoe7416.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/packs/compressed_legacy_music.zip",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/compressed_legacy_music_preview.png"
     },
     {
       "id": "legacy_panoramas",
