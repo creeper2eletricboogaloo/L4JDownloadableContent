@@ -37,10 +37,45 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/compressed_legacy_music_preview.png"
     },
     {
-      "id": "legacy_panoramas",
-      "name": "Legacy Console Edition Panorama Collection",
-      "description": "LCE Panorama Collection is an add-on to Legacy4J which adds back all the Panoramas from old versions. It can be used to achieve an older look, or just because you like one more than a modern one or the TU69 one.",
-      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/Hwl7FQm1/tu69.zip",
+      "id": "legacy_panorama_tu5",
+      "name": "TU5 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU5 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_panorama_tu7",
+      "name": "TU7 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU7 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_panorama_tu12",
+      "name": "TU12 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU12 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_panorama_tu20",
+      "name": "TU20 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU20 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_panorama_tu31",
+      "name": "TU31 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU31 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip",
+      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
+    },
+    {
+      "id": "legacy_panorama_tu46",
+      "name": "TU46 Panorama",
+      "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU46 panorama from Legacy Console Edition.",
+      "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip",
       "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png"
     },
     {
