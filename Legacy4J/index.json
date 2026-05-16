@@ -86,6 +86,14 @@
       "imageUrl": ""
     },
     {
+      "id": "pre_1_13_waters",
+      "name": "Pre-1.13 Waters",
+      "description": "A version of legacy waters that restores pre aquatic water colours",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/packs/pre_1_13_waters.zip",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/pre_1_13_waters_preview.png",
+      "tags": ["auto_apply_resource_pack"]
+    },
+    {
       "id": "dark_ui",
       "name": "Default Dark Mode: Legacy4J",
       "description": "This resource pack is a stand-alone version of DDM: EXPANSION that only contains the Legacy4J-related assets and some of the essential minecraft assets!",
