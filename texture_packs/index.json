@@ -5,6 +5,13 @@
       "name": "Minecraft Super Cute Texture Pack",
       "description": "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This pack adds super cute textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/nrtOJiLM/Super%20Cute%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/2mQTFbQi/Super%20Cute%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png"
     },
     {
@@ -12,6 +19,13 @@
       "name": "Minecraft City Texture Pack",
       "description": "Free your inner architect and shape the world around you.This pack adds a creative texture set, ideal for building structures. Includes unique textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/I1UhD6DR/City%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/Hr5AbtbS/City%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png"
     },
     {
@@ -33,6 +47,13 @@
       "name": "Minecraft Fantasy Texture Pack",
       "description": "Transport yourselves to a time where knights were heroes. This pack adds a medieval, fantasy look for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/kVfBtnvh/Fantasy%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/klsZagV7/Fantasy%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png"
     },
     {
@@ -47,6 +68,13 @@
       "name": "Minecraft Cartoon Texture Pack",
       "description": "Googly eyes! Goofy grins! Turn your world into a toon with this pack. This pack adds themed textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/NPsoth4J/Cartoon%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png"
     },
     {
@@ -54,6 +82,13 @@
       "name": "Minecraft: Steampunk Texture Pack",
       "description": "Create your own Industrial Revolution with this Victorian inspired Steampunk texture pack! This pack adds steampunk-themed textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/aIVZEkA1/Steampunk%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/8XFYYI9J/Steampunk%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png"
     },
     {
@@ -61,6 +96,13 @@
       "name": "Minecraft: Pattern Texture Pack",
       "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals! This pack adds themed textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/Xa45Zpzi/Pattern%20Texture%20Pack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png"
     }
   ]

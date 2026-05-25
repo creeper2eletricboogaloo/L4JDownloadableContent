@@ -487,7 +487,14 @@
                                               "id":  "pattern_texture_pack",
                                               "name":  "Minecraft: Pattern Texture Pack",
                                               "description":  "Decorate your world with bright patterns, knitted animals, and themed textures for blocks, items, entities, and the UI.",
-                                              "downloadURI":  "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip"
+                                              "downloadURI":  "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/Xa45Zpzi/Pattern%20Texture%20Pack.zip"
+                                                }
+                                              ]
                                           },
                                           {
                                               "categoryId":  "mashup_packs",
@@ -496,14 +503,28 @@
                                               "description":  "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
                                               "downloadURI":  "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip",
                                               "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
-                                              "worldTemplateFolderName":  "Greek Mythology Mash-up"
+                                              "worldTemplateFolderName":  "Greek Mythology Mash-up",
+                                              "worldTemplateVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/greek_mythology.mcsave?checksum=184741d1889f2a348caacc8963ed635d"
+                                                }
+                                              ]
                                           },
                                           {
                                               "categoryId":  "texture_packs",
                                               "id":  "cartoon_texture_pack",
                                               "name":  "Minecraft Cartoon Texture Pack",
                                               "description":  "Googly eyes, goofy grins, and a full toon-style makeover for blocks, items, entities, and the UI.",
-                                              "downloadURI":  "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip"
+                                              "downloadURI":  "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/NPsoth4J/Cartoon%20Texture%20Pack.zip"
+                                                }
+                                              ]
                                           },
                                           {
                                               "categoryId":  "mashup_packs",
@@ -511,8 +532,22 @@
                                               "name":  "Minecraft Chinese Mythology Mash-Up",
                                               "description":  "Journey through epic terrain and find enlightenment in a land of dragons inspired by the myths and legends of China.",
                                               "downloadURI":  "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/BvSIXdzA/Chinese%20Mythology%20Mash-up.zip"
+                                                }
+                                              ],
                                               "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
-                                              "worldTemplateFolderName":  "Chinese Mythology Mash-up"
+                                              "worldTemplateFolderName":  "Chinese Mythology Mash-up",
+                                              "worldTemplateVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/chinese_mythology.mcsave?checksum=3d0f069e94574b18413bd2fded48f8c5"
+                                                }
+                                              ]
                                           }
                                       ],
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/builders_pack_preview.png"
@@ -531,6 +566,13 @@
             "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png",
             "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/festive.mcsave?checksum=fd85c535ce5f458f0d91b82cdaa5edd6",
             "worldTemplateFolderName": "Festive Mash-up",
+            "worldTemplateVariants": [
+              {
+                "id": "26_1_2",
+                "minVersion": "26.1.2",
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/festive.mcsave?checksum=57a5cd0cc2be85c8dedeb5b125d11b5b"
+              }
+            ],
             "bundlePacks": [
               {
                 "categoryId": "skinpacks",
@@ -568,9 +610,23 @@
             "name": "Minecraft: Halloween 2015 Mash-up Pack",
             "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash-up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
             "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
+            "downloadVariants": [
+              {
+                "id": "26_1_2",
+                "minVersion": "26.1.2",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/uOPMsnqO/Halloween%20Mash-up.zip"
+              }
+            ],
             "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png",
             "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/halloween.mcsave?checksum=7a55bcdbf19af023d4439a0dfcb9ac66",
             "worldTemplateFolderName": "Halloween Mash-up",
+            "worldTemplateVariants": [
+              {
+                "id": "26_1_2",
+                "minVersion": "26.1.2",
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/halloween.mcsave?checksum=e943c5dd44ff16a8d3fa9819534ff2bd"
+              }
+            ],
             "bundlePacks": [
               {
                 "categoryId": "skinpacks",

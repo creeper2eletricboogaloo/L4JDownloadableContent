@@ -8,6 +8,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/potc_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/pirates_of_the_caribbean.mcsave?checksum=3c71ca2803e358ecf00d386fe22c9110",
       "worldTemplateFolderName": "Pirates of the Carribean Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/pirates_of_the_caribbean.mcsave?checksum=ca976c1efcc50b2cce4d852ac2db9e2f"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -22,9 +29,23 @@
       "name": "Minecraft Egyptian Mythology Mash-Up",
       "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, and an epic soundtrack!",
       "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/xhUR5AEF/Egyptian%20Mythology%20Mash-up.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/egyptianmytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/egyptian_mythology.mcsave?checksum=746b8071842d3649047b8cde41fbc10a",
       "worldTemplateFolderName": "Egyptian Mythology Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/egyptian_mythology.mcsave?checksum=dcc3ac8075742e43aca29970a3f4a7cb"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -39,9 +60,23 @@
       "name": "Minecraft Norse Mythology Mash-Up",
       "description": "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skal!",
       "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/Zi7yz6pF/Norse%20Mythology%20Mash-up.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/6Qk4j2mz/Norse%20Mythology%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/norsemytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/norse_mythology.mcsave?checksum=ab0f86f8835a9d69600975241ae037f0",
       "worldTemplateFolderName": "Norse Mythology Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/norse_mythology.mcsave?checksum=ddfe0a2669ecf056493668cf547b4320"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -59,6 +94,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/festive.mcsave?checksum=fd85c535ce5f458f0d91b82cdaa5edd6",
       "worldTemplateFolderName": "Festive Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/festive.mcsave?checksum=57a5cd0cc2be85c8dedeb5b125d11b5b"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -73,9 +115,23 @@
       "name": "Minecraft Chinese Mythology Mash-Up",
       "description": "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China.",
       "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/BvSIXdzA/Chinese%20Mythology%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/chinesemytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
       "worldTemplateFolderName": "Chinese Mythology Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/chinese_mythology.mcsave?checksum=3d0f069e94574b18413bd2fded48f8c5"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -93,6 +149,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/greekmytho_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
       "worldTemplateFolderName": "Greek Mythology Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/greek_mythology.mcsave?checksum=184741d1889f2a348caacc8963ed635d"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -110,6 +173,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/fallout_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/fallout.mcsave?checksum=bc6c118c675967dd4f5d027741ee87a5",
       "worldTemplateFolderName": "Fallout Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/fallout.mcsave?checksum=7d9b0ff2483086dcbebc7256afcc40bd"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -127,6 +197,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/masseffect_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/mass_effect.mcsave?checksum=42f063b31d467ccc02f2b4013422bf0b",
       "worldTemplateFolderName": "Mass Effect Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/mass_effect.mcsave?checksum=a1d7f9148df30d16e826ceff3e89d2ea"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -158,9 +235,23 @@
       "name": "Minecraft: Halloween 2015 Mash-up Pack",
       "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
       "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/uOPMsnqO/Halloween%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/halloween.mcsave?checksum=7a55bcdbf19af023d4439a0dfcb9ac66",
       "worldTemplateFolderName": "Halloween Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/halloween.mcsave?checksum=e943c5dd44ff16a8d3fa9819534ff2bd"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -175,9 +266,23 @@
       "name": "Super Mario Mash-Up",
       "description": "The Super Mario Mash-Up Pack is a free mash-up pack exclusively available for the Nintendo console versions of Minecraft.",
       "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/liceZcLU/Super%20Mario%20Mash-Up.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/YWSJqNQi/Super%20Mario%20Mash-Up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/supermario_preview.png",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/super_mario.mcsave?checksum=ea30bcbf32ff177d08dd73bc319a5ace",
       "worldTemplateFolderName": "Super Mario Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/super_mario.mcsave?checksum=b4602f1848343ef902ed6a6959d733e3"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
