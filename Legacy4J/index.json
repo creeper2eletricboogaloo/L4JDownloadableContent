@@ -1,6 +1,21 @@
 {
   "packs": [
     {
+      "id": "faithful_legacy",
+      "name": "Faithful Legacy",
+      "description": "Legacy4J support for Faithful 32x, bringing Faithful-style UI textures to the Legacy4J interface.",
+      "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/vFwN1BQC/faithful_legacy.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        }
+      ],
+      "imageUrl": "https://cdn.modrinth.com/data/PbrKfOSH/134374402edbbdccd590427c6e686a7325bd1c4a.png",
+      "tags": ["auto_apply_resource_pack"]
+    },
+    {
       "id": "old_ui",
       "name": "Old UI for Legacy4J",
       "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
@@ -90,8 +105,7 @@
       "name": "Pre-1.13 Waters",
       "description": "A version of legacy waters that restores pre aquatic water colours",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/packs/pre_1_13_waters.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/pre_1_13_waters_preview.png",
-      "tags": ["auto_apply_resource_pack"]
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/refs/heads/main/Legacy4J/preview_images/pre_1_13_waters_preview.png"
     },
     {
       "id": "dark_ui",
