@@ -12,7 +12,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
         }
       ],
-      "imageUrl": "https://cdn.modrinth.com/data/PbrKfOSH/134374402edbbdccd590427c6e686a7325bd1c4a.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/faithful_legacy_preview.png",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -27,7 +27,7 @@
       "name": "Ore4J",
       "description": "Brings the style of Minecraft: Bedrock Edition's Ore UI into Legacy4J.",
       "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
-      "imageUrl": "https://cdn.modrinth.com/data/pEZP92gi/images/32b92a79bc6f096a0eed55ec9df5ad6fa3c3389b_350.webp"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/ore4j_preview.png"
     },
     {
       "id": "legacy_tutorial_worlds",
