@@ -1,0 +1,19 @@
+{
+  "modrinth": {
+    "loader": "minecraft",
+    "versionTypes": [
+      "release"
+    ],
+    "variants": [
+      {
+        "id": "26_1_2",
+        "minVersion": "26.1.2"
+      }
+    ],
+    "autoDiscoverVariants": {
+      "enabled": true,
+      "gameVersionPattern": "^26\\.[0-9]+(\\.[0-9]+)?$",
+      "minimumProjects": 3
+    }
+  }
+}
