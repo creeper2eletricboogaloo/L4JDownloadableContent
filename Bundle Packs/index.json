@@ -185,7 +185,7 @@
                                               "id":  "halo",
                                               "name":  "Halo",
                                               "description":  "Includes 40 Halo character skins from Legacy Console Edition.",
-                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halo.zip?checksum=afeb5ccfa4594787b7ce8dd90500cba5"
+                                              "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halo.zip?checksum=0cbbf6bce45981c72e539924678b7482"
                                           },
                                           {
                                               "categoryId":  "skinpacks",
@@ -461,7 +461,7 @@
                                               "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/villians.zip?checksum=178410c38713ad52a6555dae60caa813"
                                           }
                                       ],
-                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/skinpack_megabundle_preview_image.png"
+                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/skinpack_megabundle_preview_image.png?checksum=32e2dbf7eac3b9eb6ec665790c956dc5"
                   },
                   {
                       "id":  "builders_pack",
@@ -473,14 +473,28 @@
                                               "id":  "plastic_texture_pack",
                                               "name":  "Minecraft Plastic Texture Pack",
                                               "description":  "Make your worlds simple, colorful, and vibrant with bright plastic-themed textures for blocks, items, entities, and the UI.",
-                                              "downloadURI":  "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+                                              "downloadURI":  "https://cdn.modrinth.com/data/meEXwbr9/versions/zT0YGbvp/Plastic%20Texture%20Pack.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+                                                }
+                                              ]
                                           },
                                           {
                                               "categoryId":  "texture_packs",
                                               "id":  "candy_texture_pack",
                                               "name":  "Minecraft Candy Texture Pack",
                                               "description":  "Indulge your sweet tooth with sugar-coated textures for blocks, items, entities, and the UI.",
-                                              "downloadURI":  "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+                                              "downloadURI":  "https://cdn.modrinth.com/data/NGIRqFgR/versions/R2Sp0xlI/Candy%20Texture%20Pack.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+                                                }
+                                              ]
                                           },
                                           {
                                               "categoryId":  "texture_packs",
@@ -501,7 +515,14 @@
                                               "id":  "greekmythology",
                                               "name":  "Minecraft Greek Mythology Mash-Up",
                                               "description":  "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
-                                              "downloadURI":  "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip",
+                                              "downloadURI":  "https://cdn.modrinth.com/data/WtfCCeNe/versions/X3RfZgU8/Greek%20Mythology%20Mash-up.zip",
+                                              "downloadVariants":  [
+                                                {
+                                                  "id": "26_1_2",
+                                                  "minVersion": "26.1.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip"
+                                                }
+                                              ],
                                               "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
                                               "worldTemplateFolderName":  "Greek Mythology Mash-up",
                                               "worldTemplateVariants":  [
@@ -550,7 +571,7 @@
                                               ]
                                           }
                                       ],
-                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/builders_pack_preview.png"
+                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/builders_pack_preview.png?checksum=4a2abd9c0456986fcc05905dd462ac20"
                   },
       {
         "id": "merrybundle",
@@ -562,8 +583,15 @@
             "id": "festive",
             "name": "Festive Mash-Up Pack",
             "description": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
-            "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip",
-            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png",
+            "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/D5bB70i8/Festive%20Mash-up.zip",
+            "downloadVariants": [
+              {
+                "id": "26_1_2",
+                "minVersion": "26.1.2",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip"
+              }
+            ],
+            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png?checksum=f993342066347947fa3e91a046b74e79",
             "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/festive.mcsave?checksum=fd85c535ce5f458f0d91b82cdaa5edd6",
             "worldTemplateFolderName": "Festive Mash-up",
             "worldTemplateVariants": [
@@ -590,7 +618,7 @@
             ]
           }
         ],
-        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/merrybundle_preview_image.png"
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/merrybundle_preview_image.png?checksum=96942d717ffaccab85b65e78b383a862"
       },
       {
         "id": "spookybundle",
@@ -609,7 +637,7 @@
             "id": "halloween_mashup",
             "name": "Minecraft: Halloween 2015 Mash-up Pack",
             "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash-up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
-            "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/sFROQbvz/Halloween%20Mash-up.zip",
+            "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/ZW2YDeII/Halloween%20Mash-up.zip",
             "downloadVariants": [
               {
                 "id": "26_1_2",
@@ -617,7 +645,7 @@
                 "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/uOPMsnqO/Halloween%20Mash-up.zip"
               }
             ],
-            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png",
+            "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png?checksum=1b30b99839372180163854bf6f20aaad",
             "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/halloween.mcsave?checksum=7a55bcdbf19af023d4439a0dfcb9ac66",
             "worldTemplateFolderName": "Halloween Mash-up",
             "worldTemplateVariants": [
@@ -644,7 +672,7 @@
             "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloweencharity.zip?checksum=f5decb59146ac02cb50588ae828ed724"
           }
         ],
-        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/spookybundle_preview_image.png"
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/spookybundle_preview_image.png?checksum=50fd1ef1fc79c7d8f791020d3c9d96fc"
       }
     ]
 }

@@ -12,7 +12,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/2mQTFbQi/Super%20Cute%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png?checksum=90c539ae712e564f2af8986f0829a7ea"
     },
     {
       "id": "city_texture_pack",
@@ -26,21 +26,35 @@
           "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/Hr5AbtbS/City%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png?checksum=36bf72f13ac6b376930c2ff02fc68abf"
     },
     {
       "id": "plastic_texture_pack",
       "name": "Minecraft Plastic Texture Pack",
       "description": "Make your worlds simple, colorful and vibrant! This brightly colored and simple pack adds plastic-themed textures for blocks, items, and entities, along with a completely transformed UI.",
-      "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/plastic_preview.png"
+      "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/zT0YGbvp/Plastic%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/plastic_preview.png?checksum=02036b9040383e89bfa1484d601a95a0"
     },
     {
       "id": "natural_texture_pack",
       "name": "Natural Texture Pack",
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.This pack includes detailed textures for blocks, items, entities, and UI that give a refined feel without straying too far from the vanilla game.",
-      "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/natural_preview.png"
+      "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/oR14vI1u/Natural%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip"
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/natural_preview.png?checksum=d305fcbc6e16609da59220194c3112ec"
     },
     {
       "id": "fantasy_texture_pack",
@@ -54,14 +68,21 @@
           "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/klsZagV7/Fantasy%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png?checksum=71ed0dd760100f4a36f9a86e1f5b2e71"
     },
     {
       "id": "candy_texture_pack",
       "name": "Minecraft Candy Texture Pack",
       "description": "Indulge your sweet tooth with this sugar-coated texture pack! This sweet pack adds tantalizing textures for blocks, items, entities, and UI",
-      "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/candy_preview.png"
+      "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/R2Sp0xlI/Candy%20Texture%20Pack.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/candy_preview.png?checksum=c2a666c7848e01fddc79c48ca05e4532"
     },
     {
       "id": "cartoon_texture_pack",
@@ -75,7 +96,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/NPsoth4J/Cartoon%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png?checksum=cba8394158d49add0742570dd36ec636"
     },
     {
       "id": "steampunk_texture_pack",
@@ -89,7 +110,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/8XFYYI9J/Steampunk%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png?checksum=e0836c9107eae8ee714581523509f072"
     },
     {
       "id": "pattern_texture_pack",
@@ -103,7 +124,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/Xa45Zpzi/Pattern%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png?checksum=1622719b10fa02e5eb3639a7b296845f"
     }
   ]
 }
