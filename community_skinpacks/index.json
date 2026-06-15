@@ -1,6 +1,13 @@
 {
   "packs": [
     {
+      "id": "nicsonic_collection",
+      "name": "NicSonic Collection",
+      "description": "Play as one of 12 awesome skins in the first user submitted community skinpack! Thanks NicSonic! ",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/packs/nicsonic_collection.zip?checksum=466afb865347aac318a3f46ddf7d5735",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/community_skinpacks/preview_images/nicsonic_collection_preview.png?checksum=bd737e1d78e7c9026ace53e5751bb03c"
+    },
+    {
       "id": "founders_cape",
       "name": "MINECON Founder's Pack",
       "description": "Celebrate the 15th anniversary of Minecraft with this collection of capes, including the 15th anniversary Cape, the founder's Cape and more!",
