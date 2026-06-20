@@ -10,7 +10,7 @@ def repo_root() -> Path:
 
 
 def default_logo_path() -> Path:
-    return repo_root() / "resources" / "bundle preview image template" / "header.png"
+    return repo_root() / "resources" / "preview logos" / "header.png"
 
 
 def resolve_path(value: str, base: Path) -> Path:
