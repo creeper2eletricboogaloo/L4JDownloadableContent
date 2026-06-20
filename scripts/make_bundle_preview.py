@@ -75,16 +75,22 @@ def paste_photos(canvas: Image.Image, paths: list[Path], box: tuple[int, int, in
         canvas.alpha_composite(photo, (x + slot_width * index, y))
 
 
-def extend_canvas_for_rows(canvas: Image.Image, box: tuple[int, int, int, int], extra_rows: int) -> Image.Image:
-    if extra_rows <= 0:
-        return canvas
-    _, y, _, height = box
-    row_bottom = y + height
-    new_canvas = Image.new("RGBA", (canvas.width, canvas.height + height * extra_rows), (0, 0, 0, 0))
-    new_canvas.alpha_composite(canvas.crop((0, 0, canvas.width, row_bottom)), (0, 0))
-    bottom = canvas.crop((0, row_bottom, canvas.width, canvas.height))
-    new_canvas.alpha_composite(bottom, (0, row_bottom + height * extra_rows))
-    return new_canvas
+def make_two_row_canvas(
+    canvas: Image.Image,
+    box: tuple[int, int, int, int],
+    top_row_height: int,
+    second_row_height: int,
+) -> tuple[Image.Image, tuple[int, int, int, int], int, int, int]:
+    x, y, width, height = box
+    title_band_y = y + height
+    title_band = canvas.crop((0, title_band_y, canvas.width, canvas.height))
+    new_height = y + top_row_height + title_band.height + second_row_height
+    new_canvas = Image.new("RGBA", (canvas.width, new_height), (0, 0, 0, 0))
+    new_canvas.alpha_composite(canvas.crop((0, 0, canvas.width, y)), (0, 0))
+    new_title_y = y + top_row_height
+    new_canvas.alpha_composite(title_band, (0, new_title_y))
+    second_row_y = new_title_y + title_band.height
+    return new_canvas, (x, y, width, top_row_height), second_row_y, new_title_y, title_band.height
 
 
 def load_font(path: Path | None, size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
@@ -159,6 +165,8 @@ def main() -> int:
     parser.add_argument("--photos", nargs=3)
     parser.add_argument("--photos2", nargs=3)
     parser.add_argument("--photo-strip", type=parse_box, default=parse_box("0,158,900,214"))
+    parser.add_argument("--top-row-height", type=int)
+    parser.add_argument("--second-row-height", type=int)
     parser.add_argument("--text")
     parser.add_argument("--text-image")
     parser.add_argument("--text-y", type=int)
@@ -168,7 +176,7 @@ def main() -> int:
     parser.add_argument("--text-stroke", type=parse_color, default=parse_color("#151515"))
     parser.add_argument("--text-stroke-width", type=int, default=2)
     parser.add_argument("--text-max-width", type=int, default=760)
-    parser.add_argument("--text-image-max-height", type=int, default=70)
+    parser.add_argument("--text-image-max-height", type=int)
     parser.add_argument("--output")
     args = parser.parse_args()
 
@@ -190,23 +198,41 @@ def main() -> int:
         output_path = default_output(args.text)
     require_file(base_path, "base image")
     canvas = Image.open(base_path).convert("RGBA")
-    extra_rows = 1 if args.photos2 else 0
+    first_photo_strip = args.photo_strip
+    title_area_y = args.photo_strip[1] + args.photo_strip[3]
+    title_area_height = max(0, canvas.height - title_area_y)
+    second_row_y = 0
+    second_row_height = 0
+    if args.photos2:
+        top_row_height = args.top_row_height or args.photo_strip[2] // 3
+        second_row_height = args.second_row_height or top_row_height
+        canvas, first_photo_strip, second_row_y, title_area_y, title_area_height = make_two_row_canvas(
+            canvas,
+            args.photo_strip,
+            top_row_height,
+            second_row_height,
+        )
+    if args.text_image_max_height is None:
+        args.text_image_max_height = 44 if args.photos2 else 70
     if args.text_y is None:
-        args.text_y = 390 + args.photo_strip[3] * extra_rows
-    canvas = extend_canvas_for_rows(canvas, args.photo_strip, extra_rows)
+        if args.photos2:
+            estimated_text_height = args.text_image_max_height if args.text_image else args.text_size
+            args.text_y = title_area_y + max(0, (title_area_height - estimated_text_height) // 2)
+        else:
+            args.text_y = 390
 
     if args.photos:
         photo_paths = [resolve_path(path, input_base) for path in args.photos]
         for index, path in enumerate(photo_paths, 1):
             require_file(path, f"photo {index}")
-        paste_photos(canvas, photo_paths, args.photo_strip)
+        paste_photos(canvas, photo_paths, first_photo_strip)
 
     if args.photos2:
         photo_paths = [resolve_path(path, input_base) for path in args.photos2]
         for index, path in enumerate(photo_paths, 1):
             require_file(path, f"second row photo {index}")
-        x, y, width, height = args.photo_strip
-        paste_photos(canvas, photo_paths, (x, y + height, width, height))
+        x, _, width, _ = args.photo_strip
+        paste_photos(canvas, photo_paths, (x, second_row_y, width, second_row_height))
 
     if not args.no_header:
         header_path = resolve_template_path(args.header, template_dir, bundle_dir)
