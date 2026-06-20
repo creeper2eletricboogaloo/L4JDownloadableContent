@@ -68,7 +68,7 @@
       "name": "TU7 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU7 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip",
-      "imageUrl": "https://cdn.modrinth.com/data/gHHngSJG/images/5d9c45352878609ec0dfb97db26a6419228b707f.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu7_preview.png?checksum=a5bc0ccbc15099e722776d6d2277c00d",
       "tags": ["auto_apply_resource_pack"]
     },
     {
