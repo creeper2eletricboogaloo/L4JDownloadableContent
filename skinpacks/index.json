@@ -205,21 +205,21 @@
                   },
                   {
                       "id":  "minecon2015",
-                      "name":  "Minecraft Minecon 2015 Skin Pack",
+                      "name":  "Minecraft MINECON 2015 Skin Pack",
                       "description":  "MINECON 2015 Skin Pack is a celebratory skin pack for MINECON 2015 that includes 8 skins of Steve and Alex wearing MINECON capes.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/minecon2015.zip?checksum=d75474f7c978b61340a2c1d72c90a6ff",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/minecon2015_preview.png?checksum=8c869cabf0a438583756d5eb3018ac05"
                   },
                   {
                       "id":  "minecon2016",
-                      "name":  "Minecraft Minecon 2016 Skin Pack",
+                      "name":  "Minecraft MINECON 2016 Skin Pack",
                       "description":  "MINECON 2016 Skin Pack is a celebratory skin pack for MINECON 2016 that includes 14 skins.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/minecon2016.zip?checksum=7cacce23cb0da76670ea01f1fad53997",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/minecon2016_preview.png?checksum=2dc4c657dea53c90a8f4207c977c7ce2"
                   },
                   {
                       "id":  "minigameheros",
-                      "name":  "Minecraft Mini Game Heros Skin Pack",
+                      "name":  "Minecraft Mini Game Heroes Skin Pack",
                       "description":  "Become a Mini Game legend with this new sporting skin pack! Swoop round Glide\u0027s tightest tracks in lithe llama-suit, cushion Tumble-based fumbles with fluffy cat pads or don your Guardian get-up to bolster both your Battle ranking and your fashion game.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/minigameheros.zip?checksum=37c546b796e6f7108199bdb11f95d4d0",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/minigameheros_preview.png?checksum=5d16f828ed220be4c64fb8c3fd9b490a"
@@ -240,14 +240,14 @@
                   },
                   {
                       "id":  "marvelgog",
-                      "name":  "Marvel's Guardians Of the Galaxy Skin Pack",
+                      "name":  "Marvel's Guardians of the Galaxy Skin Pack",
                       "description":  "Marvel Guardians of the Galaxy Skin Pack is a skin pack containing 24 skins of characters from the superhero film Guardians of the Galaxy by Marvel Studios, as well as the comic series of the same name.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/marvelgog.zip?checksum=b5510ff0af3e9612dbac04131f144b28",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/marvelgog_preview.png?checksum=435ff6357e0b4bdd77a35de19b33cc47"
                   },
                   {
                       "id":  "marvelsspiderman",
-                      "name":  "Marvel's Spiderman Skin Pack",
+                      "name":  "Marvel's Spider-Man Skin Pack",
                       "description":  "Marvel Spider-Man Skin Pack is a skin pack containing 35 skins of characters from the Spider-Man superhero franchise by Marvel Entertainment.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/marvelsspiderman.zip?checksum=72e7c31f70e1eeeced0b538a85f2c6c7",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/marvelsspiderman_preview.png?checksum=9ec2fb42aad77b99a657b47e9f1a8fdc"
@@ -425,7 +425,7 @@
                       "name":  "Toy Story Skin Pack",
                       "description":  "Play as Woody, Buzz Lightyear, Jessie, Bo Peep, Forky and more Toy Story characters.",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/toystory.zip?checksum=43d3d31be5a795beb5b97bdf8c4bdb86",
-                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/toystory_preview.png?checksum=48b9dfd9bfa540cd5b73c8d5a0361ee0"
+                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/toystory_preview.png?checksum=6dadc4bbd53d789dc588248d2fc22ba0"
                   },
                   {
                       "id":  "supercuteskins",
@@ -450,7 +450,7 @@
                   },
                   {
                       "id":  "villians",
-                      "name":  "Minecraft Villians Skin Pack",
+                      "name":  "Minecraft Villains Skin Pack",
                       "description":  "Unleash your inner villain with a pack dripping in the devious, the dastardly and the downright despicable! Scoundrels and schemers, mischief-makers and malevolent masterminds - this pack has the lot. Can you tell fiend from foe?",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/villians.zip?checksum=178410c38713ad52a6555dae60caa813",
                       "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/preview_images/villians_preview.png?checksum=8ae19be00cbb125d007b9338a9368112"
