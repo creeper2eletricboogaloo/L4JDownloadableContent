@@ -36,7 +36,7 @@
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
       "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
-      "imageUrl": "https://cdn.modrinth.com/data/WUq4Lff9/images/05118273a76dead098a1863e0b1108e77efb5694.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_tutorial_worlds_preview.png?checksum=33831226611acd0789bc6b04d2d6634f",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -44,7 +44,7 @@
       "name": "Legacy Titles",
       "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different \"Edition\" titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
       "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
-      "imageUrl": "https://cdn.modrinth.com/data/cached_images/f1d953417d13f34e662550666797a1123473a613.png",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_titles_preview.png?checksum=e571e2d1656ecc84e54d7da7aedc2033",
       "tags": ["auto_apply_resource_pack"]
     },
     {
