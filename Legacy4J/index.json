@@ -50,9 +50,9 @@
     {
       "id": "compressed_legacy_music",
       "name": "Compressed Legacy Music",
-      "description": "Compressed music from Legacy Console Edition. Credit: UnerringCanoe7416.",
+      "description": "The original compressed low quality music extracted from Legacy Console Edition, thanks to UnerringCanoe7416!",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/compressed_legacy_music.zip?checksum=3c4928af70bdd7ff91a55afde5f854ac",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/compressed_legacy_music_preview.png?checksum=77a0d5138637d3713e7b1b7062d9250c",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/compressed_legacy_music_preview.png?checksum=33190d00b84f3696dc49406e21c5d928",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -108,7 +108,7 @@
       "name": "Legacy Console Edition Bed textures",
       "description": "LCE ported bed textures",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/legacybeds.zip?checksum=e303fbdfcc2116fe49891eee6d7cdc61",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_beds_preview.png?checksum=fec429fe20142303062e9e2c945c7079",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -116,7 +116,7 @@
       "name": "Pre-1.13 Waters",
       "description": "A version of legacy waters that restores pre aquatic water colours",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/pre_1_13_waters.zip?checksum=f14cca9b1eb4f880ab744940dfa35e09",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/pre_1_13_waters_preview.png?checksum=5eb649db361e1238ef76d4298eb9f8c5",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/pre_1_13_waters_preview.png?checksum=2ee4e57af7d0f9168094cfd46fdc5634",
       "tags": ["auto_apply_resource_pack"]
     },
     {
