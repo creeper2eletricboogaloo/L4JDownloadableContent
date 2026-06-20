@@ -9,7 +9,7 @@ if %errorlevel%==0 (
 ) else (
   set "PY=py -3"
 )
-%PY% "%REPO%\scripts\make_bundle_preview.py" --bundle-dir "%HERE%"
+%PY% "%REPO%\scripts\make_bundle_preview.py" --bundle-dir "%HERE%" --text-image-max-height 36
 if errorlevel 1 (
   echo.
   echo Failed.
