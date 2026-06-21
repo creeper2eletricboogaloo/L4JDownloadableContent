@@ -12,7 +12,7 @@
           "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/faithful_legacy_preview.png?checksum=c0c03cebb8a0010630788efd1c39ccc3",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/faithful_legacy_preview.png?checksum=1087670d429dfa4a70c477e4c351bb9d",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -20,7 +20,7 @@
       "name": "Old UI for Legacy4J",
       "description": "Originally from Rekindled Legacy, this pack brings back much of the user interface from older versions of the Legacy Console Edition for the Legacy4J mod, taking advantage of FactoryAPI to help recreate these screens.",
       "downloadURI": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/old_ui_preview_image.png?checksum=12537dc00c56cbf9b29e08f9e0802889",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/old_ui_preview_image.png?checksum=e1945db476e951bfe4093df120ceea05",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -28,7 +28,7 @@
       "name": "Ore4J",
       "description": "Brings the style of Minecraft: Bedrock Edition's Ore UI into Legacy4J.",
       "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/ore4j_preview.png?checksum=cb6d44f47d2f4f2940f3ce80221eb8bb",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/ore4j_preview.png?checksum=88ef869f7c7c6d1f19d6c5212c2c1d39",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -36,7 +36,7 @@
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
       "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_tutorial_worlds_preview.png?checksum=33831226611acd0789bc6b04d2d6634f",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_tutorial_worlds_preview.png?checksum=049782e1e127c3714ac12cc877670d5d",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -60,7 +60,7 @@
       "name": "TU5 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU5 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu5_preview.png?checksum=21c86da769c1aa846b53327e7ad28a97",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu5_preview.png?checksum=1ff1ee1d7a437d1d7fa4a254192bed37",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -68,7 +68,7 @@
       "name": "TU7 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU7 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu7_preview.png?checksum=a5bc0ccbc15099e722776d6d2277c00d",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu7_preview.png?checksum=04d61100c1d74b5c8652ee06891ec595",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -76,7 +76,7 @@
       "name": "TU12 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU12 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu12_preview.png?checksum=8736bb2c9315adc4168d92428dea9d94",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu12_preview.png?checksum=b8866b2ab76c89bc49faf59bbbbb2aa7",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -84,7 +84,7 @@
       "name": "TU20 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU20 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu20_preview.png?checksum=63c8f8d1a907d48683dbd1457cc66618",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu20_preview.png?checksum=8e50b43199aeac5e7ad91a0e988c92a1",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -92,7 +92,7 @@
       "name": "TU31 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU31 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu31_preview.png?checksum=2144318484aa2f69705865fef3d17d14",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu31_preview.png?checksum=89c5e0f6b51fcc66c915db5066b74275",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -100,7 +100,7 @@
       "name": "TU46 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU46 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu46_preview.png?checksum=c40e7320950e899090b9e6aa26f1ca1e",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu46_preview.png?checksum=d3e913b9da9d29d79eb0bb74f60ff126",
       "tags": ["auto_apply_resource_pack"]
     },
     {

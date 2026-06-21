@@ -166,6 +166,32 @@ def regenerate_legacy4j_specials(root: Path) -> list[tuple[Path, Path]]:
     return written
 
 
+def regenerate_legacy4j_generic(root: Path, logo: Image.Image) -> list[tuple[Path, Path]]:
+    clean_dir = root / "resources" / "store icons" / "legacy4j_clean"
+    preview_dir = root / "Legacy4J" / "preview_images"
+    items = [
+        ("faithful_legacy_clean.png", "faithful_legacy_preview.png"),
+        ("old_ui_clean.png", "old_ui_preview_image.png"),
+        ("ore4j_clean.png", "ore4j_preview.png"),
+        ("legacy_tutorial_worlds_clean.png", "legacy_tutorial_worlds_preview.png"),
+        ("legacy_panorama_tu5_clean.png", "legacy_panorama_tu5_preview.png"),
+        ("legacy_panorama_tu7_clean.png", "legacy_panorama_tu7_preview.png"),
+        ("legacy_panorama_tu12_clean.png", "legacy_panorama_tu12_preview.png"),
+        ("legacy_panorama_tu20_clean.png", "legacy_panorama_tu20_preview.png"),
+        ("legacy_panorama_tu31_clean.png", "legacy_panorama_tu31_preview.png"),
+        ("legacy_panorama_tu46_clean.png", "legacy_panorama_tu46_preview.png"),
+    ]
+    written: list[tuple[Path, Path]] = []
+    for source_name, output_name in items:
+        source_path = clean_dir / source_name
+        output_path = preview_dir / output_name
+        if not source_path.exists():
+            raise FileNotFoundError(f"Missing clean Legacy4J base: {source_path}")
+        save_preview(source_path, output_path, logo)
+        written.append((source_path, output_path))
+    return written
+
+
 def regenerate_starter_and_hide_seek(root: Path, logo: Image.Image) -> list[tuple[Path, Path]]:
     source_path = Path.home() / "Downloads" / "pack.png"
     if not source_path.exists():
@@ -216,6 +242,7 @@ def main() -> int:
             "doctor-who",
             "from-the-shadows",
             "legacy4j-specials",
+            "legacy4j-generic",
             "starterpacks",
             "bundles",
         ],
@@ -225,7 +252,7 @@ def main() -> int:
 
     root = repo_root()
     logo = Image.open(root / "resources" / "preview logos" / "header.png").convert("RGBA")
-    categories = set(args.category or ["skinpacks", "texture-packs", "doctor-who", "from-the-shadows", "legacy4j-specials", "starterpacks", "bundles"])
+    categories = set(args.category or ["skinpacks", "texture-packs", "doctor-who", "from-the-shadows", "legacy4j-specials", "legacy4j-generic", "starterpacks", "bundles"])
     jobs = []
     if "skinpacks" in categories:
         jobs.extend(regenerate_skinpacks(root, logo))
@@ -237,6 +264,8 @@ def main() -> int:
         jobs.extend(regenerate_from_the_shadows(root))
     if "legacy4j-specials" in categories:
         jobs.extend(regenerate_legacy4j_specials(root))
+    if "legacy4j-generic" in categories:
+        jobs.extend(regenerate_legacy4j_generic(root, logo))
     if "starterpacks" in categories:
         jobs.extend(regenerate_starter_and_hide_seek(root, logo))
     if "bundles" in categories:
