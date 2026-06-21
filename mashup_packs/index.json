@@ -12,7 +12,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/pirates_of_the_caribbean.mcsave?checksum=ca976c1efcc50b2cce4d852ac2db9e2f"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/pirates_of_the_caribbean.mcsave?checksum=59889701117c9b7481f33123d0e576ac"
         }
       ],
       "bundlePacks": [
@@ -43,7 +43,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/egyptian_mythology.mcsave?checksum=dcc3ac8075742e43aca29970a3f4a7cb"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/egyptian_mythology.mcsave?checksum=2d551fd170095908c40d5b5285854171"
         }
       ],
       "bundlePacks": [
@@ -74,7 +74,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/norse_mythology.mcsave?checksum=ddfe0a2669ecf056493668cf547b4320"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/norse_mythology.mcsave?checksum=c87536dd770a1860719e0ff33508cc52"
         }
       ],
       "bundlePacks": [
@@ -105,7 +105,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/festive.mcsave?checksum=57a5cd0cc2be85c8dedeb5b125d11b5b"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=9b2d120155413669a2f2f2b68e8933a9"
         }
       ],
       "bundlePacks": [
@@ -136,7 +136,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/chinese_mythology.mcsave?checksum=3d0f069e94574b18413bd2fded48f8c5"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/chinese_mythology.mcsave?checksum=64382d0c595870d977209b2c497dcb2e"
         }
       ],
       "bundlePacks": [
@@ -167,7 +167,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/greek_mythology.mcsave?checksum=184741d1889f2a348caacc8963ed635d"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=f865d1fae2187f79cfa0cf7e373d564a"
         }
       ],
       "bundlePacks": [
@@ -191,7 +191,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/fallout.mcsave?checksum=7d9b0ff2483086dcbebc7256afcc40bd"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/fallout.mcsave?checksum=ccc2623a36912cf2ba62b3112b820747"
         }
       ],
       "bundlePacks": [
@@ -215,7 +215,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/mass_effect.mcsave?checksum=a1d7f9148df30d16e826ceff3e89d2ea"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/mass_effect.mcsave?checksum=af228b71a741c9305d3611dbb5f88bd1"
         }
       ],
       "bundlePacks": [
@@ -235,6 +235,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/lbp_preview.png?checksum=123ec1874432e218c6307a57e08cac85",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/littlebigplanet.mcsave?checksum=03e9e06ff9792cc971cb44cdbbdab9a7",
       "worldTemplateFolderName": "LittleBigPlanet Mash-up",
+      "worldTemplateVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/littlebigplanet.mcsave?checksum=c45a5914a8f635d889bf3c0ca2ebf2a8"
+        }
+      ],
       "bundlePacks": [
         {
           "categoryId": "skinpacks",
@@ -263,7 +270,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/halloween.mcsave?checksum=e943c5dd44ff16a8d3fa9819534ff2bd"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=cc540b15aa52e14a9eb02167b4dc69ce"
         }
       ],
       "bundlePacks": [
@@ -294,7 +301,7 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/super_mario.mcsave?checksum=b4602f1848343ef902ed6a6959d733e3"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/super_mario.mcsave?checksum=2758bca53ad1d84acfe514cbb9d3b18b"
         }
       ],
       "bundlePacks": [

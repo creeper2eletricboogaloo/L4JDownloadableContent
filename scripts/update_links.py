@@ -413,6 +413,23 @@ def build_changes(root: Path, refs: list[UrlRef], config: dict) -> tuple[list[Ch
     return changes, sorted(set(additions), key=lambda item: (item.rel_file, item.path, item.order, item.variant_id)), config_additions, sorted(set(warnings))
 
 
+def build_local_changes(root: Path, refs: list[UrlRef]) -> tuple[list[Change], list[str]]:
+    changes: list[Change] = []
+    warnings: list[str] = []
+    for ref in refs:
+        rel_parts = parse_same_repo_raw(ref.value)
+        if rel_parts is None:
+            continue
+        local_path = root.joinpath(*rel_parts)
+        if not local_path.exists():
+            warnings.append(f"Missing local file for {ref.rel_file} {ref.path}: {'/'.join(rel_parts)}")
+            continue
+        new_url = raw_url_for(rel_parts, md5_file(local_path))
+        if new_url != ref.value:
+            changes.append(Change("local", ref.rel_file, ref.path, ref.value, new_url))
+    return changes, sorted(set(warnings))
+
+
 def replacement_token(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
@@ -792,18 +809,24 @@ def main() -> int:
     mode = parser.add_mutually_exclusive_group(required=True)
     mode.add_argument("--check", action="store_true")
     mode.add_argument("--write", action="store_true")
+    parser.add_argument("--local-only", action="store_true", help="Only update same-repository raw GitHub checksum URLs.")
     args = parser.parse_args()
     root = repo_root()
-    config = load_config(root)
     texts, _, refs = load_json_files(root)
-    changes, additions, config_additions, warnings = build_changes(root, refs, config)
+    if args.local_only:
+        changes, warnings = build_local_changes(root, refs)
+        additions: list[VariantAddition] = []
+        config_additions: list[ConfigTrackAddition] = []
+    else:
+        config = load_config(root)
+        changes, additions, config_additions, warnings = build_changes(root, refs, config)
     if args.write and (changes or additions or config_additions):
         errors = write_changes(root, texts, changes, additions)
         if errors:
             for error in errors:
                 print(error, file=sys.stderr)
             return 2
-        if config_additions:
+        if not args.local_only and config_additions:
             write_config_tracks(root, config, config_additions)
     print_report(changes, additions, config_additions, warnings, args.write and bool(changes or additions or config_additions))
     return 0

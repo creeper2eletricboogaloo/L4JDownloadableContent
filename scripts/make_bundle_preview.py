@@ -156,7 +156,7 @@ def second_row_names(bundle_dir: Path) -> list[str] | None:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--base", default="cropped_bundle_clean.png")
-    parser.add_argument("--header", default="header.png")
+    parser.add_argument("--header", default="../preview logos/header.png")
     parser.add_argument("--bundle-dir")
     parser.add_argument("--output-name", default="preview.png")
     parser.add_argument("--no-header", action="store_true")

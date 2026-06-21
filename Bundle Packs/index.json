@@ -529,7 +529,7 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/greek_mythology.mcsave?checksum=184741d1889f2a348caacc8963ed635d"
+                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=f865d1fae2187f79cfa0cf7e373d564a"
                                                 }
                                               ]
                                           },
@@ -566,7 +566,7 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/chinese_mythology.mcsave?checksum=3d0f069e94574b18413bd2fded48f8c5"
+                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/chinese_mythology.mcsave?checksum=64382d0c595870d977209b2c497dcb2e"
                                                 }
                                               ]
                                           }
@@ -598,7 +598,7 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/festive.mcsave?checksum=57a5cd0cc2be85c8dedeb5b125d11b5b"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=9b2d120155413669a2f2f2b68e8933a9"
               }
             ],
             "bundlePacks": [
@@ -652,7 +652,7 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26_1_2/halloween.mcsave?checksum=e943c5dd44ff16a8d3fa9819534ff2bd"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=cc540b15aa52e14a9eb02167b4dc69ce"
               }
             ],
             "bundlePacks": [
