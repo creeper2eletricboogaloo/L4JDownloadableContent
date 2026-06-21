@@ -44,15 +44,15 @@
       "name": "Legacy Titles",
       "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different \"Edition\" titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
       "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_titles_preview.png?checksum=e571e2d1656ecc84e54d7da7aedc2033",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_titles_preview.png?checksum=1d296644dbb7c221b7147ac7c41b181d",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "compressed_legacy_music",
       "name": "Compressed Legacy Music",
       "description": "The original compressed low quality music extracted from Legacy Console Edition, thanks to UnerringCanoe7416!",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/compressed_legacy_music.zip?checksum=1aaea1cc9996900d3c6ff0cb4f690eed",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/compressed_legacy_music_preview.png?checksum=33190d00b84f3696dc49406e21c5d928",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/compressed_legacy_music.zip?checksum=bafef153652a5c1e66ef5c88fb8c1d0c",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/compressed_legacy_music_preview.png?checksum=181e7e254840b39e9214921190ad0761",
       "tags": ["auto_apply_resource_pack"]
     },
     {
@@ -107,16 +107,16 @@
       "id": "legacy_beds",
       "name": "Legacy Console Edition Bed textures",
       "description": "LCE ported bed textures",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/legacybeds.zip?checksum=de8b0cffb77c4cb52fefab593acd67a4",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_beds_preview.png?checksum=fec429fe20142303062e9e2c945c7079",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/legacybeds.zip?checksum=d8d3fd6926393d7620c203e3592803f4",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_beds_preview.png?checksum=ebeb915b42c58c54d3385bb88ae0481f",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "pre_1_13_waters",
       "name": "Pre-1.13 Waters",
       "description": "A version of legacy waters that restores pre aquatic water colours",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/pre_1_13_waters.zip?checksum=cb7c307f3e3d3375bff28f42cd54ca28",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/pre_1_13_waters_preview.png?checksum=2ee4e57af7d0f9168094cfd46fdc5634",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/packs/pre_1_13_waters.zip?checksum=a14e62fcb32ea10e271a88dd09bb09b9",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/pre_1_13_waters_preview.png?checksum=21b30fa9ee8bea5a812e2cbb53e5fbc5",
       "tags": ["auto_apply_resource_pack"]
     },
     {

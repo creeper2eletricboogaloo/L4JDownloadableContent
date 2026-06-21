@@ -461,7 +461,7 @@
                                               "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/villians.zip?checksum=178410c38713ad52a6555dae60caa813"
                                           }
                                       ],
-                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/skinpack_megabundle_preview_image.png?checksum=51f15d53cf1ebab3a5920a44b69f3ea5"
+                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/skinpack_megabundle_preview_image.png?checksum=99ddc942513276a17c78a0d59b8e4432"
                   },
                   {
                       "id":  "builders_pack",
@@ -571,7 +571,7 @@
                                               ]
                                           }
                                       ],
-                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/builders_pack_preview.png?checksum=ae36a41f469450079b8b3d962f5dcb66"
+                      "imageUrl":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/builders_pack_preview.png?checksum=98fd508171ca16aacab17637d9cc5de9"
                   },
       {
         "id": "merrybundle",
@@ -618,7 +618,7 @@
             ]
           }
         ],
-        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/merrybundle_preview_image.png?checksum=392dbb2515887c0e1003cc3e69f96718"
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/merrybundle_preview_image.png?checksum=cbc6a2f48f9658bbcecfea2cc3376f7a"
       },
       {
         "id": "spookybundle",
@@ -672,7 +672,7 @@
             "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloweencharity.zip?checksum=f5decb59146ac02cb50588ae828ed724"
           }
         ],
-        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/spookybundle_preview_image.png?checksum=f8dea40a2436bd5db6c150d0fbfa9904"
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/spookybundle_preview_image.png?checksum=decb663b47971008ff1506247a9bed71"
       }
     ]
 }
