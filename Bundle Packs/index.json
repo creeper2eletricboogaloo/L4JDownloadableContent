@@ -478,7 +478,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/BgT2SErC/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/BgT2SErC/Plastic%20Texture%20Pack.zip"
                                                 }
                                               ]
                                           },
@@ -492,7 +497,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
                                                 }
                                               ]
                                           },
@@ -506,7 +516,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/Xa45Zpzi/Pattern%20Texture%20Pack.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
                                                 }
                                               ]
                                           },
@@ -520,7 +535,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/jHYKd9V4/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/jHYKd9V4/Greek%20Mythology%20Mash-up.zip"
                                                 }
                                               ],
                                               "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
@@ -543,7 +563,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/NPsoth4J/Cartoon%20Texture%20Pack.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
                                                 }
                                               ]
                                           },
@@ -557,7 +582,12 @@
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/BvSIXdzA/Chinese%20Mythology%20Mash-up.zip"
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "26_2",
+                                                  "minVersion": "26.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
                                                 }
                                               ],
                                               "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/chinese_mythology.mcsave?checksum=1746630a2bf389e4f60cb1579faae777",
@@ -588,7 +618,12 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip"
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "26_2",
+                "minVersion": "26.2",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
               }
             ],
             "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png?checksum=45449c6c966d5787b53211a1a14abe9f",
@@ -642,7 +677,12 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/uOPMsnqO/Halloween%20Mash-up.zip"
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "26_2",
+                "minVersion": "26.2",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
               }
             ],
             "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png?checksum=3503167ac6568e30b0a78741abd3c708",

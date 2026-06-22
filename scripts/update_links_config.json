@@ -8,6 +8,10 @@
       {
         "id": "26_1_2",
         "minVersion": "26.1.2"
+      },
+      {
+        "id": "26_2",
+        "minVersion": "26.2"
       }
     ],
     "autoDiscoverVariants": {
