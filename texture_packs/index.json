@@ -23,7 +23,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/Hr5AbtbS/City%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png?checksum=30ec3afb449682e045f5ad40d2399493"
@@ -37,7 +42,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/BgT2SErC/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/BgT2SErC/Plastic%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/plastic_preview.png?checksum=9d53367fccb1bcb0ae7b53f02a1441d1"
@@ -51,7 +61,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/natural_preview.png?checksum=e328e018fb95e5a4736016a31326de2a"
@@ -65,7 +80,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/klsZagV7/Fantasy%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png?checksum=d158067e2bf2f6c173c150b46b67a741"
@@ -79,7 +99,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/BTxcyADP/Candy%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/candy_preview.png?checksum=aa6e8c69db79357e89a59d4acf081f7c"
@@ -93,7 +118,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/NPsoth4J/Cartoon%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png?checksum=1d055c3e21b9c3eda7fac95eebe7f520"
@@ -107,7 +137,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/8XFYYI9J/Steampunk%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png?checksum=df5748d1a9113cfe7ddfaa9c87004d54"
@@ -121,7 +156,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/Xa45Zpzi/Pattern%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png?checksum=76033b97c3fa2b4e052ee044bb0b499b"

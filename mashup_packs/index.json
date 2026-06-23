@@ -64,7 +64,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/HD9hjLU9/Norse%20Mythology%20Mash-up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/norsemytho_preview.png?checksum=ab920767f1e257e95320fedd8603e7eb",
@@ -95,7 +100,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/GvqMbx8z/Festive%20Mash-up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png?checksum=45449c6c966d5787b53211a1a14abe9f",
@@ -126,7 +136,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/BvSIXdzA/Chinese%20Mythology%20Mash-up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/chinesemytho_preview.png?checksum=7a08c36905a481246146b523a584b598",
@@ -157,7 +172,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/DqQHxxdo/Greek%20Mythology%20Mash-up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/jHYKd9V4/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/jHYKd9V4/Greek%20Mythology%20Mash-up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/greekmytho_preview.png?checksum=0b4f41ef6233255e2251ee64f111d6cc",
@@ -260,7 +280,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/uOPMsnqO/Halloween%20Mash-up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png?checksum=3503167ac6568e30b0a78741abd3c708",
