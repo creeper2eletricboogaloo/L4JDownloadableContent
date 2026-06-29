@@ -9,7 +9,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/2mQTFbQi/Super%20Cute%20Texture%20Pack.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png?checksum=77f1cb580e5585724d93cd9f358d6385"
