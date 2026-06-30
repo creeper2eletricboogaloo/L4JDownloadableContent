@@ -5,6 +5,18 @@
       "name": "Pirates of the Caribbean Mash-Up",
       "description": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring all of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones' Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
       "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/ov7cVEHe/Pirates%20Of%20The%20Caribbean.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/potc_preview.png?checksum=37b99dfebedc9875d9229adaf1f4ec3c",
       "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/pirates_of_the_caribbean.mcsave?checksum=3c71ca2803e358ecf00d386fe22c9110",
       "worldTemplateFolderName": "Pirates of the Carribean Mash-up",
@@ -316,7 +328,12 @@
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/YWSJqNQi/Super%20Mario%20Mash-Up.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
         }
       ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/supermario_preview.png?checksum=e7098d33b4ffbf709683c19a27506cc1",
