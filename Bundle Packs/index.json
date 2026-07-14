@@ -742,6 +742,35 @@
           }
         ],
         "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/marvel_skinpacks_bundle_preview.png?checksum=67d5d5f0b108cae3b7c5908f9cdd8728"
+      },
+      {
+        "id": "star_wars_skinpacks_bundle",
+        "name": "Star Wars Skin Packs Bundle",
+        "description": "The Force is strong in this bundle of the three Star Wars Skin Packs: Classic, Prequel and Rebels. With over 130 characters from all corners of the galaxy, this will turn your Minecraft saga into legend. Hesitate, do not!",
+        "bundlePacks": [
+          {
+            "categoryId": "skinpacks",
+            "id": "starwarsclassic",
+            "name": "Star Wars Classic Skin Pack",
+            "description": "A long time ago in a galaxy far, far away....  The Star Wars Classic Skin Pack features an assortment of over 50 heroes, villains, and rogues from the Galactic Civil War.  Whether you pick a Jawa or the mighty Darth Vader, you can play as your favorite Star Wars characters from Episodes IV to VI, Minecraft style.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarsclassic.zip?checksum=52b1555001de0ff84b6ed9b63b7c6bf0"
+          },
+          {
+            "categoryId": "skinpacks",
+            "id": "starwarsprequel",
+            "name": "Star Wars Prequel Skin Pack",
+            "description": "A long time ago in a galaxy far, far away....  The Star Wars Prequel Skin Pack is now available.  Choose from over 50 skins and play as some of your favorite Star Wars characters, Minecraft style.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarsprequel.zip?checksum=9d90427a504ff6dbf23ee813bdba30c8"
+          },
+          {
+            "categoryId": "skinpacks",
+            "id": "starwarsrebels",
+            "name": "Star Wars Rebels Skin Pack",
+            "description": "Are you ready to join the rebellion - Minecraft style? The Star Wars Rebels Skin Pack features the crew of the Ghost and their adversaries in the Galactic Empire. Choose from over 20 skins and play as your favourite Star Wars Rebels characters.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/starwarsrebels.zip?checksum=c0b80ea8ec4ba54878c9b5fa27d80584"
+          }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/star_wars_skinpacks_bundle_preview.png?checksum=16ac742d379c6fdea4c5bcea5a941bf7"
       }
     ]
 }
