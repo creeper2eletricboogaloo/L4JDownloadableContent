@@ -713,6 +713,35 @@
           }
         ],
         "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/spookybundle_preview_image.png?checksum=decb663b47971008ff1506247a9bed71"
+      },
+      {
+        "id": "marvel_skinpacks_bundle",
+        "name": "Marvel Skin Packs Bundle",
+        "description": "Here comes the ultimate Marvel-Minecraft crossover! Get this bundle collecting all the awesome characters from the Avengers, Spider-Man and Guardians of the Galaxy skin packs. Available for a limited time, so don’t miss out!",
+        "bundlePacks": [
+          {
+            "categoryId": "skinpacks",
+            "id": "marvelsavengers",
+            "name": "Marvel's Avengers Skin Pack",
+            "description": "Marvel Avengers Skin Pack is a skin pack containing 35 skins of characters from the Avengers superhero comic book series.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/marvelsavengers.zip?checksum=7bdb9789108c1a8db6349aaaedf07210"
+          },
+          {
+            "categoryId": "skinpacks",
+            "id": "marvelsspiderman",
+            "name": "Marvel's Spider-Man Skin Pack",
+            "description": "Marvel Spider-Man Skin Pack is a skin pack containing 35 skins of characters from the Spider-Man superhero franchise by Marvel Entertainment.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/marvelsspiderman.zip?checksum=72e7c31f70e1eeeced0b538a85f2c6c7"
+          },
+          {
+            "categoryId": "skinpacks",
+            "id": "marvelgog",
+            "name": "Marvel's Guardians of the Galaxy Skin Pack",
+            "description": "Marvel Guardians of the Galaxy Skin Pack is a skin pack containing 24 skins of characters from the superhero film Guardians of the Galaxy by Marvel Studios, as well as the comic series of the same name.",
+            "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/marvelgog.zip?checksum=b5510ff0af3e9612dbac04131f144b28"
+          }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Bundle%20Packs/preview_images/marvel_skinpacks_bundle_preview.png?checksum=67d5d5f0b108cae3b7c5908f9cdd8728"
       }
     ]
 }
