@@ -17,7 +17,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png?checksum=77f1cb580e5585724d93cd9f358d6385"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/supercute_preview.png?checksum=77f1cb580e5585724d93cd9f358d6385",
+      "resourceAlbumIconUrl": "resource_album_icons/supercute_texture_pack.png?checksum=472728532208d46b1bf4f5964b90d69d"
     },
     {
       "id": "city_texture_pack",
@@ -36,7 +37,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png?checksum=30ec3afb449682e045f5ad40d2399493"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/city_preview.png?checksum=30ec3afb449682e045f5ad40d2399493",
+      "resourceAlbumIconUrl": "resource_album_icons/city_texture_pack.png?checksum=2947866a028ff457ca78f3cded2c11b5"
     },
     {
       "id": "plastic_texture_pack",
@@ -55,7 +57,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/BgT2SErC/Plastic%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/plastic_preview.png?checksum=9d53367fccb1bcb0ae7b53f02a1441d1"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/plastic_preview.png?checksum=9d53367fccb1bcb0ae7b53f02a1441d1",
+      "resourceAlbumIconUrl": "resource_album_icons/plastic_texture_pack.png?checksum=71ec8554c7faf9aa2fef0153fdf0a352"
     },
     {
       "id": "natural_texture_pack",
@@ -74,7 +77,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/natural_preview.png?checksum=e328e018fb95e5a4736016a31326de2a"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/natural_preview.png?checksum=e328e018fb95e5a4736016a31326de2a",
+      "resourceAlbumIconUrl": "resource_album_icons/natural_texture_pack.png?checksum=55765e6c9b58d0b65183bb7be32e7571"
     },
     {
       "id": "fantasy_texture_pack",
@@ -93,7 +97,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png?checksum=d158067e2bf2f6c173c150b46b67a741"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/fantasy_preview.png?checksum=d158067e2bf2f6c173c150b46b67a741",
+      "resourceAlbumIconUrl": "resource_album_icons/fantasy_texture_pack.png?checksum=237971c147e31104a9654929fd5313f7"
     },
     {
       "id": "candy_texture_pack",
@@ -112,7 +117,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/candy_preview.png?checksum=aa6e8c69db79357e89a59d4acf081f7c"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/candy_preview.png?checksum=aa6e8c69db79357e89a59d4acf081f7c",
+      "resourceAlbumIconUrl": "resource_album_icons/candy_texture_pack.png?checksum=5db08dc4d348009f3181572d7e1f3e25"
     },
     {
       "id": "cartoon_texture_pack",
@@ -131,7 +137,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png?checksum=1d055c3e21b9c3eda7fac95eebe7f520"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/cartoon_preview.png?checksum=1d055c3e21b9c3eda7fac95eebe7f520",
+      "resourceAlbumIconUrl": "resource_album_icons/cartoon_texture_pack.png?checksum=3daf74b0f62a1700f486dfaf3ac1ae49"
     },
     {
       "id": "steampunk_texture_pack",
@@ -150,7 +157,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png?checksum=df5748d1a9113cfe7ddfaa9c87004d54"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/steampunk_preview.png?checksum=df5748d1a9113cfe7ddfaa9c87004d54",
+      "resourceAlbumIconUrl": "resource_album_icons/steampunk_texture_pack.png?checksum=f7f5d9022f3ac51699c77de99ec2bb58"
     },
     {
       "id": "pattern_texture_pack",
@@ -169,7 +177,8 @@
           "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
         }
       ],
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png?checksum=76033b97c3fa2b4e052ee044bb0b499b"
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_packs/preview_images/pattern_preview.png?checksum=76033b97c3fa2b4e052ee044bb0b499b",
+      "resourceAlbumIconUrl": "resource_album_icons/pattern_texture_pack.png?checksum=8ea4acce313568afe3f705d9196d02d6"
     }
   ]
 }
