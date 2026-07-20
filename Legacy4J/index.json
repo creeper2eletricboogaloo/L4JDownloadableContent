@@ -28,6 +28,13 @@
       "name": "Ore4J",
       "description": "Brings the style of Minecraft: Bedrock Edition's Ore UI into Legacy4J.",
       "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
+      "downloadVariants": [
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/ore4j_preview.png?checksum=88ef869f7c7c6d1f19d6c5212c2c1d39",
       "tags": ["auto_apply_resource_pack"]
     },
