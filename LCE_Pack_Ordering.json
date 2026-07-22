@@ -1,0 +1,33 @@
+{
+  "default": "minecraft",
+  "order": [
+    "minecraft",
+    "minecraft_classic",
+    "toy_story",
+    "steven_uni",
+    "nightmare",
+    "caribbean",
+    "super_cute",
+    "egyptian",
+    "norse",
+    "festive",
+    "chinese",
+    "greek",
+    "adv_time",
+    "city",
+    "plastic",
+    "natural",
+    "fallout",
+    "dragonborn",
+    "fantasy",
+    "candy",
+    "cartoon",
+    "steampunk",
+    "pattern",
+    "master_chief",
+    "sackboy",
+    "n7",
+    "halloween",
+    "super_mario"
+  ]
+}
