@@ -663,13 +663,13 @@
                                                   "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
                                                 }
                                               ],
-                                              "worldTemplateDownloadURI":  "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/greek_mythology.mcsave?checksum=f26fe882e87d242ae90aef96518101fb",
+                                              "worldTemplateDownloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/greek_mythology.mcsave?checksum=e710111ee02ad1e5494e659bf68d7a4c",
                                               "worldTemplateFolderName":  "Greek Mythology Mash-up",
                                               "worldTemplateVariants":  [
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
-                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=036e6d6d05e5e71c86139e82019468e4"
+                                                  "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=ea80f2d38d8f58eb19409edc0d586c91"
                                                 }
                                               ]
                                           },
@@ -843,7 +843,7 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=1d8b1a6b8850324a6dc350256f5641fe"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=8dd5e4a794139b194143228c5d6cacad"
               }
             ],
             "bundlePacks": [
@@ -932,7 +932,7 @@
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
-                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=a42d7cfa8cded61a76926ae09f0fe4d6"
+                "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=352398ac3af2d589b899d18f3c6aad0b"
               }
             ],
             "bundlePacks": [
