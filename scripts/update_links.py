@@ -53,16 +53,18 @@ class VariantAddition:
 
 
 @dataclass(frozen=True)
-class VariantTrack:
+class VersionRail:
     id: str
     min_version: str
+    match_version: str
     order: int
 
 
 @dataclass(frozen=True)
-class ConfigTrackAddition:
-    variant_id: str
+class ConfigRailAddition:
+    id: str
     min_version: str
+    match_version: str
     project_count: int
 
 
@@ -179,28 +181,59 @@ def pack_key(ref: UrlRef) -> str | None:
     return f"{ref.category}:{ref.pack_id}"
 
 
-def configured_variant_tracks(config: dict) -> list[VariantTrack]:
-    variants = config.get("modrinth", {}).get("variants", [])
-    if isinstance(variants, dict):
-        items = [{"id": variant_id, "minVersion": item.get("minVersion")} for variant_id, item in variants.items() if isinstance(item, dict)]
-    elif isinstance(variants, list):
-        items = variants
+def configured_version_rails(config: dict) -> list[VersionRail]:
+    modrinth = config.get("modrinth", {})
+    rails = modrinth.get("rails")
+    if not isinstance(rails, (list, dict)):
+        rails = modrinth.get("variants", [])
+    if isinstance(rails, dict):
+        items = [{**rail, "id": rail_id} for rail_id, rail in rails.items() if isinstance(rail, dict)]
+    elif isinstance(rails, list):
+        items = rails
     else:
         items = []
-    tracks: list[VariantTrack] = []
-    seen: set[str] = set()
-    for index, item in enumerate(items):
-        if not isinstance(item, dict):
+    result: list[VersionRail] = []
+    seen_ids: set[str] = set()
+    seen_versions: set[str] = set()
+    for index, rail in enumerate(items):
+        if not isinstance(rail, dict):
             continue
-        variant_id = item.get("id")
-        min_version = item.get("minVersion")
-        if not isinstance(variant_id, str) or not isinstance(min_version, str) or not variant_id or not min_version:
+        rail_id = rail.get("id")
+        min_version = rail.get("minVersion")
+        match_version = rail.get("matchVersion", min_version)
+        if not isinstance(rail_id, str) or not isinstance(min_version, str) or not isinstance(match_version, str) or not rail_id or not min_version or not match_version:
             continue
-        if variant_id in seen:
+        if rail_id in seen_ids or min_version in seen_versions:
             continue
-        seen.add(variant_id)
-        tracks.append(VariantTrack(variant_id, min_version, index))
-    return tracks
+        seen_ids.add(rail_id)
+        seen_versions.add(min_version)
+        result.append(VersionRail(rail_id, min_version, match_version, index))
+    result.sort(key=lambda rail: (version_sort_key(rail.min_version), rail.order))
+    return [VersionRail(rail.id, rail.min_version, rail.match_version, order) for order, rail in enumerate(result)]
+
+
+def discovery_settings(config: dict) -> tuple[bool, re.Pattern[str], int, str | None]:
+    modrinth = config.get("modrinth", {})
+    settings = modrinth.get("autoDiscoverRails", modrinth.get("autoDiscoverVariants", {}))
+    if not isinstance(settings, dict):
+        settings = {}
+    enabled = settings.get("enabled") is True
+    pattern = str(settings.get("gameVersionPattern", r"^26\.[0-9]+(\.[0-9]+)?$"))
+    minimum_projects = settings.get("minimumProjects", 3)
+    if not isinstance(minimum_projects, int) or minimum_projects < 1:
+        minimum_projects = 3
+    minimum_version = settings.get("minimumVersion")
+    if not isinstance(minimum_version, str) or not minimum_version:
+        minimum_version = None
+    return enabled, re.compile(pattern), minimum_projects, minimum_version
+
+
+def base_exclusion_patterns(config: dict) -> tuple[re.Pattern[str], ...]:
+    modrinth = config.get("modrinth", {})
+    patterns = modrinth.get("baseExcludedGameVersionPatterns")
+    if not isinstance(patterns, list):
+        patterns = [discovery_settings(config)[1].pattern]
+    return tuple(re.compile(str(pattern)) for pattern in patterns if pattern)
 
 
 def version_sort_key(value: str) -> tuple:
@@ -216,18 +249,6 @@ def version_sort_key(value: str) -> tuple:
 
 def variant_id_for_game_version(value: str) -> str:
     return re.sub(r"[^0-9A-Za-z]+", "_", value).strip("_").lower()
-
-
-def discovery_settings(config: dict) -> tuple[bool, re.Pattern[str], int]:
-    settings = config.get("modrinth", {}).get("autoDiscoverVariants", {})
-    if not isinstance(settings, dict):
-        settings = {}
-    enabled = settings.get("enabled") is True
-    pattern = str(settings.get("gameVersionPattern", r"^26\.[0-9]+(\.[0-9]+)?$"))
-    minimum_projects = settings.get("minimumProjects", 3)
-    if not isinstance(minimum_projects, int) or minimum_projects < 1:
-        minimum_projects = 3
-    return enabled, re.compile(pattern), minimum_projects
 
 
 def load_json_files(root: Path) -> tuple[dict[Path, str], dict[Path, object], list[UrlRef]]:
@@ -266,7 +287,7 @@ def selected_file(version: dict, required_filename: str | None) -> dict | None:
     return zip_files[0] if zip_files else None
 
 
-def version_matches(version: dict, config: dict, required_game_version: str | None, require_base: bool, required_filename: str | None) -> bool:
+def version_matches(version: dict, config: dict, required_game_version: str | None, require_base: bool, required_filename: str | None, excluded_base_versions: tuple[re.Pattern[str], ...]) -> bool:
     modrinth = config.get("modrinth", {})
     if version.get("version_type") not in set(modrinth.get("versionTypes", ["release"])):
         return False
@@ -275,14 +296,14 @@ def version_matches(version: dict, config: dict, required_game_version: str | No
     game_versions = version.get("game_versions") or []
     if required_game_version is not None and required_game_version not in game_versions:
         return False
-    if require_base and any(re.match(r"^26\.", item) for item in game_versions):
+    if require_base and any(pattern.match(item) for pattern in excluded_base_versions for item in game_versions):
         return False
     return selected_file(version, required_filename) is not None
 
 
-def choose_modrinth_url(project: str, config: dict, cache: dict[str, list[dict]], warnings: list[str], required_game_version: str | None, require_base: bool, required_filename: str | None) -> str | None:
+def choose_modrinth_url(project: str, config: dict, cache: dict[str, list[dict]], warnings: list[str], required_game_version: str | None, require_base: bool, required_filename: str | None, excluded_base_versions: tuple[re.Pattern[str], ...]) -> str | None:
     for version in fetch_modrinth_versions(project, cache, warnings):
-        if version_matches(version, config, required_game_version, require_base, required_filename):
+        if version_matches(version, config, required_game_version, require_base, required_filename, excluded_base_versions):
             file_item = selected_file(version, required_filename)
             if file_item and file_item.get("url"):
                 return file_item["url"]
@@ -304,13 +325,14 @@ def project_filename_rules(refs: list[UrlRef]) -> dict[str, bool]:
     return {project: len(projects.get(project, set())) > 1 and len(filenames.get(project, set())) > 1 for project in set(projects) | set(filenames)}
 
 
-def discover_variant_tracks(refs: list[UrlRef], config: dict, cache: dict[str, list[dict]], warnings: list[str], exact_filename: dict[str, bool], configured_tracks: list[VariantTrack]) -> tuple[list[VariantTrack], list[ConfigTrackAddition]]:
-    enabled, pattern, minimum_projects = discovery_settings(config)
+def discover_version_rails(refs: list[UrlRef], config: dict, cache: dict[str, list[dict]], warnings: list[str], exact_filename: dict[str, bool], configured_rails: list[VersionRail], excluded_base_versions: tuple[re.Pattern[str], ...]) -> tuple[list[VersionRail], list[ConfigRailAddition]]:
+    enabled, pattern, minimum_projects, minimum_version = discovery_settings(config)
     if not enabled:
-        return configured_tracks, []
-    configured_versions = {track.min_version for track in configured_tracks}
-    configured_ids = {track.id for track in configured_tracks}
-    newest_configured = max((track.min_version for track in configured_tracks), key=version_sort_key, default="")
+        return configured_rails, []
+    configured_match_versions = {rail.match_version for rail in configured_rails}
+    configured_ids = {rail.id for rail in configured_rails}
+    if minimum_version is None:
+        minimum_version = max((rail.match_version for rail in configured_rails if pattern.match(rail.match_version)), key=version_sort_key, default=None)
     candidates: dict[str, set[str]] = {}
     for ref in refs:
         if ref.prop != "downloadURI" or ref.variant_id:
@@ -320,43 +342,45 @@ def discover_variant_tracks(refs: list[UrlRef], config: dict, cache: dict[str, l
             continue
         required_filename = info["filename"] if exact_filename.get(info["project"]) else None
         for version in fetch_modrinth_versions(info["project"], cache, warnings):
-            if not version_matches(version, config, None, False, required_filename):
+            if not version_matches(version, config, None, False, required_filename, excluded_base_versions):
                 continue
             for game_version in version.get("game_versions") or []:
                 if not isinstance(game_version, str) or not pattern.match(game_version):
                     continue
-                if newest_configured and version_sort_key(game_version) <= version_sort_key(newest_configured):
+                if minimum_version is not None and version_sort_key(game_version) < version_sort_key(minimum_version):
                     continue
-                if game_version in configured_versions:
+                if game_version in configured_match_versions:
                     continue
                 candidates.setdefault(game_version, set()).add(info["project"])
-    additions: list[ConfigTrackAddition] = []
-    tracks = list(configured_tracks)
-    order = max((track.order for track in tracks), default=-1) + 1
-    for min_version in sorted(candidates, key=version_sort_key):
-        project_count = len(candidates[min_version])
+    additions: list[ConfigRailAddition] = []
+    rails = list(configured_rails)
+    for match_version in sorted(candidates, key=version_sort_key):
+        project_count = len(candidates[match_version])
         if project_count < minimum_projects:
             continue
-        variant_id = variant_id_for_game_version(min_version)
-        if variant_id in configured_ids:
-            warnings.append(f"Discovered variant {min_version} maps to configured id {variant_id}")
+        rail_id = variant_id_for_game_version(match_version)
+        if rail_id in configured_ids:
+            warnings.append(f"Discovered rail {match_version} maps to configured id {rail_id}")
             continue
-        additions.append(ConfigTrackAddition(variant_id, min_version, project_count))
-        tracks.append(VariantTrack(variant_id, min_version, order))
-        configured_ids.add(variant_id)
-        configured_versions.add(min_version)
-        order += 1
-    return tracks, additions
+        additions.append(ConfigRailAddition(rail_id, match_version, match_version, project_count))
+        rails.append(VersionRail(rail_id, match_version, match_version, len(rails)))
+        configured_ids.add(rail_id)
+        configured_match_versions.add(match_version)
+    rails.sort(key=lambda rail: (version_sort_key(rail.min_version), rail.order))
+    rails = [VersionRail(rail.id, rail.min_version, rail.match_version, order) for order, rail in enumerate(rails)]
+    return rails, additions
 
 
-def build_changes(root: Path, refs: list[UrlRef], config: dict) -> tuple[list[Change], list[VariantAddition], list[ConfigTrackAddition], list[str]]:
+def build_changes(root: Path, refs: list[UrlRef], config: dict) -> tuple[list[Change], list[VariantAddition], list[ConfigRailAddition], list[str]]:
     changes: list[Change] = []
     additions: list[VariantAddition] = []
     warnings: list[str] = []
     cache: dict[str, list[dict]] = {}
     exact_filename = project_filename_rules(refs)
-    variant_tracks, config_additions = discover_variant_tracks(refs, config, cache, warnings, exact_filename, configured_variant_tracks(config))
-    variant_by_id = {track.id: track for track in variant_tracks}
+    configured_rails = configured_version_rails(config)
+    excluded_base_versions = base_exclusion_patterns(config)
+    rails, config_additions = discover_version_rails(refs, config, cache, warnings, exact_filename, configured_rails, excluded_base_versions)
+    rail_by_id = {rail.id: rail for rail in rails}
     existing_variants = {(ref.rel_file, ref.pack_path, ref.variant_id) for ref in refs if ref.prop == "downloadURI" and ref.variant_id and ".downloadVariants[" in ref.path}
     variant_urls: dict[tuple[str, str | None], set[str]] = {}
     for ref in refs:
@@ -385,18 +409,18 @@ def build_changes(root: Path, refs: list[UrlRef], config: dict) -> tuple[list[Ch
             continue
         required_filename = info["filename"] if exact_filename.get(info["project"]) else None
         if ref.variant_id:
-            variant_track = variant_by_id.get(ref.variant_id)
-            if not variant_track:
-                warnings.append(f"Unconfigured variant {ref.variant_id} for {key} at {ref.rel_file} {ref.path}")
+            rail = rail_by_id.get(ref.variant_id)
+            if not rail:
+                warnings.append(f"Unconfigured rail {ref.variant_id} for {key} at {ref.rel_file} {ref.path}")
                 continue
-            new_url = choose_modrinth_url(info["project"], config, cache, warnings, variant_track.min_version, False, required_filename)
+            new_url = choose_modrinth_url(info["project"], config, cache, warnings, rail.match_version, False, required_filename, excluded_base_versions)
             if new_url is None:
-                warnings.append(f"No Modrinth match for {key} variant {ref.variant_id} at {ref.rel_file} {ref.path}")
+                warnings.append(f"No Modrinth match for {key} rail {ref.variant_id} at {ref.rel_file} {ref.path}")
                 continue
             if new_url != ref.value:
                 changes.append(Change("modrinth", ref.rel_file, ref.path, ref.value, new_url))
             continue
-        new_url = choose_modrinth_url(info["project"], config, cache, warnings, None, True, required_filename)
+        new_url = choose_modrinth_url(info["project"], config, cache, warnings, None, True, required_filename, excluded_base_versions)
         if new_url is None:
             warnings.append(f"No Modrinth base match for {key} at {ref.rel_file} {ref.path}")
         elif new_url in variant_urls.get((ref.rel_file, ref.pack_path), set()):
@@ -404,12 +428,12 @@ def build_changes(root: Path, refs: list[UrlRef], config: dict) -> tuple[list[Ch
         elif new_url != ref.value:
             changes.append(Change("modrinth", ref.rel_file, ref.path, ref.value, new_url))
         anchor_url = new_url if new_url is not None and new_url != ref.value and new_url not in variant_urls.get((ref.rel_file, ref.pack_path), set()) else ref.value
-        for track in variant_tracks:
-            if (ref.rel_file, ref.pack_path, track.id) in existing_variants:
+        for rail in rails:
+            if (ref.rel_file, ref.pack_path, rail.id) in existing_variants:
                 continue
-            candidate = choose_modrinth_url(info["project"], config, cache, warnings, track.min_version, False, required_filename)
+            candidate = choose_modrinth_url(info["project"], config, cache, warnings, rail.match_version, False, required_filename, excluded_base_versions)
             if candidate is not None:
-                additions.append(VariantAddition(ref.rel_file, ref.pack_path or ref.path, anchor_url, track.id, track.min_version, candidate, track.order))
+                additions.append(VariantAddition(ref.rel_file, ref.pack_path or ref.path, anchor_url, rail.id, rail.min_version, candidate, rail.order))
     return changes, sorted(set(additions), key=lambda item: (item.rel_file, item.path, item.order, item.variant_id)), config_additions, sorted(set(warnings))
 
 
@@ -651,6 +675,7 @@ def merge_variants(existing: object, additions: list[VariantAddition]) -> list[d
             "downloadURI": addition.url,
         })
         seen.add(addition.variant_id)
+    variants.sort(key=lambda item: version_sort_key(str(item.get("minVersion", ""))) if isinstance(item, dict) else ())
     return variants
 
 
@@ -708,25 +733,33 @@ def apply_variant_additions(text: str, additions: list[VariantAddition]) -> tupl
     return text[:line_end] + comma + text[line_end:line_end + 1] + block + text[line_end + 1:], None
 
 
-def write_config_tracks(root: Path, config: dict, additions: list[ConfigTrackAddition]) -> None:
+def write_config_rails(root: Path, config: dict, additions: list[ConfigRailAddition]) -> None:
     modrinth = config.setdefault("modrinth", {})
-    variants = modrinth.get("variants", [])
-    if isinstance(variants, dict):
-        variants = [{"id": variant_id, "minVersion": item.get("minVersion")} for variant_id, item in variants.items() if isinstance(item, dict)]
-    elif not isinstance(variants, list):
-        variants = []
-    existing_ids = {item.get("id") for item in variants if isinstance(item, dict)}
-    existing_versions = {item.get("minVersion") for item in variants if isinstance(item, dict)}
+    rails = modrinth.get("rails")
+    if not isinstance(rails, list):
+        rails = [
+            {
+                "id": rail.id,
+                "minVersion": rail.min_version,
+                "matchVersion": rail.match_version,
+            }
+            for rail in configured_version_rails(config)
+        ]
+        modrinth.pop("variants", None)
+    existing_ids = {item.get("id") for item in rails if isinstance(item, dict)}
+    existing_versions = {item.get("minVersion") for item in rails if isinstance(item, dict)}
     for addition in additions:
-        if addition.variant_id in existing_ids or addition.min_version in existing_versions:
+        if addition.id in existing_ids or addition.min_version in existing_versions:
             continue
-        variants.append({
-            "id": addition.variant_id,
+        rails.append({
+            "id": addition.id,
             "minVersion": addition.min_version,
+            "matchVersion": addition.match_version,
         })
-        existing_ids.add(addition.variant_id)
+        existing_ids.add(addition.id)
         existing_versions.add(addition.min_version)
-    modrinth["variants"] = variants
+    rails.sort(key=lambda item: version_sort_key(str(item.get("minVersion", ""))) if isinstance(item, dict) else ())
+    modrinth["rails"] = rails
     path = root / "scripts" / "update_links_config.json"
     path.write_text(json.dumps(config, indent=2) + "\n", encoding="utf-8")
 
@@ -770,7 +803,7 @@ def write_changes(root: Path, texts: dict[Path, str], changes: list[Change], add
     return errors
 
 
-def print_report(changes: list[Change], additions: list[VariantAddition], config_additions: list[ConfigTrackAddition], warnings: list[str], wrote: bool) -> None:
+def print_report(changes: list[Change], additions: list[VariantAddition], config_additions: list[ConfigRailAddition], warnings: list[str], wrote: bool) -> None:
     action = "Updated" if wrote else "Would update"
     total = len(changes) + len(additions) + len(config_additions)
     if total:
@@ -788,7 +821,7 @@ def print_report(changes: list[Change], additions: list[VariantAddition], config
             print(f"{change.kind} {change.rel_file} {change.path}")
         shown = min(len(changes), 50)
         for config_addition in config_additions[: max(0, 50 - shown)]:
-            print(f"config variant {config_addition.variant_id} minVersion {config_addition.min_version} projects {config_addition.project_count}")
+            print(f"config rail {config_addition.id} minVersion {config_addition.min_version} matchVersion {config_addition.match_version} projects {config_addition.project_count}")
         shown += min(len(config_additions), max(0, 50 - shown))
         for addition in additions[: max(0, 50 - shown)]:
             print(f"variant {addition.rel_file} {addition.path}")
@@ -816,7 +849,7 @@ def main() -> int:
     if args.local_only:
         changes, warnings = build_local_changes(root, refs)
         additions: list[VariantAddition] = []
-        config_additions: list[ConfigTrackAddition] = []
+        config_additions: list[ConfigRailAddition] = []
     else:
         config = load_config(root)
         changes, additions, config_additions, warnings = build_changes(root, refs, config)
@@ -827,7 +860,7 @@ def main() -> int:
                 print(error, file=sys.stderr)
             return 2
         if not args.local_only and config_additions:
-            write_config_tracks(root, config, config_additions)
+            write_config_rails(root, config, config_additions)
     print_report(changes, additions, config_additions, warnings, args.write and bool(changes or additions or config_additions))
     return 0
 

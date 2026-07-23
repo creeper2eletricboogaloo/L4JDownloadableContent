@@ -4,20 +4,61 @@
     "versionTypes": [
       "release"
     ],
-    "variants": [
+    "rails": [
+      {
+        "id": "1_20_1",
+        "minVersion": "1.20",
+        "matchVersion": "1.20.1"
+      },
+      {
+        "id": "1_20_4",
+        "minVersion": "1.20.3",
+        "matchVersion": "1.20.4"
+      },
+      {
+        "id": "1_21_1",
+        "minVersion": "1.21",
+        "matchVersion": "1.21.1"
+      },
+      {
+        "id": "1_21_3",
+        "minVersion": "1.21.2",
+        "matchVersion": "1.21.3"
+      },
+      {
+        "id": "1_21_4",
+        "minVersion": "1.21.4",
+        "matchVersion": "1.21.4"
+      },
+      {
+        "id": "1_21_5",
+        "minVersion": "1.21.5",
+        "matchVersion": "1.21.5"
+      },
+      {
+        "id": "1_21_11",
+        "minVersion": "1.21.11",
+        "matchVersion": "1.21.11"
+      },
       {
         "id": "26_1_2",
-        "minVersion": "26.1.2"
+        "minVersion": "26.1.2",
+        "matchVersion": "26.1.2"
       },
       {
         "id": "26_2",
-        "minVersion": "26.2"
+        "minVersion": "26.2",
+        "matchVersion": "26.2"
       }
     ],
-    "autoDiscoverVariants": {
+    "baseExcludedGameVersionPatterns": [
+      "^26\\."
+    ],
+    "autoDiscoverRails": {
       "enabled": true,
       "gameVersionPattern": "^26\\.[0-9]+(\\.[0-9]+)?$",
-      "minimumProjects": 3
+      "minimumProjects": 3,
+      "minimumVersion": "26.1.2"
     }
   }
 }

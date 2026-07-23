@@ -7,6 +7,41 @@
       "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/vFwN1BQC/faithful_legacy.zip",
       "downloadVariants": [
         {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/vFwN1BQC/faithful_legacy.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/vFwN1BQC/faithful_legacy.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip"
@@ -30,6 +65,41 @@
       "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
       "downloadVariants": [
         {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/pEZP92gi/versions/rYtyzyzk/ore4j.zip"
@@ -43,6 +113,38 @@
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
       "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_tutorial_worlds_preview.png?checksum=049782e1e127c3714ac12cc877670d5d",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -51,6 +153,38 @@
       "name": "Legacy Titles",
       "description": "Legacy Titles is a resource pack made specifically for Legacy4J, adding the different \"Edition\" titles from Minecraft: Legacy Console Edition, while also adding fitting, custom titles to complete the Legacy experience for your preferred platform.",
       "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_titles_preview.png?checksum=1d296644dbb7c221b7147ac7c41b181d",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -67,6 +201,38 @@
       "name": "TU5 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU5 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/YlAndT79/tu5.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu5_preview.png?checksum=3c86a73549280a1539d8e5f4f93df332",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -75,6 +241,38 @@
       "name": "TU7 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU7 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/LFPMQ4Dq/tu7.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu7_preview.png?checksum=6724d0be11e813777f42860e5be56598",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -83,6 +281,38 @@
       "name": "TU12 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU12 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/1BF0T8Dn/tu12.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu12_preview.png?checksum=d812244181fd187da94619179873dfba",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -91,6 +321,38 @@
       "name": "TU20 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU20 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/ZC58Zj8f/tu20.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu20_preview.png?checksum=2790862c057f1a06a3acd333e967df09",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -99,6 +361,38 @@
       "name": "TU31 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU31 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/TRYIy4nZ/tu31.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu31_preview.png?checksum=670966f2c0554eeaeff452f1358f4807",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -107,6 +401,38 @@
       "name": "TU46 Panorama",
       "description": "LCE Panorama Collection add-on for Legacy4J, adding the TU46 panorama from Legacy Console Edition.",
       "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/gHHngSJG/versions/CG6yqXOJ/tu46.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/Legacy4J/preview_images/legacy_panorama_tu46_preview.png?checksum=df2d28f43815b4f5cabac462f9edac9a",
       "tags": ["auto_apply_resource_pack"]
     },
@@ -132,6 +458,41 @@
       "description": "This resource pack is a stand-alone version of DDM: EXPANSION that only contains the Legacy4J-related assets and some of the essential minecraft assets!",
       "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/z2hqXmR6/Default-Dark-Mode-Legacy4J-1.20%2B-1.1.2-alt.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_1",
+          "minVersion": "1.20",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/iARsV6G1/Default-Dark-Mode-Legacy4J-1.20%2B-1.2.0-alt.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/Ykaasrzg/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.0.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",

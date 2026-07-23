@@ -476,6 +476,36 @@
                                               "downloadURI":  "https://cdn.modrinth.com/data/meEXwbr9/versions/zT0YGbvp/Plastic%20Texture%20Pack.zip",
                                               "downloadVariants":  [
                                                 {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+                                                },
+                                                {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
                                                   "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
@@ -494,6 +524,36 @@
                                               "description":  "Indulge your sweet tooth with sugar-coated textures for blocks, items, entities, and the UI.",
                                               "downloadURI":  "https://cdn.modrinth.com/data/NGIRqFgR/versions/R2Sp0xlI/Candy%20Texture%20Pack.zip",
                                               "downloadVariants":  [
+                                                {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+                                                },
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
@@ -514,6 +574,36 @@
                                               "downloadURI":  "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip",
                                               "downloadVariants":  [
                                                 {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+                                                },
+                                                {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
                                                   "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
@@ -532,6 +622,36 @@
                                               "description":  "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, and set sail across the sea in this mythology-themed mash-up.",
                                               "downloadURI":  "https://cdn.modrinth.com/data/WtfCCeNe/versions/X3RfZgU8/Greek%20Mythology%20Mash-up.zip",
                                               "downloadVariants":  [
+                                                {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+                                                },
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
@@ -561,6 +681,36 @@
                                               "downloadURI":  "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip",
                                               "downloadVariants":  [
                                                 {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+                                                },
+                                                {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
                                                   "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
@@ -579,6 +729,36 @@
                                               "description":  "Journey through epic terrain and find enlightenment in a land of dragons inspired by the myths and legends of China.",
                                               "downloadURI":  "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
                                               "downloadVariants":  [
+                                                {
+                                                  "id": "1_20_4",
+                                                  "minVersion": "1.20.3",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_1",
+                                                  "minVersion": "1.21",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_3",
+                                                  "minVersion": "1.21.2",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_4",
+                                                  "minVersion": "1.21.4",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_5",
+                                                  "minVersion": "1.21.5",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
+                                                {
+                                                  "id": "1_21_11",
+                                                  "minVersion": "1.21.11",
+                                                  "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+                                                },
                                                 {
                                                   "id": "26_1_2",
                                                   "minVersion": "26.1.2",
@@ -615,6 +795,36 @@
             "description": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
             "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/D5bB70i8/Festive%20Mash-up.zip",
             "downloadVariants": [
+              {
+                "id": "1_20_4",
+                "minVersion": "1.20.3",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_1",
+                "minVersion": "1.21",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_3",
+                "minVersion": "1.21.2",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_4",
+                "minVersion": "1.21.4",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_5",
+                "minVersion": "1.21.5",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_11",
+                "minVersion": "1.21.11",
+                "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+              },
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",
@@ -674,6 +884,36 @@
             "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride! This mash-up pack includes spooky textures for blocks, items, entities, UI, new music and an epic new world to explore!",
             "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/ZW2YDeII/Halloween%20Mash-up.zip",
             "downloadVariants": [
+              {
+                "id": "1_20_4",
+                "minVersion": "1.20.3",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_1",
+                "minVersion": "1.21",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_3",
+                "minVersion": "1.21.2",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_4",
+                "minVersion": "1.21.4",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_5",
+                "minVersion": "1.21.5",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
+              {
+                "id": "1_21_11",
+                "minVersion": "1.21.11",
+                "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+              },
               {
                 "id": "26_1_2",
                 "minVersion": "26.1.2",

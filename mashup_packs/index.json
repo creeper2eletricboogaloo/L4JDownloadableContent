@@ -7,6 +7,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/ov7cVEHe/Pirates%20Of%20The%20Caribbean.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip"
@@ -45,6 +75,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/xhUR5AEF/Egyptian%20Mythology%20Mash-up.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip"
@@ -77,6 +137,36 @@
       "description": "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skal!",
       "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/Zi7yz6pF/Norse%20Mythology%20Mash-up.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
@@ -116,6 +206,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/D5bB70i8/Festive%20Mash-up.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip"
@@ -153,6 +273,36 @@
       "description": "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China.",
       "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/KSdastsm/Chinese%20Mythology%20Mash-up.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
@@ -192,6 +342,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/X3RfZgU8/Greek%20Mythology%20Mash-up.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip"
@@ -228,6 +408,13 @@
       "name": "Minecraft Vault-Tec Mash-Up",
       "description": "Welcome to the wasteland! Crack open the Vault containing 44 unique skins, custom textures, re-skinned mobs, a special post-apocalyptic map, original soundtrack compilation and a Pip-Boy inspired UI.",
       "downloadURI": "https://cdn.modrinth.com/data/YyQcuyAN/versions/UZEBNeOe/FalloutMash-upPack.zip",
+      "downloadVariants": [
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/YyQcuyAN/versions/UZEBNeOe/FalloutMash-upPack.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/fallout_preview.png?checksum=2b5067f88f49764528a265d44d463a31",
       "resourceAlbumIconUrl": "resource_album_icons/vault-tect.png?checksum=cea2ee1a56f366201d0d404a546e92b4",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/vault-tect.png?checksum=cea2ee1a56f366201d0d404a546e92b4",
@@ -254,6 +441,28 @@
       "name": "Minecraft N7 Mash-Up",
       "description": "Shape the fate of your Minecraft galaxy with this amazing Mash-up.",
       "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip",
+      "downloadVariants": [
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/8Ya2o6nd/Mass%20Effect.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/masseffect_preview.png?checksum=a73d81b41d6ba7b0d7bdfdfcac8362c2",
       "resourceAlbumIconUrl": "resource_album_icons/mass_effect.png?checksum=049a84a89ebef82b93b170d5696fe196",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/mass_effect.png?checksum=a6b81707478492879bb72738f776ccae",
@@ -308,6 +517,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/ZW2YDeII/Halloween%20Mash-up.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip"
@@ -345,6 +584,36 @@
       "description": "The Super Mario Mash-Up Pack is a free mash-up pack exclusively available for the Nintendo console versions of Minecraft.",
       "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/liceZcLU/Super%20Mario%20Mash-Up.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",

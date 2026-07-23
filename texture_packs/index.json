@@ -7,6 +7,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/nrtOJiLM/Super%20Cute%20Texture%20Pack.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip"
@@ -26,6 +56,36 @@
       "description": "Free your inner architect and shape the world around you.This pack adds a creative texture set, ideal for building structures. Includes unique textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/I1UhD6DR/City%20Texture%20Pack.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
@@ -47,6 +107,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/zT0YGbvp/Plastic%20Texture%20Pack.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip"
@@ -66,6 +156,36 @@
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.This pack includes detailed textures for blocks, items, entities, and UI that give a refined feel without straying too far from the vanilla game.",
       "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/oR14vI1u/Natural%20Texture%20Pack.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
@@ -87,6 +207,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/kVfBtnvh/Fantasy%20Texture%20Pack.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip"
@@ -106,6 +256,36 @@
       "description": "Indulge your sweet tooth with this sugar-coated texture pack! This sweet pack adds tantalizing textures for blocks, items, entities, and UI",
       "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/R2Sp0xlI/Candy%20Texture%20Pack.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
@@ -127,6 +307,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip"
@@ -147,6 +357,36 @@
       "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/aIVZEkA1/Steampunk%20Texture%20Pack.zip",
       "downloadVariants": [
         {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
+        },
+        {
           "id": "26_1_2",
           "minVersion": "26.1.2",
           "downloadURI": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip"
@@ -166,6 +406,36 @@
       "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals! This pack adds themed textures for blocks, items, entities, and UI.",
       "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip",
       "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip"
+        },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
