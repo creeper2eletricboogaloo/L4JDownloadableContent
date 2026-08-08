@@ -12,72 +12,72 @@
       "id": "glide",
       "name": "Glide Mini Game Soundtrack",
       "description": "Relive the fast-paced scuffles of Legacy Console Edition's Glide Mini Game with its energising soundtrack, featuring music composed by Gareth Coker.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/glide.zip?checksum=d00a2d063a810eee9a12e7c87db2b240",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/glide_preview.png?checksum=8252e0ee21c0bd609d5edd308877357f",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/glide.zip?checksum=3fd203daafc4df58a1057ee584ccadad",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/glide_preview.png?checksum=e49231dadd98d07322e999976b18b057",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "tumble",
       "name": "Tumble Mini Game Soundtrack",
       "description": "Relive the fast-paced scuffles of Legacy Console Edition's Tumble Mini Game with its energising soundtrack, featuring music composed by Gareth Coker.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/tumble.zip?checksum=92b73f0b4619317248a98068448dffbc",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/tumble_preview.png?checksum=d4a4f81632b4f242e57dc3cfe3c41c33",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/tumble.zip?checksum=9096707d93e485c69aa13b4638443889",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/tumble_preview.png?checksum=af3aff178658515b52a9caaee0626f81",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "fallout",
       "name": "Fallout Soundtrack",
       "description": "Keep dancing until the end of the world with Legacy Console Edition's Fallout Mash-Up soundtrack, featuring familiar music from across the Fallout series.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/fallout.zip?checksum=1fea18d7ed6c8e873c27d221b565d52b",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/fallout_preview.png?checksum=46d7ebbc3a9e0f5edba483945671ba1f",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/fallout.zip?checksum=a9e3efaa82bb8539add1b57fcd81774f",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/fallout_preview.png?checksum=e5b7e873e9c926f7790e37ef680db050",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "pirates_of_the_caribbean",
       "name": "Pirates of the Caribbean Soundtrack",
       "description": "Set sail with Legacy Console Edition's Pirates of the Caribbean Mash-Up soundtrack and relive adventures inspired by all five films.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/pirates_of_the_caribbean.zip?checksum=d218011bae3f21e7029fc4d7e0b99d7b",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/pirates_of_the_caribbean_preview.png?checksum=4487c235895745a560a10ed7c0d02d4d",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/pirates_of_the_caribbean.zip?checksum=0b9a823cc5872dfa643a833661675a63",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/pirates_of_the_caribbean_preview.png?checksum=2e71f282e9b52dcbc3fd90556a235733",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "halo",
       "name": "Halo Soundtrack",
       "description": "Suit up as the Master Chief with Legacy Console Edition's Halo Mash-Up soundtrack, featuring music from across the Halo franchise.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halo.zip?checksum=b24a09cf27b4c04ea29598ff65dda25d",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halo_preview.png?checksum=b02742e762783ee1b1c00f789c804db9",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halo.zip?checksum=b2553a14cd0059dfa94e03c9f83f87c3",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halo_preview.png?checksum=6f1de4b78d2909e165f4636a0e65a660",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "littlebigplanet",
       "name": "LittleBigPlanet Soundtrack",
       "description": "Join Sackboy with Legacy Console Edition's LittleBigPlanet Mash-Up soundtrack and relive the imaginative world of LittleBigPlanet.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/littlebigplanet.zip?checksum=e0a160bdb114c7eaccf277aac08f7f4b",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/littlebigplanet_preview.png?checksum=92051dacb30ffaf41dfbdd212d7b0917",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/littlebigplanet.zip?checksum=b340cc19c6779af6962bcbcd57ff8e79",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/littlebigplanet_preview.png?checksum=17864c80cb58a2e9c69659abc2e4c90f",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "the_nightmare_before_christmas",
       "name": "The Nightmare Before Christmas Soundtrack",
       "description": "Step into Halloween Town with Legacy Console Edition's The Nightmare Before Christmas Mash-Up soundtrack and relive the stop-motion classic.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/the_nightmare_before_christmas.zip?checksum=f9f157b1c1daad9a20ca075e3e05a253",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/the_nightmare_before_christmas_preview.png?checksum=14da8df20f6f6110129270d706eece9d",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/the_nightmare_before_christmas.zip?checksum=45efb466a769c737166fa2d52d39c5a9",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/the_nightmare_before_christmas_preview.png?checksum=de7a3e2311c1f83446213d2e824c55b2",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "halloween_2015",
       "name": "Halloween 2015 Soundtrack",
       "description": "Bring a frightful atmosphere to your game with Legacy Console Edition's Halloween 2015 Mash-Up soundtrack.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halloween_2015.zip?checksum=b70a67624c5f5e4a2df8c33609cba20c",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halloween_2015_preview.png?checksum=e04cb498df53d9c5e04f7cf526f029fd",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halloween_2015.zip?checksum=8e4757c8c531fbce6caa102f65fcf9d5",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halloween_2015_preview.png?checksum=930fb58a83c20be6eaad4a0fd16dc47c",
       "tags": ["auto_apply_resource_pack"]
     },
     {
       "id": "chinese_mythology",
       "name": "Chinese Mythology Soundtrack",
       "description": "Journey through a land inspired by ancient China with Legacy Console Edition's Chinese Mythology Mash-Up soundtrack.",
-      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/chinese_mythology.zip?checksum=f32828984ae9f452c07f1c0d1714bf07",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/chinese_mythology_preview.png?checksum=132c485ea6d6e809607f55717f19d433",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/chinese_mythology.zip?checksum=2397aa3339d0c49057364f4053990498",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/chinese_mythology_preview.png?checksum=7bfc44847be73a4e6e3d20018fbf96f8",
       "tags": ["auto_apply_resource_pack"]
     }
   ]
