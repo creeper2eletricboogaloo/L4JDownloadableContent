@@ -55,6 +55,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/littlebigplanet.zip?checksum=e0a160bdb114c7eaccf277aac08f7f4b",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/littlebigplanet_preview.png?checksum=92051dacb30ffaf41dfbdd212d7b0917",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "the_nightmare_before_christmas",
+      "name": "The Nightmare Before Christmas Soundtrack",
+      "description": "Step into Halloween Town with Legacy Console Edition's The Nightmare Before Christmas Mash-Up soundtrack and relive the stop-motion classic.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/the_nightmare_before_christmas.zip?checksum=f9f157b1c1daad9a20ca075e3e05a253",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/the_nightmare_before_christmas_preview.png?checksum=14da8df20f6f6110129270d706eece9d",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
