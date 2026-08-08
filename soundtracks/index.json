@@ -23,6 +23,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/tumble.zip?checksum=92b73f0b4619317248a98068448dffbc",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/tumble_preview.png?checksum=d4a4f81632b4f242e57dc3cfe3c41c33",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "fallout",
+      "name": "Fallout Soundtrack",
+      "description": "Keep dancing until the end of the world with Legacy Console Edition's Fallout Mash-Up soundtrack, featuring familiar music from across the Fallout series.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/fallout.zip?checksum=1fea18d7ed6c8e873c27d221b565d52b",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/fallout_preview.png?checksum=46d7ebbc3a9e0f5edba483945671ba1f",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
