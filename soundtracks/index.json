@@ -1,3 +1,10 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "battle_maps",
+      "name": "Battle Mini Game Soundtrack",
+      "downloadURI": "https://raw.githubusercontent.com/creepereater201/L4JDownloadableContent/main/soundtracks/packs/battle_maps.zip?checksum=3bddfed5ed72d2659426ac220da4c3d3",
+      "imageUrl": "https://raw.githubusercontent.com/creepereater201/L4JDownloadableContent/main/soundtracks/preview_images/battle_maps_preview.png?checksum=0d17846a486b4e5cf4c37b5e3d1c6296"
+    }
+  ]
 }
