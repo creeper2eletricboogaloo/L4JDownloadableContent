@@ -15,6 +15,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/glide.zip?checksum=d00a2d063a810eee9a12e7c87db2b240",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/glide_preview.png?checksum=8252e0ee21c0bd609d5edd308877357f",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "tumble",
+      "name": "Tumble Mini Game Soundtrack",
+      "description": "Relive the fast-paced scuffles of Legacy Console Edition's Tumble Mini Game with its energising soundtrack, featuring music composed by Gareth Coker.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/tumble.zip?checksum=92b73f0b4619317248a98068448dffbc",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/tumble_preview.png?checksum=d4a4f81632b4f242e57dc3cfe3c41c33",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
