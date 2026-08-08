@@ -31,6 +31,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/fallout.zip?checksum=1fea18d7ed6c8e873c27d221b565d52b",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/fallout_preview.png?checksum=46d7ebbc3a9e0f5edba483945671ba1f",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "pirates_of_the_caribbean",
+      "name": "Pirates of the Caribbean Soundtrack",
+      "description": "Set sail with Legacy Console Edition's Pirates of the Caribbean Mash-Up soundtrack and relive adventures inspired by all five films.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/pirates_of_the_caribbean.zip?checksum=d218011bae3f21e7029fc4d7e0b99d7b",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/pirates_of_the_caribbean_preview.png?checksum=4487c235895745a560a10ed7c0d02d4d",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
