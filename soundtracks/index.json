@@ -63,6 +63,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/the_nightmare_before_christmas.zip?checksum=f9f157b1c1daad9a20ca075e3e05a253",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/the_nightmare_before_christmas_preview.png?checksum=14da8df20f6f6110129270d706eece9d",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "halloween_2015",
+      "name": "Halloween 2015 Soundtrack",
+      "description": "Bring a frightful atmosphere to your game with Legacy Console Edition's Halloween 2015 Mash-Up soundtrack.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halloween_2015.zip?checksum=b70a67624c5f5e4a2df8c33609cba20c",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halloween_2015_preview.png?checksum=e04cb498df53d9c5e04f7cf526f029fd",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
