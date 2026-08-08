@@ -5,10 +5,7 @@
       "name": "Battle Mini Game Soundtrack",
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/battle_maps.zip?checksum=62d94fa6aad494c4f928d24ffe640239",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/battle_maps_preview.png?checksum=0d17846a486b4e5cf4c37b5e3d1c6296",
-      "tags": [
-        "auto_apply_resource_pack",
-        "is_normal_resource_pack"
-      ]
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
