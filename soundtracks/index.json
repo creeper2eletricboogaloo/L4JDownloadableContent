@@ -7,6 +7,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/battle_maps.zip?checksum=62d94fa6aad494c4f928d24ffe640239",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/battle_maps_preview.png?checksum=0d17846a486b4e5cf4c37b5e3d1c6296",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "glide",
+      "name": "Glide Mini Game Soundtrack",
+      "description": "Relive the fast-paced scuffles of Legacy Console Edition's Glide Mini Game with its energising soundtrack, featuring music composed by Gareth Coker.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/glide.zip?checksum=d00a2d063a810eee9a12e7c87db2b240",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/glide_preview.png?checksum=8252e0ee21c0bd609d5edd308877357f",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
