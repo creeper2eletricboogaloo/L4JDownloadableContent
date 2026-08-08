@@ -47,6 +47,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halo.zip?checksum=b24a09cf27b4c04ea29598ff65dda25d",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halo_preview.png?checksum=b02742e762783ee1b1c00f789c804db9",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "littlebigplanet",
+      "name": "LittleBigPlanet Soundtrack",
+      "description": "Join Sackboy with Legacy Console Edition's LittleBigPlanet Mash-Up soundtrack and relive the imaginative world of LittleBigPlanet.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/littlebigplanet.zip?checksum=e0a160bdb114c7eaccf277aac08f7f4b",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/littlebigplanet_preview.png?checksum=92051dacb30ffaf41dfbdd212d7b0917",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
