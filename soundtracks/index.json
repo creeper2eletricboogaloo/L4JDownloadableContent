@@ -71,6 +71,14 @@
       "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/halloween_2015.zip?checksum=b70a67624c5f5e4a2df8c33609cba20c",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/halloween_2015_preview.png?checksum=e04cb498df53d9c5e04f7cf526f029fd",
       "tags": ["auto_apply_resource_pack"]
+    },
+    {
+      "id": "chinese_mythology",
+      "name": "Chinese Mythology Soundtrack",
+      "description": "Journey through a land inspired by ancient China with Legacy Console Edition's Chinese Mythology Mash-Up soundtrack.",
+      "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/packs/chinese_mythology.zip?checksum=f32828984ae9f452c07f1c0d1714bf07",
+      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/soundtracks/preview_images/chinese_mythology_preview.png?checksum=132c485ea6d6e809607f55717f19d433",
+      "tags": ["auto_apply_resource_pack"]
     }
   ]
 }
