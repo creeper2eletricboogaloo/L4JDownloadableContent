@@ -50,13 +50,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/potc_preview.png?checksum=37b99dfebedc9875d9229adaf1f4ec3c",
       "resourceAlbumIconUrl": "resource_album_icons/potc.png?checksum=2c3fb6eae0cc3910e9aef2fd26095978",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/potc.png?checksum=2c3fb6eae0cc3910e9aef2fd26095978",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/pirates_of_the_caribbean.mcsave?checksum=d29df3713098ce42f08926eb84479d9e",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/pirates_of_the_caribbean.mcsave?checksum=c6f9164414dd3e8250d4cab988de24f7",
       "worldTemplateFolderName": "Pirates of the Carribean Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/pirates_of_the_caribbean.mcsave?checksum=6e82826969f3a16fa6132728f966d5bc"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/pirates_of_the_caribbean.mcsave?checksum=3abb823fe2d3625939137c4baf032a9f"
         }
       ],
       "bundlePacks": [
@@ -113,13 +113,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/egyptianmytho_preview.png?checksum=c403bc15d5ae1a30a965e02d402f2c1c",
       "resourceAlbumIconUrl": "resource_album_icons/egyptianmythology.png?checksum=2a4d9cd0c8690d977930977a44dbf65a",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/egyptianmythology.png?checksum=2a4d9cd0c8690d977930977a44dbf65a",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/egyptian_mythology.mcsave?checksum=7b3e3bab3d940643a4260a666b864b91",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/egyptian_mythology.mcsave?checksum=7eb3c3d8be65e4bf37fa232165a1f39f",
       "worldTemplateFolderName": "Egyptian Mythology Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/egyptian_mythology.mcsave?checksum=6ec2a7fe5b0027687a54bc510e61c0c8"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/egyptian_mythology.mcsave?checksum=f03ba365abc6477e90dfcfa39a3f33a9"
         }
       ],
       "bundlePacks": [
@@ -181,13 +181,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/norsemytho_preview.png?checksum=ab920767f1e257e95320fedd8603e7eb",
       "resourceAlbumIconUrl": "resource_album_icons/norsemythology.png?checksum=54a6fb9901cb837db65e6cd9cc5a68ab",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/norsemythology.png?checksum=54a6fb9901cb837db65e6cd9cc5a68ab",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/norse_mythology.mcsave?checksum=22944167b83cbe54bc69e13f0c43e939",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/norse_mythology.mcsave?checksum=9e8059dda6a0ccbbca505289d56f8823",
       "worldTemplateFolderName": "Norse Mythology Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/norse_mythology.mcsave?checksum=ba5fa432bc0f6f6f3f11d48e773449b4"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/norse_mythology.mcsave?checksum=1a10d4e6b18186f63661eab460ca99d7"
         }
       ],
       "bundlePacks": [
@@ -249,13 +249,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/festive_preview.png?checksum=45449c6c966d5787b53211a1a14abe9f",
       "resourceAlbumIconUrl": "resource_album_icons/festive.png?checksum=3b3295958332813cf5180d5cfcd968a2",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/festive.png?checksum=bd875cd080cd54b89c2775592b2a67eb",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/festive.mcsave?checksum=0335be1fcf3633e3a9ad3b6ffa953ce4",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/festive.mcsave?checksum=212201bca8290d7da5b9c92342ce2299",
       "worldTemplateFolderName": "Festive Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=8fc17d0bb986d3368b52131f1a8226fd"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/festive.mcsave?checksum=53a13970c939c45729e9972725b361fa"
         }
       ],
       "bundlePacks": [
@@ -317,13 +317,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/chinesemytho_preview.png?checksum=7a08c36905a481246146b523a584b598",
       "resourceAlbumIconUrl": "resource_album_icons/chinesemythology.png?checksum=7ab97ba3ccc2c55aacd2420fc61a4f34",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/chinesemythology.png?checksum=42ff6b44907c2d4921c9a401519d88a6",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/chinese_mythology.mcsave?checksum=611ace74c4a9f6b41c146b9eb03eb957",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/chinese_mythology.mcsave?checksum=6b63c2239351f10e45f78cf51109644b",
       "worldTemplateFolderName": "Chinese Mythology Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/chinese_mythology.mcsave?checksum=534edc3f40d9d1b80f87a6b4915dffbc"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/chinese_mythology.mcsave?checksum=2a5716cf72395278560f05367ea79120"
         }
       ],
       "bundlePacks": [
@@ -385,13 +385,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/greekmytho_preview.png?checksum=0b4f41ef6233255e2251ee64f111d6cc",
       "resourceAlbumIconUrl": "resource_album_icons/greekmythology.png?checksum=10d869d6ec2263c8bf37d4c2514671d4",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/greekmythology.png?checksum=b47cee8fce23bfe647eaec401f3fa869",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/greek_mythology.mcsave?checksum=1c25384b5957036767afa14e46889c33",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/greek_mythology.mcsave?checksum=49640a85c1ca17b82bb4a66dabd19ed4",
       "worldTemplateFolderName": "Greek Mythology Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=52b547cc191abf8d4ea259a0f4435acd"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/greek_mythology.mcsave?checksum=3a1b8e44a77a9dd8f5c320136d335c39"
         }
       ],
       "bundlePacks": [
@@ -418,13 +418,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/fallout_preview.png?checksum=2b5067f88f49764528a265d44d463a31",
       "resourceAlbumIconUrl": "resource_album_icons/vault-tect.png?checksum=cea2ee1a56f366201d0d404a546e92b4",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/vault-tect.png?checksum=cea2ee1a56f366201d0d404a546e92b4",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/fallout.mcsave?checksum=1f9a662e49cf2f7689ef3d1d59212f15",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/fallout.mcsave?checksum=92be6973fabf7dec965a1cf5b1fbd072",
       "worldTemplateFolderName": "Fallout Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/fallout.mcsave?checksum=c0c3691f25d8d5f8c4da75543742bf9e"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/fallout.mcsave?checksum=262e6d1e17e11e9be2c46e6612f1e125"
         }
       ],
       "bundlePacks": [
@@ -492,13 +492,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/lbp_preview.png?checksum=123ec1874432e218c6307a57e08cac85",
       "resourceAlbumIconUrl": "resource_album_icons/littlebigplanet_mashup.png?checksum=4e19e47ebcf0cfd89e89b36e94a728d9",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/littlebigplanet_mashup.png?checksum=ea737b0a0de8f6c60ee4ccc737d35b9a",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/littlebigplanet.mcsave?checksum=1868ae0043c388bba8f69336723d2671",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/littlebigplanet.mcsave?checksum=b10cfa76c40e7e61becc6a7e3d6ea364",
       "worldTemplateFolderName": "LittleBigPlanet Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/littlebigplanet.mcsave?checksum=b6dd8f7e369d26285bf9dcf3779f2e3b"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/littlebigplanet.mcsave?checksum=767aa107b54b3e4433bc810c0415c527"
         }
       ],
       "bundlePacks": [
@@ -560,13 +560,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/halloween_preview.png?checksum=3503167ac6568e30b0a78741abd3c708",
       "resourceAlbumIconUrl": "resource_album_icons/halloween_mashup.png?checksum=d3098b4874c3124333aa41d0882c0995",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/halloween_mashup.png?checksum=18f9a29df1dc522371d050cdbc1140ea",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/halloween.mcsave?checksum=312b85f948d843d6db08bd6d25bbde9c",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/halloween.mcsave?checksum=99a5863b425195a0f1e80a491209f310",
       "worldTemplateFolderName": "Halloween Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=e0b5e726cdb1e71fc5e4095847cb636e"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/halloween.mcsave?checksum=735455c35741199089534c731b010b30"
         }
       ],
       "bundlePacks": [
@@ -628,13 +628,13 @@
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/supermario_preview.png?checksum=e7098d33b4ffbf709683c19a27506cc1",
       "resourceAlbumIconUrl": "resource_album_icons/supermario.png?checksum=7614c05b9102da5cea46fb447f1fd938",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/supermario.png?checksum=9c8eaf9a14cf0fc9a1e055eec8a14739",
-      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/super_mario.mcsave?checksum=58861f8e6061fd675c49648bd6e143aa",
+      "worldTemplateDownloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/1.20%2B/super_mario.mcsave?checksum=56786f6e763b90ba7af488777ca4df4e",
       "worldTemplateFolderName": "Super Mario Mash-up",
       "worldTemplateVariants": [
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/super_mario.mcsave?checksum=107c412b1515e63be496c8c576146c59"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/world_templates/26%2B/super_mario.mcsave?checksum=8a9e7d8229aebb4d66afc85ff610a800"
         }
       ],
       "bundlePacks": [
