@@ -112,37 +112,37 @@
       "id": "legacy_tutorial_worlds",
       "name": "Tutorial World Add-on",
       "description": "This is a small add-on that was originally a part of Re-Console Resources, which was now seperated into this resource pack to allow people to use the Tutorial Worlds without the Resources pack being required.",
-      "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip",
+      "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
       "downloadVariants": [
         {
           "id": "1_20_1",
           "minVersion": "1.20",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_20_4",
           "minVersion": "1.20.3",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_21_1",
           "minVersion": "1.21",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_21_3",
           "minVersion": "1.21.2",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_21_4",
           "minVersion": "1.21.4",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_21_5",
           "minVersion": "1.21.5",
-          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/VI3Hz0wZ/TutorialWorldAddon.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip"
         },
         {
           "id": "1_21_11",
@@ -506,12 +506,17 @@
         {
           "id": "1_21_11",
           "minVersion": "1.21.11",
-          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/Ykaasrzg/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.0.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/xgNZAF3b/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.1.zip"
         },
         {
           "id": "26_1_2",
           "minVersion": "26.1.2",
-          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/Ykaasrzg/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.0.zip"
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/xgNZAF3b/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.1.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/8xdgUCRk/versions/xgNZAF3b/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.1.zip"
         }
       ],
       "imageUrl": "https://cdn.modrinth.com/data/cached_images/4e2769e28cf67f9eb582a6b480382df2dd6f55c6.png",
