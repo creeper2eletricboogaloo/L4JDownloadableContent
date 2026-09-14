@@ -64,7 +64,7 @@
           "categoryId": "skinpacks",
           "id": "piratesofthecaribbean",
           "name": "Pirates of the Caribbean",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=b845f8f131de3efd2609f022bd3233a6"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=e03f974a0c5b1fff6a5409b0f3c2a292"
         }
       ]
     },
@@ -127,7 +127,7 @@
           "categoryId": "skinpacks",
           "id": "egyptianmythology",
           "name": "Egyptian Mythology",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=6a0cf55ac02845927c1fe1b68c618d7f"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/egyptianmythology.zip?checksum=e45b90671f1472de6b18bc36cdddb97d"
         }
       ]
     },
@@ -195,7 +195,7 @@
           "categoryId": "skinpacks",
           "id": "norsemythology",
           "name": "Norse Mythology",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=6618f5ae436b984fae0ff82afa505bd5"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/norsemythology.zip?checksum=258278aa82c6d9bda1869f24b7cdd4ee"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "categoryId": "skinpacks",
           "id": "festivemashup",
           "name": "Festive",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=74a60bf2f1214df8d391f39e27eb6e43"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/festivemashup.zip?checksum=c560cff7b751313e616f27bb31905b1c"
         }
       ]
     },
@@ -331,7 +331,7 @@
           "categoryId": "skinpacks",
           "id": "chinesemythology",
           "name": "Chinese Mythology",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/chinesemythology.zip?checksum=ebe91b8b91a2f17f196374f8fda21271"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/chinesemythology.zip?checksum=491acb438412dc3cae45ace86a2f995c"
         }
       ]
     },
@@ -399,7 +399,7 @@
           "categoryId": "skinpacks",
           "id": "greekmythology",
           "name": "Greek Mythology",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/greekmythology.zip?checksum=81c1606d772a03003a52c2e3c0f95044"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/greekmythology.zip?checksum=9e2de8f28c1ff5cf9598777828db68bb"
         }
       ]
     },
@@ -432,7 +432,7 @@
           "categoryId": "skinpacks",
           "id": "fallout",
           "name": "Fallout",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fallout.zip?checksum=6d4925188de2862a1180cb8075212080"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/fallout.zip?checksum=46eb1bda270f871badd33ac07314f093"
         }
       ]
     },
@@ -480,7 +480,7 @@
           "categoryId": "skinpacks",
           "id": "masseffect",
           "name": "Mass Effect",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/masseffect.zip?checksum=8a0c174aa93f4450f9a2a4642bd0fb91"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/masseffect.zip?checksum=27ba1a21b718e395caa7b68b41e0fc65"
         }
       ]
     },
@@ -489,6 +489,48 @@
       "name": "LittleBigPlanet Mash-Up Pack",
       "description": "Explore the crazy and adventure-filled world of Sackboy!",
       "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip",
+      "downloadVariants": [
+        {
+          "id": "1_20_4",
+          "minVersion": "1.20.3",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_1",
+          "minVersion": "1.21",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_3",
+          "minVersion": "1.21.2",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_4",
+          "minVersion": "1.21.4",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_5",
+          "minVersion": "1.21.5",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "1_21_11",
+          "minVersion": "1.21.11",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "26_1_2",
+          "minVersion": "26.1.2",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        },
+        {
+          "id": "26_2",
+          "minVersion": "26.2",
+          "downloadURI": "https://cdn.modrinth.com/data/qY1XjpWz/versions/l04isase/LittleBigPlanet%20Mash-up.zip"
+        }
+      ],
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/preview_images/lbp_preview.png?checksum=123ec1874432e218c6307a57e08cac85",
       "resourceAlbumIconUrl": "resource_album_icons/littlebigplanet_mashup.png?checksum=4e19e47ebcf0cfd89e89b36e94a728d9",
       "worldTemplateIconUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/mashup_packs/world_icons/littlebigplanet_mashup.png?checksum=ea737b0a0de8f6c60ee4ccc737d35b9a",
@@ -506,7 +548,7 @@
           "categoryId": "skinpacks",
           "id": "littlebigplanet",
           "name": "LittleBigPlanet",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/littlebigplanet.zip?checksum=79af0bb5b894a589e5adeb05055c3deb"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/littlebigplanet.zip?checksum=dce25c193a7cf2ab58cf6ac3eea8bd0b"
         }
       ]
     },
@@ -574,7 +616,7 @@
           "categoryId": "skinpacks",
           "id": "halloween2015",
           "name": "Halloween 2015",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=4df4af7b0e550a4223c4e1997887afe1"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/halloween2015.zip?checksum=0dec933b118b408073c8c1cb0ee54931"
         }
       ]
     },
@@ -642,7 +684,7 @@
           "categoryId": "skinpacks",
           "id": "supermario",
           "name": "Super Mario",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supermario.zip?checksum=512f2c2f17fac3fbc52fe580f65ab57e"
+          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/supermario.zip?checksum=dfa378e59f090e3659f951f3996e483b"
         }
       ]
     }
