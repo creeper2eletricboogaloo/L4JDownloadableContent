@@ -49,6 +49,11 @@
         "id": "26_2",
         "minVersion": "26.2",
         "matchVersion": "26.2"
+      },
+      {
+        "id": "26_3",
+        "minVersion": "26.3",
+        "matchVersion": "26.3"
       }
     ],
     "baseExcludedGameVersionPatterns": [
